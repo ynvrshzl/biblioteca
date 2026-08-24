@@ -1,0 +1,1 @@
+antimatter in the void is essentially that which has manifested as "non-existence, swallowing what lives." Antimatter, can only exist in a vacuum.

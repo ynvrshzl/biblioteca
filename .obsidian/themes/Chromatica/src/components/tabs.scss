@@ -1,0 +1,53 @@
+body {
+    --tab-text-color-focused: var(--text-faint);
+	--tab-text-color-focused-highlighted: var(--text-on-accent-inverted);
+	
+    // style 0: default
+	--tab-background-active: var(--background-modifier-hover);
+	
+    // style 1: transparent
+	--tab-background-active: transparent;
+	
+    // style 2: solid accent
+	// --tab-text-color: var(--text-faint);
+	// --tab-text-color-active: var(--text-on-accent-inverted);
+	// --tab-text-color-focused-active: var(--text-on-accent-inverted);
+	// --tab-text-color-focused-active-current: var(--text-on-accent-inverted);
+	// --tab-background-active: var(--color-accent-1);
+}
+.mod-left-split .workspace-tab-header-container .workspace-tab-header.has-active-menu .workspace-tab-header-inner-icon, .mod-right-split .workspace-tab-header-container .workspace-tab-header.has-active-menu .workspace-tab-header-inner-icon, .mod-left-split .workspace-tab-header-container .workspace-tab-header.is-active .workspace-tab-header-inner-icon, .mod-right-split .workspace-tab-header-container .workspace-tab-header.is-active .workspace-tab-header-inner-icon
+{
+	--icon-color-focused: var(--text-on-accent-inverted);
+}
+
+
+.workspace-tab-header-inner-close-button
+{
+	--tab-text-color-focused-active: var(--color-red);
+	--tab-text-color-focused-active: var(--text-faint);
+}
+.workspace-tab-header-container .workspace-tab-header
+{
+	border-radius: 5px 5px 0 0;
+	border-bottom: 3px solid transparent;
+}
+.workspace-tab-header-container .workspace-tab-header.is-active
+{
+	border-bottom-color: var(--color-accent);
+}
+
+.is-focused .mod-active .workspace-tab-header.is-active .workspace-tab-header-inner-icon {
+	--tab-text-color-focused-active-current: var(--color-accent);
+	--tab-text-color-focused: var(--color-accent);
+	--tab-text-color-focused-active: var(--color-accent);
+}
+
+// @experimental tabs
+
+// .workspace-split.mod-vertical.mod-root > .workspace-tabs.mod-top
+// {
+// 	margin: 15px;
+// 	border-radius: 15px;
+// 	overflow: hidden;
+// 	outline: 5px solid blue;
+// }

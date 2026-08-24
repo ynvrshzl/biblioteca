@@ -1,0 +1,1 @@
+The primary objective of Kybernetics is to help me understand why some days are more stressful than others, and how to have more of those good days.

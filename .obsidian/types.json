@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "password": "text",
+    "case": "checkbox",
+    "days": "multitext",
+    "tested": "checkbox",
+    "refresh": "checkbox"
+  }
+}

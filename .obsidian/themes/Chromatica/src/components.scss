@@ -1,0 +1,19 @@
+@use "components/edit";
+@use "components/search-replace";
+@use "components/tabs";
+@use "components/sidebar-tabs";
+@use "components/file-explorer";
+@use "components/prompts";
+@use "components/menu";
+@use "components/callouts";
+@use "components/workspace-leaf";
+@use "components/workspace-leaf-auto-hide";
+
+.mod-root .workspace-leaf:hover
+{
+   // outline: 3px solid var(--color-accent-2); 
+}
+ .mod-root .workspace-leaf 
+ {
+   //  height: 100% !important;
+ }

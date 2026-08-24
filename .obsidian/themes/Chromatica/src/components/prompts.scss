@@ -1,0 +1,433 @@
+body {
+	--background-modifier-form-field-hover: transparent;
+}
+
+.suggestion-item {
+	--cursor: pointer;
+}
+
+/* helper icons for prompts/commands */
+.prompt:has(.prompt-input[placeholder*="find or create a note" i]) .suggestion-item::before {
+	/* display: block; */
+	content: "";
+	height: 1em;
+	width: 1em;
+	/* scale: 0.9; */
+	margin-right: 1em;
+	align-self: center;
+	mask-size: contain;
+	mask-repeat: no-repeat;
+	mask-position: center;
+	background-color: var(--text-faint);
+	mask-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXNlYXJjaC1pY29uIGx1Y2lkZS1zZWFyY2giPjxwYXRoIGQ9Im0yMSAyMS00LjM0LTQuMzQiLz48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI4Ii8+PC9zdmc+");
+}
+
+.prompt:has(.prompt-input[placeholder*="command" i]) .suggestion-item::before {
+	content: "";
+	height: 1em;
+	width: 1em;
+	align-self: center;
+	margin-right: 1em;
+	mask-size: contain;
+	mask-repeat: no-repeat;
+	mask-position: center;
+	background-color: var(--text-faint);
+	mask-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNoZXZyb24tcmlnaHQtaWNvbiBsdWNpZGUtY2hldnJvbi1yaWdodCI+PHBhdGggZD0ibTkgMTggNi02LTYtNiIvPjwvc3ZnPg==");
+}
+
+.suggestion-item.mod-complex .suggestion-highlight,
+.suggestion-item .suggestion-highlight,
+.suggestion-highlight {
+	font-weight: 500;
+	color: var(--suggestion-highlight)
+}
+
+.suggestion-highlight::before {
+	// content: "[";
+	// color: var(--text-faint);
+	// filter: invert(1);
+}
+
+.suggestion-highlight::after {
+	// content: "]";
+	// color: var(--text-faint);
+	// filter: invert(1);
+}
+
+.suggestion-highlight::before {
+	position: absolute;
+	// left: 30%;
+	transform: translate(0%, 100%);
+	// align-self: center;
+	color: var(--color-accent);
+	content: "^";
+
+}
+
+.suggestion-highlight::after {
+	position: absolute;
+	// display: block;
+	// justify-content: space-between;
+	// align-items: center;
+	// right: 50px;
+	transform: translate(-120%, 100%);
+	// align-self: center;
+	color: var(--color-accent-2);
+	content: "^";
+
+}
+.suggestion-title {
+
+	// background: var(--color-base-30);
+}
+.suggestion-item {
+	// outline: 1px solid var(--color-base-30);
+	// margin-block: 5px
+}
+.prompt:has(.suggestion-item .suggestion-highlight:nth-child(2)) .suggestion-highlight:nth-child(1){
+	background: var(--text-selection);
+	color: var(--color-accent-2);
+	background: var(--suggestion-highlight);
+	color: var(--text-on-accent);
+	// outline: 1px solid var(--color-accent);
+	// outline-offset: -1px;
+}
+.prompt:has(.suggestion-item .suggestion-highlight:nth-child(2)) .suggestion-highlight:not(:nth-child(1) )
+{
+
+	// text-decoration: underline;
+    // text-decoration-style: wavy;
+    // text-decoration-color: var(--color-accent-2);
+}
+// .prompt:has(.suggestion-item .suggestion-highlight:nth-child(2)) .suggestion-highlight:first-child {
+// 	background: color-mix(in srgb, var(--color-green) 25%, transparent);
+// 	color: var(--color-green)
+// }
+// .prompt:has(.suggestion-item .suggestion-highlight:nth-child(2)) .suggestion-highlight:last-child {
+// 	color: var(--color-red)
+// }
+body {
+	--suggestion-highlight: var(--color-accent);
+	--suggestion-item-normal-color: var(--text-muted);
+	--suggestion-font-size: 0.8em;
+	--suggestion-item-padding: .5em;
+	// --prompt-width: auto;
+}
+
+body {
+	--prompt-icon-default: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXRleHQtYWxpZ24tanVzdGlmeS1pY29uIGx1Y2lkZS10ZXh0LWFsaWduLWp1c3RpZnkiPjxwYXRoIGQ9Ik0zIDVoMTgiLz48cGF0aCBkPSJNMyAxMmgxOCIvPjxwYXRoIGQ9Ik0zIDE5aDE4Ii8+PC9zdmc+");
+	--prompt-icon-note: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXNlYXJjaC1pY29uIGx1Y2lkZS1zZWFyY2giPjxwYXRoIGQ9Im0yMSAyMS00LjM0LTQuMzQiLz48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI4Ii8+PC9zdmc+");
+	--prompt-icon-command: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNoZXZyb24tcmlnaHQtaWNvbiBsdWNpZGUtY2hldnJvbi1yaWdodCI+PHBhdGggZD0ibTkgMTggNi02LTYtNiIvPjwvc3ZnPg==");
+	--prompt-icon-web: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWVhcnRoLWljb24gbHVjaWRlLWVhcnRoIj48cGF0aCBkPSJNMjEuNTQgMTVIMTdhMiAyIDAgMCAwLTIgMnY0LjU0Ii8+PHBhdGggZD0iTTcgMy4zNFY1YTMgMyAwIDAgMCAzIDNhMiAyIDAgMCAxIDIgMmMwIDEuMS45IDIgMiAyYTIgMiAwIDAgMCAyLTJjMC0xLjEuOS0yIDItMmgzLjE3Ii8+PHBhdGggZD0iTTExIDIxLjk1VjE4YTIgMiAwIDAgMC0yLTJhMiAyIDAgMCAxLTItMnYtMWEyIDIgMCAwIDAtMi0ySDIuMDUiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==");
+	--prompt-icon-template: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNsaXBib2FyZC10eXBlLWljb24gbHVjaWRlLWNsaXBib2FyZC10eXBlIj48cmVjdCB3aWR0aD0iOCIgaGVpZ2h0PSI0IiB4PSI4IiB5PSIyIiByeD0iMSIgcnk9IjEiLz48cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDIiLz48cGF0aCBkPSJNOSAxMnYtMWg2djEiLz48cGF0aCBkPSJNMTEgMTdoMiIvPjxwYXRoIGQ9Ik0xMiAxMXY2Ii8+PC9zdmc+");
+	--prompt-icon-extract: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXNjaXNzb3JzLWljb24gbHVjaWRlLXNjaXNzb3JzIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMyIvPjxwYXRoIGQ9Ik04LjEyIDguMTIgMTIgMTIiLz48cGF0aCBkPSJNMjAgNCA4LjEyIDE1Ljg4Ii8+PGNpcmNsZSBjeD0iNiIgY3k9IjE4IiByPSIzIi8+PHBhdGggZD0iTTE0LjggMTQuOCAyMCAyMCIvPjwvc3ZnPg==");
+	--prompt-icon-folder: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWZvbGRlci1pY29uIGx1Y2lkZS1mb2xkZXIiPjxwYXRoIGQ9Ik0yMCAyMGEyIDIgMCAwIDAgMi0yVjhhMiAyIDAgMCAwLTItMmgtNy45YTIgMiAwIDAgMS0xLjY5LS45TDkuNiAzLjlBMiAyIDAgMCAwIDcuOTMgM0g0YTIgMiAwIDAgMC0yIDJ2MTNhMiAyIDAgMCAwIDIgMloiLz48L3N2Zz4=");
+	--prompt-icon-vault: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXZhdWx0LWljb24gbHVjaWRlLXZhdWx0Ij48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8+PGNpcmNsZSBjeD0iNy41IiBjeT0iNy41IiByPSIuNSIgZmlsbD0iY3VycmVudENvbG9yIi8+PHBhdGggZD0ibTcuOSA3LjkgMi43IDIuNyIvPjxjaXJjbGUgY3g9IjE2LjUiIGN5PSI3LjUiIHI9Ii41IiBmaWxsPSJjdXJyZW50Q29sb3IiLz48cGF0aCBkPSJtMTMuNCAxMC42IDIuNy0yLjciLz48Y2lyY2xlIGN4PSI3LjUiIGN5PSIxNi41IiByPSIuNSIgZmlsbD0iY3VycmVudENvbG9yIi8+PHBhdGggZD0ibTcuOSAxNi4xIDIuNy0yLjciLz48Y2lyY2xlIGN4PSIxNi41IiBjeT0iMTYuNSIgcj0iLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIvPjxwYXRoIGQ9Im0xMy40IDEzLjQgMi43IDIuNyIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiLz48L3N2Zz4=");
+
+}
+
+
+/* helper icons for prompts/commands */
+/* first we need to fix the padding on the input */
+input.prompt-input {
+	padding-inline-start: 0;
+	padding: 0px;
+	// height: 2em;
+	color: var(--color-accent);
+	// font-size: 2rem;
+}
+input.prompt-input:not(:placeholder-shown){
+}
+
+
+/* (*temproary) fix to align the prompt input icon and results together */
+.prompt-input-container {
+	padding-inline-start: 1em;
+}
+
+/* next we align the icons properly */
+
+/* here we set the icon settings for the input bar: (.prompt-input-container) and result items: (.suggestion-item) */
+.prompt:has(.prompt-input[placeholder]) .prompt-input-container::before,
+.prompt:has(.prompt-input[placeholder]) .suggestion-item::before {
+	content: " ";
+	display: inline-block;
+	height: 1em;
+	width: 1em;
+	vertical-align: middle;
+	align-self: center;
+	mask-size: contain;
+	mask-repeat: no-repeat;
+	mask-position: center;
+	background-color: var(--suggestion-highlight);
+	background-color: var(--text-faint);
+}
+
+// (*temporary) editing the position of the input icon, and the results
+.prompt:has(.prompt-input[placeholder]) .prompt-input-container::before {
+	margin-inline-end: 1rem;
+}
+
+.prompt:has(.prompt-input[placeholder]) .suggestion-item::before {
+	margin-inline-start: 5px;
+	margin-inline-end: 1em;
+}
+
+// @accessibility
+// increase readability of commands and search results that contain
+// a command title. where the default obsidian style is a single l ine,
+// by separating the command prefix, with the command content, we
+// increase accessibility
+.suggestion-prefix {
+	// display: block;
+	font-weight: 600;
+}
+
+.suggestion-prefix~span {
+	color: var(--text-muted);
+}
+
+/* set the icons to each class */
+.prompt:has(.prompt-input[placeholder]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-default);
+}
+
+.prompt:has(.prompt-input[placeholder*="web" i]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder*="web" i]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-web);
+}
+
+.prompt:has(.prompt-input[placeholder*="folder" i]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder*="folder" i]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-folder);
+}
+
+.prompt:has(.prompt-input[placeholder*="find or create a note" i]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder*="find or create a note" i]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-note);
+}
+
+.prompt:has(.prompt-input[placeholder*="command" i]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder*="command" i]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-command);
+}
+
+.prompt:has(.prompt-input[placeholder*="merge" i]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder*="merge" i]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-extract);
+}
+.prompt:has(.prompt-input[placeholder*="vault" i]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder*="vault" i]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-vault);
+}
+.prompt:has(.prompt-input[placeholder*="template" i]) .suggestion-item::before,
+.prompt:has(.prompt-input[placeholder*="template" i]) .prompt-input-container::before {
+	mask-image: var(--prompt-icon-template);
+}
+
+/* hide prompt resultas if there's no texrt input */
+.prompt:has(.prompt-input[placeholder*="find" i]):has(:placeholder-shown) .prompt-results,
+.prompt:has(.prompt-input[placeholder*="find" i]):has(:placeholder-shown) .prompt-instructions {
+	display: none;
+}
+
+.prompt:has(.prompt-input[placeholder*="find" i]):has(:placeholder-shown),
+.prompt:has(.prompt-input[placeholder*="search" i]):has(:placeholder-shown) {
+	border-radius: 50px;
+}
+
+
+// trying to make the modal readable in both light/dark mode, with a glassy bg...  it's pretty difficult! becuase the 'filter: invert' doesn't actually invert the text based on the modal background... it only inverts the nearest background...
+.suggestion-item {
+	// filter: invert(1);
+}
+
+//  pseudo fade in/out effect for modals, dialogs and prompts...
+@keyframes fade-in {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+@keyframes fade-out {
+	from {
+		opacity: 1;
+	}
+
+	to {
+		opacity: 0;
+	}
+}
+
+.modal-bg {
+	// opacity: 1 !important;
+	// opacity: 0 !important;
+	// cursor:not-allowed;
+}
+
+
+.prompt-input-container:has(:focus) {
+	// outline: 7px solid var(--text-selection);
+	// box-shadow: 0 0 0 2px var(--color-accent)
+}
+
+.prompt-input-container:not(:hover) .search-input-clear-button {
+	display: none;
+}
+
+.prompt {
+	// resize: both;
+}
+.prompt-input-container {
+	background-color: color-mix(in srgb, var(--color-base-35) 75%, transparent);
+	background: var(--background-primary);
+	display: flex;
+	flex-direction: row;
+	margin: 15px;
+	border-radius: inherit;
+	// border: 1px solid var(--divider-color);
+}
+
+
+// .prompt, .modal 
+.prompt .suggestion-item,
+.modal .suggestion-item {
+	font-size: 0.8em;
+}
+
+.prompt input::placeholder {
+	color: var(--text-faint);
+	// opacity: 1;
+}
+
+.prompt,
+.popover,
+.modal,
+.horizontal-tab-content,
+.vertical-tab-content {
+	
+	background-color: transparent;
+	background-color: var(--text-faint);
+	background-color: color-mix(in srgb, var(--color-base-30) 25%, transparent);
+	background-color: var(--background-modifier-hover);
+	background-color: color-mix(in srgb, var(--color-base-00) 75%, transparent);
+	backdrop-filter: blur(25px);
+	box-shadow: 0 5px 15px 0px var(--shadow);
+}
+
+body:has(.popover) .popover:last-child {
+	// backdrop-filter: blur(2) invert(1);
+	// outline: 3px solid;
+}
+
+
+
+@keyframes pop-in {
+	from {
+		transform: scale(.5);
+	}
+
+	to {
+		transform: scale(1);
+	}
+}
+
+body:has(.prompt) .prompt,
+body:has(.modal) .modal,
+body:has(.modal-bg) .modal-bg {
+	// animation: fade-in .1s linear;
+	// animation: pop-in .25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+// body:not(:has(.modal)),
+body:not(:has(.prompt)),
+body:not(:has(.modal-bg)) {
+	// animation: fade-in .3s linear;
+}
+
+
+.modal-bg {
+	--background-modifier-cover: transparent;
+}
+.suggestion-item {
+border-radius: 30px;
+}
+// experimental sub-text in suggestion items
+.prompt:has(.prompt-input[placeholder*="find or create a note" i]) .suggestion-item.mod-complex .suggestion-title::after {
+	content: "Markdown file";
+	display: block;
+	color: var(--color-base-50);	
+	font-size: .8em;
+}
+.prompt:has(.prompt-input[placeholder*="find or create a note" i]) .suggestion-item:has(.suggestion-flair[aria-label*="alias" i]) .suggestion-title::after {
+	display: none;
+}
+.prompt:has(.prompt-input[placeholder*="find or create a note" i]) .suggestion-item:has(.suggestion-flair[aria-label*="alias" i]) .suggestion-note::before {
+	content: "Alias of file ";
+	display: inline-block;
+	color: var(--color-base-50);	
+}
+.prompt:has(.prompt-input[placeholder*="folder" i]) .suggestion-item:not(.mod-complex)::after {
+	content: "Folder";
+	display: block;
+	color: var(--color-base-50);	
+	font-size: .8em;
+	margin-inline-start: 3em;
+}
+.prompt:has(.prompt-input[placeholder*="vault" i]) .suggestion-item::after {
+	content: "Vault";
+	display: block;
+	color: var(--color-base-50);	
+	font-size: .8em;
+	margin-inline-start: 3em;
+}
+.prompt:has(.prompt-input[placeholder*="command" i]) .suggestion-title::after {
+
+	content: "Command";
+	display: block;
+	color: var(--color-base-50);	
+	font-size: .8em;
+}
+.prompt:has(.prompt-input[placeholder*="template" i]) .suggestion-item::after {
+
+	content: "Template";
+	display: block;
+	color: var(--color-base-50);	
+	font-size: .8em;
+	margin-inline-start: 3em;
+}
+.suggestion-item:has(.suggestion-flair[aria-label*="Not created yet, select to create" i]) {
+	opacity: .5;
+}
+
+
+
+
+
+
+
+
+// these are inline search suggestions by typing "[["
+.app-container ~ .suggestion-container .suggestion-item{
+		font-size: 0.9em;
+		counter-increment: snth;
+}
+.app-container ~ .suggestion-container .suggestion-item::before {
+	content: counter(snth);
+	font-size: 0.8em;
+	color: var(--text-muted);
+	color: var(--text-faint);
+	// font-family: var(--font-monospace);
+	margin-inline-end: 1em;
+}
+.suggestion-item.mod-complex .suggestion-icon, .suggestion-item.mod-complex .suggestion-aux
+{
+	gap: 3px
+}
+
+

@@ -1,0 +1,258 @@
+/* cards */
+:root {
+    --cards-outline: 1px solid inherit;
+    --cards-min-width: 300px;
+    --cards-image-height: 100px;
+    --cards-image-width: 100%;
+    --cards-padding: 5px;
+    --cards-margins: 3px;
+    --cards-image-fit: cover;
+    --cards-shadow: 0 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.theme-dark {
+    --cards-background-color: var(--color-base-30);
+    --cards-outline: 1px solid var(--color-base-20);
+}
+.theme-light {
+    --cards-background-color: var(--background-primary);
+    // --cards-background-color-hover: var(--background-primary);
+    // --cards-outline: 1px solid var(--text-faint);
+}
+
+.cards.cards-1-1 table.dataview tbody tr td,
+.cards.cards-square table.dataview tbody tr td {
+    vertical-align: middle;
+    align-items: center;
+    align-self: center;
+    
+}
+.cards table.dataview tbody tr td {
+    // line-height: 1;
+    // margin-block: 0 !important;
+}
+.cards table.dataview tbody tr td .cm-iconize-icon {
+    // opacity: .5
+    color: var(--text-muted);
+    scale: .8
+}
+
+.cards table.dataview tbody {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+    grid-column-gap: var(--cards-margins);
+    grid-row-gap: var(--cards-margins);
+
+}
+
+// cards-auto will set each card image to it's auto-height, but not if there is only one card
+// this helps avoid overly large stretches of images in 100% reading width
+.cards.cards-auto table.dataview tbody:not(:has(> tr:only-child)) {
+    --cards-image-height: 100%;
+    --cards-image-width: 100%;
+    --cards-min-width: 150px;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+}
+
+.cards.cards-profiles table.dataview tbody {
+    --cards-min-width: 180px;
+    --cards-image-height: 100px;
+    --cards-image-width: 100px;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+}
+
+.cards.cards-profiles table.dataview tbody img {
+    --cards-outline-radius: 50%;
+}
+
+.cards.cards-xl table.dataview tbody {
+    --cards-min-width: 200px;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+    --cards-image-height: 210px;
+    --cards-margins: 0;
+}
+
+.cards.cards-square table.dataview tbody,
+.cards.cards-1-1 table.dataview tbody {
+    --cards-min-width: 220px;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+}
+
+.cards.cards-seamless table.dataview tbody {
+    --cards-margins: 0;
+    --cards-padding: 0;
+}
+
+.cards.cards-tall table.dataview {
+    --cards-min-width: 170px;
+    --cards-image-height: 235px;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+
+}
+
+// trying to highlight the actively selected card
+// so it's easier to tell which card is active
+// especially when selecting another window on the os
+.cards table.dataview>tbody>tr:has(:focus) {
+    outline: 1px dashed blue;
+    outline-color: var(--color-orange);
+    outline-offset: -1px;
+}
+
+.cards table.dataview>tbody>tr {
+    // transition: background-color .1s linear;
+    display: flex;
+    flex-direction: column;
+    margin: var(--cards-margins);
+    padding: var(--cards-padding);
+    border-radius: 10px;
+    background-color: var(--cards-background-color);
+    box-shadow: var(--cards-shadow);
+    outline: var(--cards-outline);
+}
+
+.cards table.dataview tbody>tr:has(img) a:only-of-type {
+    // display: block;
+}
+
+.cards table.dataview tbody>tr:has(img):hover {
+    // background-color: transparent;
+    // box-shadow: 0 5px 10px 5px rgba(0,0,0,0.2);
+    // outline: 1px solid var(--color-base-40);
+
+}
+
+// show the only image as a banner 
+.cards table.dataview tbody tr:only-child:has(img) {
+    // --cards-image-height: max(200px, 200px);
+}
+
+.cards table.dataview tbody>tr:has(img) {
+    // --cards-background-color: transparent;
+    // --cards-outline: none;
+    // --cards-shadow: 0;
+}
+
+.cards table.dataview tbody>tr>td img {
+    // aspect-ratio: var(--cards-aspect-ratio);
+    width: var(--cards-image-width);
+    height: var(--cards-image-height);
+    object-fit: var(--cards-image-fit);
+    // background-color: var(--background-secondary);
+}
+
+
+// only show a background color for the a table with a single card
+// .cards table.dataview tr:only-of-type,
+.cards table.dataview tr:hover {
+    background-color: var(--cards-background-color);
+    transform: scale(1.03);
+    // --cards-outline: 3px solid var(--color-base-25);
+}
+.cards table.dataview tr {
+    transition: transform .3s ease;
+}
+.cards table.dataview thead {
+    display: none;
+}
+
+// 100% width links for easier access
+// .cards table.dataview tbody>tr>td a:only-of-type
+// .cards table.dataview tbody>tr>td:nth-child(2) a,
+// .cards table.dataview tbody>tr>td:nth-child(1) a 
+// {
+//     display: block;
+// }
+
+/* make each text field an opaque color */
+.cards table.dataview tbody>tr>td {
+    overflow: visible;
+    color: var(--text-faint);
+}
+
+// masonry: cards.css extension which provides a pinterest-styled image board
+.cards.masonry table.dataview tbody:has(td:only-child img) {
+    --ratio: 200px;
+    --cards-image-height: var(--ratio);
+    --cards-padding: 1px;
+    --cards-min-width: var(--ratio);
+    --cards-margins: 0;
+    // filter: grayscale(1);
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+}
+
+.cards.masonry table.dataview tbody:has(td:only-child img) td {
+    // aspect-ratio: 1/1;
+    padding: var(--cards-padding);
+    padding: 5px;
+    // padding: 0;
+    line-height: 0; // remove line height becuase it adds a wierd extra space to each cell
+}
+
+.cards.masonry img {
+    transition: filter .1s linear;
+}
+
+// when the current image is being hovered, fade out all of the other images
+.cards.masonry tbody:has(img:hover) img:not(:hover) {
+    filter: opacity(0.5);
+}
+
+.cards.masonry img:hover {
+    filter: none;
+}
+
+// .cards.masonry img:active 
+// {
+//     transform: scale(1.8);
+// }
+// .cards.masonry tr:has(img:active )
+// {
+//     z-index: 9999;
+
+// }
+
+
+
+// trying to set the banner image as a background
+// pretty difficult!
+// .cards table.dataview tbody:has(td img)
+// {
+//     position: relative;
+// }
+// .cards table.dataview tbody > tr > td:has(img)
+// {
+//     position: absolute;
+//     top: 0;
+// }
+
+.cards.cards-300px table.dataview tbody {
+    --cards-min-width: 300px;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+    --cards-image-height: auto;
+}
+
+.cards table.dataview tbody tr td:not(:has(img)) {
+    max-height: 80px;
+    overflow-y: auto;
+
+}
+
+
+// scrollable cards like https://apple.com but only for card queries with multiple items.
+
+.cards table.dataview tbody:has(tr:nth-child(2)) {
+    // background-color: red;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
+    grid-column-gap: var(--cards-margins);
+    grid-row-gap: var(--cards-margins);
+    
+    grid-auto-flow: column;    /* Force items to flow left to right in a single row */
+    grid-auto-columns: minmax(var(--cards-min-width), 1fr);
+    
+}
+
+// .cards table.dataview tbody:has(tr:nth-child(2)) ::-webkit-scrollbar {
+//     background: red !important;
+// }    

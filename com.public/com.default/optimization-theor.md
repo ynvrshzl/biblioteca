@@ -1,0 +1,3 @@
+The only cases where optimization (automation, abstraction, reduction, simplification, extension, correction, analysis, etc.) are justified, is one of few; when the loss of finite resources are consumed by the non-finite.
+
+This is a useful rule of thumb for when battling analysis-paralysis; information overload. "Do I optimize this? Only so far as it allows the thing to move forward where it cannot otherwise." In other words, optimization  is investment into the future, sacrifice now. This is only justified, as far...

@@ -1,0 +1,52 @@
+
+.table-view-table>thead>tr>th {
+    border: 0;
+    font-weight: 500;
+    font-size: smaller;
+    color: var(--text-faint);
+}
+
+.cm-html-embed td,
+.markdown-rendered td,
+.cm-html-embed th,
+.markdown-rendered th {
+    font-size: smaller;
+}
+
+body {
+    // --table-row-alt-background-hover: var(--background-modifier-hover);
+    // --table-row-background-hover: var(--background-modifier-hover);
+}
+
+.cm-html-embed table tr,
+.markdown-rendered table tr {
+    // cursor: crosshair
+}
+.cm-html-embed table td,
+.markdown-rendered table td
+{
+    vertical-align: middle;
+}
+.cm-html-embed table,
+.markdown-rendered table {
+    // line-height: 1;
+}
+// remove list bullet points from tables
+table li {
+    list-style: none;
+    margin: 0 !important;
+}
+body
+{
+    --table-column-min-width: 1ch;
+    // --table-row-background-hover: var(--background-modifier-hover);
+    // --table-row-alt-background-hover: var(--background-modifier-hover);
+}
+.table-view-table, table
+{
+    // width: fit-content;
+}
+// .table-view-table > tbody > tr
+// {
+//     border-radius: 15px;
+// }

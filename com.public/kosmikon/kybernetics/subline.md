@@ -1,0 +1,1 @@
+Kybernetics captures the Axioetheos heart of study by this phrase "For no system was designed to execute without ordre, and no creature, born to wander aimlessly."

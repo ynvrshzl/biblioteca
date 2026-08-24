@@ -1,0 +1,23 @@
+body {
+	--callout-padding: 0 1.5em;
+}
+.callout.is-collapsed:not(:hover) .callout-title {
+	color: var(--text-faint);
+}
+
+.callout {
+	background-color: transparent;
+	border-inline-start: 3px solid rgba(var(--callout-color), .3);
+}
+
+.callout:not(.is-collapsed) .callout-fold {
+	color: rgba(var(--callout-color), 1);
+}
+
+.callout.is-collapsed:not(:hover) {
+	border-inline-start-color: transparent;
+}
+.callout-title:hover,
+.callout:hover {
+	color: rgba(var(--callout-color), 1);
+}

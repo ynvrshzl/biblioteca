@@ -1,0 +1,1 @@
+Physiotics, Psyclics, Psynetics, Physioptics, Physchonetrics, Psymatics, Psyotics

@@ -1,0 +1,1 @@
+Proposition: External and internal system. Meaning or utility is found at the edge between these spaces. A form of interface, transformation, exchange.

@@ -1,0 +1,2 @@
+### Motivation 
+The motivation behind this project is historically clear; the wiki project became a disorganized, over-engineered, complex space for knowledge work. This re-design attempts to address the primary issue; __accessibility.__ 

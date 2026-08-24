@@ -1,0 +1,15 @@
+{
+  "showRibbon": false,
+  "accentColor": "#279400",
+  "cssTheme": "Chromatica",
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "",
+  "theme": "system",
+  "autoFullScreen": false,
+  "floatingNavigation": false,
+  "slidingSidebar": false,
+  "textFontFamily": ""
+}

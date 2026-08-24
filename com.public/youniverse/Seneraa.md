@@ -1,0 +1,3 @@
+Serena's life story is a study on love of a mother, of a caregiver, almost like a female christ, a crucifixion... 
+
+Serena's life story is deeply tied to my own experience with overwhelming empathy, an overwhelming love for people and life. one of the hardest things to understand about love is that you cannot save everyone, and you surely cannot change the world, at least on your own. that may feel completely futile, as if you may never change anything, and suffering and pain and evil just persist. but perhaps it is the small seeds of change that keep the world from falling apart. a small song, a quote, a smile, tiny fragments of Life can save life.
