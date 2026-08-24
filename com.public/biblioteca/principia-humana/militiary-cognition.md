@@ -13,4 +13,10 @@ What is the difference between a fact and an opinon? An idea and an isomorph?
 
 The very nature of ideas demands of the utmost surgical precision by the fragility of the human psyche; powerful ideas have the potential to destroy or create, we must therefore treat our thinking, not as a factory of production; but as a blacksmith of relentless forging. To strike problems or intellectual labrynths, with the full capacity fo our cognitive military. 
 
-Just as we must 
+Just as we must stretch, and push, and pull, and challenge, .... this hydraulic pressing, molten heat, the fire which burns but shapes and purifies, the more stubborn a material, the hotter... then perhaps, what if the applies to me, as a human being, at some high-dimensional level? 
+
+Suffering, then, is not in vain, and all situations are for the shaping of one's character.
+
+Then one may naturally ask "if suffering can be justified, somewhat, for the shaping of one's character, why does character matter? Why must it be this way?"
+
+Just by the very laws of physics; things do not change on their own. No force is self-acting, not least, what we can study by physical means.

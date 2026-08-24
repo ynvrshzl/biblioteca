@@ -1,3 +1,8 @@
+---
+revision: 0.1.0
+class: public-speech
+---
+
 "We construct worlds. This power is not arbitrary."
 
 When I was at my most clinically depressed, I can almost describe the phenomenological suffocation as something like "a cry for another life... another world, but a cry for all that is beautiful and lovely and good and true." I don't believe it is naive to hope for beauty, moreover; let it be naive. We are not as God, knowing all things, and capable of all things. The human psyche is immensely complex, fragile, and paradoxically resillient.
