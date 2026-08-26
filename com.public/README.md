@@ -1,3 +1,4 @@
 "Biblioteca Universalis, Kosmologia et Vita"
 
-[Kybernetics]() is the study of...
+```dataview
+```
