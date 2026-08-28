@@ -1,0 +1,5 @@
+One of the reasons technology is so pervasive is becuase a stable Physiodome is influenced deeply by phenomena; the internal habitat. This is influeced by stimuli of all kinds, from imagination, to sound, to imagery, to intellectual material. All of these materials linger in the psyche and have a very real lasting impression on the self. Self-examination; I remember videos and imagery I have watched years ago. Yet they remain in the deep waters of the subconscious.
+
+The natural world contains ... and I experience a breath of fresh air when...
+
+In the same light however, technology can be used for good; videos of natural parks, video games, and building "an internal world of ..." is essentially what keeps me stable so I don't absolutely lose my mind sitting infront of a computer for hours every day; and I mean that. It's one of the most serious things I study.
