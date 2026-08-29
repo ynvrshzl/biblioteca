@@ -1,0 +1,8 @@
+- __"Equillibria"__ i.e., "Chaos" vs. "Order"
+- __"Tangiality"__ i.e., "Non-linearity" or "Linearity"
+- __"Synergism"__ i.e., "Multiplicative exponentiation", "Logarithmic or Proportional rate" or "..."
+- __"Finitude"__ i.e., "Non-finite" or "Finite"
+- __"Deterministicality"__ i.e., "Teleological" or "Automatau"
+- __"Spatiality"__ i.e., 
+- "Cyclicality", i.e., "Once" or "Lifecycle"
+- "Directionality", i.e., "Forward", "Backtracing" and "Interpolation"

@@ -1,0 +1,1 @@
+The self is something like... only the horizon between these stratospheres of being.

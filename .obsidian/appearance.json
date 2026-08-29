@@ -1,6 +1,6 @@
 {
   "showRibbon": true,
-  "accentColor": "#ffffff",
+  "accentColor": "#000000",
   "cssTheme": "Chromatica",
   "baseFontSizeAction": false,
   "baseFontSize": 16,

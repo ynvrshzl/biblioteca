@@ -4,7 +4,7 @@ Information is, as far as we are phenomenollogically concerned; indefinitely inf
 ## Proposition 2: Classification is also indefinite
 Naturally, if we cannot process all informationCategorization is our general instinct as people, to classify and map attributes of a whole, we cannot comprehend otherwise. In other words, we map the structural qualities of phenomena and ideas.
 
-This however, is merely the same problem in sheeps clothing; analysis can quickly tilt towards [indefinite-intellectualism](Default/theta/indefinite-intellectualism.md) if classification becomes circular or self-referrential.
+This however, is merely the same problem in sheeps clothing; analysis can quickly tilt towards [INDEFINITE-INTELLECTUALISM](PUBLIC/E700-BIBLIOTECA/PRINCIPIA-HUMANA/INDEFINITE-INTELLECTUALISM.md) if classification becomes circular or self-referrential.
 
 ## Examples in the real world
 What are mediums where this claim is tangible?

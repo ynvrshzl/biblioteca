@@ -11,7 +11,7 @@ It is relieving to understand; my condition can be mapped. I am not an orphan li
 
 Internally, some of us are more in-depth with the inner physiology, the inner imagination than others. "Introversion."
 
-But you  may find it extraordinarily difficult - perhaps even impossible at times - to communicate what you are seeing, hearing, imagining, or working through, in your inner clockwork of psyche imagination. This is where I propose two models: [PHYSIOSPHERIC-OPTIMA](PUBLIC/E100-KOSMOKON/20-PHYSIODOME-THEORY/PHYSIOSPHERIC-OPTIMA.md), and The [Mikrokosmos Theory](#)
+But you  may find it extraordinarily difficult - perhaps even impossible at times - to communicate what you are seeing, hearing, imagining, or working through, in your inner clockwork of psyche imagination. This is where I propose two models: [PHYSIOSPHERIC-OPTIMA](PUBLIC/E100-KOSMOKON/20-PHYSIOBIOTA/PHYSIOSPHERIC-OPTIMA.md), and The [Mikrokosmos Theory](#)
 
 The Mikrokosmos Theory coonceptualizes human interversion as spectrum. It emphasizes the introversion scale of the "primary five psychology traits" as the "micro-cosmos" is a phenomenon of individual and societal...
 

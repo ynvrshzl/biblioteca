@@ -5,7 +5,7 @@ At the time of developing these ideas, even before it emerged into a field, I wa
 
 This led to the eventual formal study of these ideas... eventually realizing the story form was our natural habitat
 
-[Goal](PUBLIC/E100-KOSMOKON/10-KYBERNAUTICS/goal.md)
+[Goal](PUBLIC/E100-KOSMOKON/10-KYBERNAUTICS/PURPOSE.md)
 
 The primary argument or central object axiom of bedrock of Kybernetics is that information is structural. This means it can be approached through engineering principles, but it can also be modelled mathematically, using a specialized form of grammar [grammar](PUBLIC/E100-KOSMOKON/90-METRONOMICS/README.md)
 
