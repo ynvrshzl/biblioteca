@@ -1,0 +1,1 @@
+An elderly man, with white hair

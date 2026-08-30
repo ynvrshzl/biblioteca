@@ -1,0 +1,5 @@
+*I earsed my memories, and created a safe & happy childhood.*
+
+"When I was a child, I used to feel so happy. I hated people. I hated the world. But I found my place with animals. They are so similar to us... and yet... they feel more human than humans. My favorites were the butterflies in my childhood garden. I used to imagine myself with lot's of friends, and we would spend all our days in picnics. I gave myself friends, Hazl, Lily, Lee and Mei. We were the best trouble squad the city had ever seen! It was all in my imagination, and yet, they felt so real to me. It's thanks to those characters that I chose not to kill myself. I was miserable. But with them, I had a second chance at life. I saw how free the butterflies were. They only live for a few weeks... some a few days."
+Aries and her imaginary friends had adventures... there, it was when Aries imagined her adult self... she was... beyond beautiful. She couldn't bleieve that someday, that would be her... so feminine, so graceful... so... sisterly.
+"I have a friend... I used to want to die... but now... I've made friends with him... death... he's not so scary... and I want him alive so I can hug him!"

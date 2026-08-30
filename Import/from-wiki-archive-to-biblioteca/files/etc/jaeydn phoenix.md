@@ -1,0 +1,1 @@
+Jaeydn's spirit-animal is the Phoenix, an immortal fury of fire that is reborn with every death of itself. Given he has the discipline to cure his wrath.

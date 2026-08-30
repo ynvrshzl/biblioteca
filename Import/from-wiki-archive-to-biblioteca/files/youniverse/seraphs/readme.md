@@ -1,0 +1,1 @@
+The Seraphs of the high heavens are beings of pure light and divinity. They are Archael, Kalyndra, Kythael

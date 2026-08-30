@@ -1,0 +1,1 @@
+Use dataview instead of the file tree explorer, as it get's extremely cognitive taxing. Possibly even developing a plugin to solve thias issue.

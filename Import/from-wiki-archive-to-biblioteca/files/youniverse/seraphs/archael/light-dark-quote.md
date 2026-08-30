@@ -1,0 +1,1 @@
+_"In a room of a thousand shadows, one bulb of light is enough. in a room of a thousand bulbs, one shadow is nothing. The shadow operates through numbers, the light operates by being. Are you an agent of light?"_

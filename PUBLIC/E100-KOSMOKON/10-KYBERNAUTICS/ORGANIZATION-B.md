@@ -10,6 +10,6 @@ Organization can express two Ontologies; Organization as action, and Organizatio
 
 Using computation for organization reveals the true challenge of navigation: Organizing is not merely putting things into place; 
 
-Automation and Abstraction reveal this at the mechanical, dynamic level.
+The organizing functions of **Automation and Abstraction** reveal the components of Organization, at the mechanical, computational level. **Templates and Formats** are evolutionary dynamics of these organizing functions. **Hierarchies and Information structures** are... **Categories and Toplogies** are...
 
 The fascinating aspect of Organization is it's interaction and dependency of time; History organizes events across time, as they unfold. This reveals the cause and effect between things. [Read more here](PUBLIC/E100-KOSMOKON/10-KYBERNAUTICS/HISTORY-AND-CAUSALITY.md)

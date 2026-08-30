@@ -1,0 +1,8 @@
+Examples of virtual systems for human life 
+
+Bad:
+- Skills/
+    - Learning Neovim
+    - Learning Git
+
+While these may seem useful parts of human life, to externalize systematically, we end up with a phenomenon; "information resolution overload."  Instead of micro-managing parts of our lives, we should prioritize information that is nacho

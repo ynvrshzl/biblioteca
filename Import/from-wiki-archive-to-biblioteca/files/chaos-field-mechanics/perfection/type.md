@@ -1,0 +1,1 @@
+Defining the kind of problem that is Perfection. As a problem of **agency and ability**. Perfection does not inherently describe a problem of **quality**, as it is understood clasically.

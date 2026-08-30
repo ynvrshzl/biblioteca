@@ -1,0 +1,1 @@
+there is a story in the universe, essentially there are people who withstand suffering, so the scientists can research the answer to life. The more they suffer, the more they upgrade and update their consciousness. It's very synonymous to what we may experience as trials during this life.

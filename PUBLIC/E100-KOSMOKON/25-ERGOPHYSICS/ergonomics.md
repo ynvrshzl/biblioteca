@@ -3,6 +3,8 @@ state: 1
 ---
 
 # Ergonomics
+Ergonomics asks "at what point is my current strategy, requiring extra effort, without return?" The proceeding ... is "What are local strategies we can implement to reduce the friction between input, process and output?"
+
 There is an ergonomic strategy to learn and approach many aspects of everyday life.
 
 [Ergo vs. Intuit](PUBLIC/E100-KOSMOKON/25-ERGOPHYSICS/intuition.md)

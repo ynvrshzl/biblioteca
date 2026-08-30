@@ -1,0 +1,3 @@
+The core thesis of this field is: *"Current technological systems are powerful for expression, and volatile for reading."*
+
+This creates what is known as [Fragmented Cohesion]() which is the worst possible state for a non-linear system. It feels powerful to code, but re-reading a system becomes triple the weight that it would take, in order to visually cognitive simulate state, transitions, transformation, and system emergence.

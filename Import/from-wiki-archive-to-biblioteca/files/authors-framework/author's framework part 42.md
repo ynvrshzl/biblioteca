@@ -1,0 +1,2 @@
+- the strongest form of stories is visual Plus audio. 
+- the base form of a story, is independent of substrate. the smallest version of a workable movie, is music + literature. 

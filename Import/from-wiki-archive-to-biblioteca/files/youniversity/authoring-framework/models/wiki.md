@@ -1,0 +1,1 @@
+The purpose of a wiki system, is not to understand, rather, to archive a living system of knowledge.

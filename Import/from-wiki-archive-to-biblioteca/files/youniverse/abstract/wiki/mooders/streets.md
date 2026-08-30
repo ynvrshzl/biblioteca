@@ -1,0 +1,7 @@
+the streets of Lost angeles, neo italy, and the general inner domains fear of the city, is said to be so magical, people live almost in a completely different world. and yet, it doesn't take very many steps to realize, the world outside has become a radioactive toxic garbage compost. 
+
+regardless of the incredible advances in human technology, from within the domain spheres, the world outside remains an ever-increasing exhaustion of life. and yet, life persists. this is perhaps part of the original Royal family/muter design. the prophet/ pledge. he understood in his "Consortium lexica" that human nature was difficult to structure. he was not intentionally nihilistic or cynical, but he realized that to preserve human life, monarchy would always emerge. human life was far too precious and sacred, to simply let be.
+
+"we must design a world in which, only the very capable are allowed to thrive, and the rest, will be as exhaustions of life." this is when radical ideas started emerging in the City Royal walls. and even when humanity was just rebuilding stability, monarchy found itself again. history repeating all over again. the scientists and philosophers realize something philosophically devastating, "history repeats itself. everything that is natural is tied to a cycle."
+
+the only logical outcome, would be to structure everything as if it were a cycle. if they could could not control the laws of nature, they would bound the laws. this is why almost everything in the city is circular, cyclical.

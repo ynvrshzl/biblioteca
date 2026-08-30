@@ -1,0 +1,1 @@
+Hypothesis -_"Perfection cannot exist in a system with 🧨 unknown variables and 🧨 dynamic, unpredictable change."_

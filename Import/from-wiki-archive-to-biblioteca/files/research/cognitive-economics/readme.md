@@ -1,0 +1,9 @@
+- Time
+- Energy 
+- Attention 
+- Effort
+- Ability 
+- Autonomy
+- Memory
+- Problem-solving 
+- Creativity 

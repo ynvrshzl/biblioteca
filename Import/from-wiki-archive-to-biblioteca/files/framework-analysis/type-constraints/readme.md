@@ -1,0 +1,1 @@
+type constraints (e.g., interaction constraint (action buttons instead of commands), style options (palette instead of color box) etc)

@@ -1,0 +1,3 @@
+- **Tolerance:** Importance can become a burden when there is an overflow of possibility vs. actionability. We have a threshold of meaning, as human beings, there is only _so_ much we can carry.
+- The schedule is a principle tool of authoring & importance
+- We determine what is important based on **what is worth allocating energy to.** 

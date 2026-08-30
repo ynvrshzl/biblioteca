@@ -1,0 +1,1 @@
+**Hypothetical principle:** A story is history, wether it is fictional or accurate. Arguably, a story is fundamentally time-driven, all story is history.

@@ -1,0 +1,1 @@
+The implications of this study/class/field/theory is applicable to all aspects of the human life. The ability to [learn](learning.md) is a life-long ability, why not learn how we learn? **Now that's meta.**

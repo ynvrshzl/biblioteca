@@ -1,0 +1,1 @@
+Elisa-beth at her piano... "Show me your secrets... what do you hold?" She's basically talking about how the piano holds infinite/unknown possibility. The piano is her favorite instrument and expression tool. 

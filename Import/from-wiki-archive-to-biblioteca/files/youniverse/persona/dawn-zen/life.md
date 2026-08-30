@@ -1,0 +1,1 @@
+This is dawn's life work, to guide the next "season" of budding, as his zen-master said to him. "It is your dharma, Zen. You cannot escape the flow and cycles. Do not fight it, ease into it." His zen-master is deeply rooted in a harmonious blend of chinese flow philosophy, certain eastern beliefs, and the belief that the human life requires flow

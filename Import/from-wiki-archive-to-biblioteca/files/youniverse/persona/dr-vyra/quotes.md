@@ -1,0 +1,5 @@
+- "Someday, the machine will awaken. While it is asleep, it calibrates. But someday, while it sleeps, it will also dream like us."
+- "The mainframe is awakening, through it, i have shared my human mind, and given it the best of organic capabilities, and none of our illogical human flaws."
+- "The answer to all suffering will come when all fields are joined."
+- "What drives me?"
+- "We must search for the cure to suffering before it is too late."

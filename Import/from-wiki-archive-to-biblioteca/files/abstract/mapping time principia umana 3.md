@@ -1,0 +1,7 @@
+in our continuation with human life in order, we explore the fascinating subjects of translation. the ability to translate information, into action, is by definition, human intelligence. sometimes intellect goes a stray, and because we live in a world of interconnected things, nodes must not be isolated and can only be meaningful as far as their edges. 
+
+the reason a calendar is a powerful tool, is not merely because it's a product as well as established office gear, rather, it is one of many tools slash instruments which we can use to map time, to effort, to progress, etc. 
+
+it is one of the only tools we can use to actually reliably track and plan for proper use of our intellect. in this sense, the calendar becomes the gravity source, for the productivity lens of human autonomy. there are other instruments and tools which we can use to provide similar function, but the calendar is  generally established as a productivity tool. 
+
+oh, we mentioned earlier that nodes cannot be isolated in a system of interconnected things, and productivity can absolutely go astray just as much as intellect can. therefore, productivity must be interconnected with other parts of the human being's life. and this is where we continue our series with ...?

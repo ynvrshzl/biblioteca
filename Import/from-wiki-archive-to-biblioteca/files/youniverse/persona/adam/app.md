@@ -1,0 +1,3 @@
+Visual description: skinny, tall, attractive, young, athletic. Nerdy exterior, with razor-sharp intellect. Usually wearing a formal office white dress shirt, with his glasses slipping from the tip of his nose. The way he loosely wears his clothing, emphasizes his deceptively novice appearance. 
+
+He may seem like he's "lost in his own head' but underneath his quiet self, he's training to become a razor-sharp intelligent agent.

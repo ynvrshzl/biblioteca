@@ -1,0 +1,2 @@
+# Scene-shift
+The scene change is a technique in which, the viewer is at the edge of exhaustive ?? and the scene suddently changes to maintain momentum. It is a classic and powerful technique becuase it keeps the attention refreshed

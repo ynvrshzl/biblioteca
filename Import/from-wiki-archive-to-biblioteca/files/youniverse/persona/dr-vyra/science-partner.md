@@ -1,0 +1,5 @@
+Veyra and her science partner, **Etho.** 
+
+It's a machine she built. She basically created a virtual assistant becuase she felt so deeply isolated and detached from human beings... she questioned if she was becoming cyborg... or merging with machines... _"her  native language."_
+
+"The mainframe is awakening, through it, i have shared my human mind, and given it the best of organic capabilities, and none of our illogical human flaws. But Vayne! Perhaps our human flaws are what make us better than machines. Becuase not only can we process, but we can protect. We can feel. Yeah? We can also destroy and harm. I don't think you want that huh? Relax Vayne, i'm just pecking at ya' Besides, you know what they say about the chimpanzee's and the bonobos! *Veyra rolls her eyes.* One likes sex, the other wants to wreck it all! Man that isn't funny. Plus, you forgot about Orangutans. Oh! Orangus, I love orangus!"

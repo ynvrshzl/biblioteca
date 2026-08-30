@@ -1,0 +1,15 @@
+{
+  "accentColor": "#710073",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "cards"
+  ],
+  "baseFontSize": 16,
+  "cssTheme": "obsidian-enhanced",
+  "floatingNavigation": false,
+  "slidingSidebar": false,
+  "autoFullScreen": true
+}

@@ -1,0 +1,1 @@
+when should I push myself, and when should I rest? This is a very odd problem which does not seem to be clearly defined

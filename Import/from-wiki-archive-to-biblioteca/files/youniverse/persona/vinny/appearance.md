@@ -1,0 +1,1 @@
+he commonly wears bandages across his face, usually a bandaid on his cheek. (inspired by james of cortis kpop group!)

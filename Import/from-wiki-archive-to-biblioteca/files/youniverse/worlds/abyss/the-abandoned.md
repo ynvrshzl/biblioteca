@@ -1,0 +1,3 @@
+When a creative person is at their flow, they are creating at an incredible speed. But this comes at a cost: forgotten, often, abandoned works of art. It can feel like the creative person has left so many things behind, so many unseen works of art, songs that will never be sung, paintings that will never see the light of day, dreams, that will never exist.
+
+> _"These abandoned things become entities of their own, fueled by the misery you caused them, you never gave them the time they needed to come to life... they refuse to die... they are like us... they will haunt us..."_
