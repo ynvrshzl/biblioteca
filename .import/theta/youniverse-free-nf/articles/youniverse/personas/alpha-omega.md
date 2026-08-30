@@ -1,0 +1,1 @@
+The Alpha & Omega are twin wolves, that follow [Dawn Zen]() inside his [Spirit abyss.]()

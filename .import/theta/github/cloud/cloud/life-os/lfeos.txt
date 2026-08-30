@@ -1,0 +1,3 @@
+we've been thinking a lot about life OS and how essentially the complex nature of our Network graph is made humanly understandable through our somatic approach, and that's exactly our idea for Life OS, to make the computer as natural an environment as possible for the human nervous system.
+
+and we'll do that by treating the architecture as parts of the human body. and hopefully that helps us to solve the core problems that each human sense is overloaded with, due to modern operating systems neglecting the health of the human being.

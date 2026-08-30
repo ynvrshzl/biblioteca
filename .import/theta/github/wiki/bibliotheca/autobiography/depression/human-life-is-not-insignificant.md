@@ -1,0 +1,12 @@
+I used to think my life was insignificant. that I was just like a grain of sand in a beach. there are millions of other grains of sand why would anyone notice if I was gone? why would it matter if I was gone? I often thought that my life was insignificant even to the people that said they loved me. after seeing the aftermath of someone ending their life, I realize that all it takes is a one person to die tragically, and you are changed forever and you can never recover. 
+
+the way I discovered this was by observing in real life what happens to people when they end their life. nobody knows what happens after death, but I know what happens to the people who are left behind. part of you is completely destroyed. it will never come back. part of you left with that person. that is not something you heal from it's not something you can recover from, it's something you can try to accept and honor that person's memory with dignity. but once you're gone there's no bringing a person back. 
+
+the life of a human being itself is the most precious thing that they will ever have. this is why the connection to the self the way you treat yourself in life, literally shapes your perception of reality.
+
+I often thought that I'm just like another grain of sand in someone's life that I'll be forgotten anyways, those aren't the people that really loved me. if you really love someone their death will completely destroy part of you. it isn't because love is painful, it's that death is painful. and the person is gone and you can't love them anymore. all you have is a memory of them.
+
+but what if you don't love anyone in this life. or what if you have no family or friends? what if you really are all alone in this life. even then you never knew if you could have had a family in the future if you could have broken the generational curses in your blood. you could have had someone that loves you. you don't know how much that means until you have it. 
+
+
+ you could take the coldest psychopath that feels nothing inside, and isolate them. and scientific research shows that even the most antisocial person needs to be around people. whether you want to or not human beings are a fundamental part of what gives life its meaning to us. without each other we really are just grains of sand, but just having another person that loves you you are the entire ocean to them.

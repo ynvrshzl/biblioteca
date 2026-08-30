@@ -1,0 +1,1 @@
+We heal best when we do the things that we enjoy and allow us to express ourselves fully. I am fortunate enough to enjoy all kinds of art and that is what has saved my life. However, ~~only you can prevent forest fires~~ you can find what let's you fully express yourself. If you don't know where to start, the Youniversity itself has great areas:

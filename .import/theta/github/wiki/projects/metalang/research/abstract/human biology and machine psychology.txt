@@ -1,0 +1,20 @@
+the layer between the human and the machine
+
+hey gpt :)
+so essentially we realized why programming is even possible for human beings: becusae it's a language that abstracts impossible details, into high-level representations.
+
+and it's paradoxical, becuase most of programming is abstraction... but that's never taught or even visible in classical, traditional CS...
+
+so... the language is itself less of a language... and more of a... expression tool,  a translation layer to turn our abstract, often messy human thoughts, concepts and problems, into computational ideas... which then get treated as instructions for a machine...
+
+this is the fundamental idea of a turing-machine... how fundamental must a system be, in order for it to be practically useful in solving problems?
+
+that's a very tricky question... becuase we express those problems as computational representations first... so it's always a back and forth between the human biology abstract world of things and enviornments, and the perfect logical order of the machine...
+
+i think writing metalanguage with these core ideas is really important... becuase we're trying to make the translation clear... it's no longer about designing a new way to program... it's designing how you think about programming... and that actually comes from our own experience... that's the only reason we fell in love with engineering, and now we're creating a very complex website with difficult systems and architecture all on our own :)
+
+and it's not for complexity's sake... but rather, we have the real world necessities to express and share... and the website powers an enviornement for that...
+
+the biggest issue isn't necssarily writing the code or translating a problem today into an algorithim... but rather... how can we create a system that harmonizes the biology of the human and the logic of a machine? what are those missing layers in-between that programming has forgotten? that's how we're approaching building this language :) and it's so fun! keep it playful cause that's how you keep a mad-scientist from burning up the laboratory!!
+
+in essence, most of what a programmer is doing, is translating forms of data, into other forms that are more understandable. this is because of our human nature and our necessity for objects and concepts that we can hold, rather than strict logical data without identity.

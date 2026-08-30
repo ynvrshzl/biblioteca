@@ -1,0 +1,1 @@
+Renee was first traumatized by what he saw.

@@ -1,0 +1,1 @@
+Elizabeth has a fashion style and a palette very inspired by 2b from n e i r - a u t o m a t a

@@ -1,0 +1,1 @@
+Yeongsaeong do not allow themselves to speak, becuase according to an anonymous member: "as soon as we use words, it seaparates us. we speak with our music instead... we let the music do the talking and all of us join together... and that's what makes us stronger than any other team."

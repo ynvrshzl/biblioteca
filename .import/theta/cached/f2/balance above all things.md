@@ -1,0 +1,1 @@
+something I realized is that everything in this world need to balance even spirituality because if you try to live your life too much like you already peer being your constantly going to be condemned and there was a point where I didn't even want to be alive because I was not care enough and nothing with peer and innocence was always destroyed and so

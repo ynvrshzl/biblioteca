@@ -1,0 +1,13 @@
+abstract:
+key-value pairs are a significant model in programming. essentially it's a variable, that lives inside it's own little world; the {} object. but the idea is more than merely storage: it's a new way to access parts of the program. they are like two-dimensional worlds, whereas an array, the predecessor to the object, is simply one-dimensional, data can only travel in one point; the index. with an object, data can be two-dimensional;
+
+use-cases:
+with objects, we can store...
+
+theorycrafting:
+new Memory("object").k("key").v("value")
+new Memory("object").store("key value")
+new Memory("object").store("color: value")
+
+notes:
+becuase in metalang, we are still deciding how we will access memory and varialbes, this is inherently design-focused, but the concept of key-values are a fundamental concept.

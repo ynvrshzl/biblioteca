@@ -1,0 +1,3 @@
+Radical redesigns of the engine include:
+
+- instead of a play button, the engine 'compiles' the music, instead of 'playing' it in real-time. this way, you aren't bomarding your ears with audio.

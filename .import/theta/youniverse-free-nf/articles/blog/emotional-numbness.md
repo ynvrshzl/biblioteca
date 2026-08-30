@@ -1,0 +1,5 @@
+# What I do when I'm emotionally numb
+This is perhaps, the worst state for anyone to be living in. Emotioness. Numb. It feels as if you let someone in your house & they robbed everything, and only left broken pieces of things that you used to have. That's what it feels like to have clinical Anhedonia. And yet there are weapons & tools to fight against this.
+
+1. When I feel emotionally numb, the quickest solution is to distract myself. Yes, it's unhealthy, and will damage me if prolonged, but it's a short-term solution.
+2. Purposeful deprivation. This quote hits me harder than anything: "You don't know what you have till you lose it." Wether it's sleep, food, masturbating, going outside, seeing people, if I become emotionally numb, I know it's time to deprive myself of it. This may sound self-hating at first, but in all true scientist spirit: *"if it's crazy enough, it just might work in the end."*

@@ -1,0 +1,3 @@
+We don't operate on the far-end of the spectrum: extreme pain or extreme joy. Everyday life exists in the midde: the edge of chaos, of proximal development.
+
+Someday, doctors will create the true painkillers, to stop all excess suffering. All of the answers to the problems of life, exist across all fields (math, art, science, physics, history) and when we bridge them together... there is no limit 

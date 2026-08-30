@@ -1,0 +1,4 @@
+Description: With this command, I can jump to a specific line number.
+Syntax: <n>[G]
+Example: "25" + [G] 
+Example: 25 G

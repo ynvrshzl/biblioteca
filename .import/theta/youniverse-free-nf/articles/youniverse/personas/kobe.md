@@ -1,0 +1,1 @@
+Kobe has blonde hair & is said to be one of the most beautiful boys in Lost Angelis. Along with his twin-sister, they both are part of the modelling & beauty industries in Lost Angelis.

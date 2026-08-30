@@ -1,0 +1,2 @@
+
+"I used to know myself... but now... you're gone, my insides are returning to dust, I? I left with you, when you left this world. Nothing in me remains that is real... I have become a void... and where you are, I wll return someday."

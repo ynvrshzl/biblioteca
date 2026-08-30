@@ -1,0 +1,2 @@
+# In another life
+A short story about someone who is paralyzed in a hospital bed. In their early adulthood but already dying, they spend their last days alone, but imagining what alternate lives they could have lived.

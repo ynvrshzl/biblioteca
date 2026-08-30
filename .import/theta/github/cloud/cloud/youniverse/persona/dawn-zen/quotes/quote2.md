@@ -1,0 +1,1 @@
+"The reason the world is so broken, and the innocent are in so much pain, is becuase the royals and monarchs are too comfortable in their

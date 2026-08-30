@@ -1,0 +1,2 @@
+# The parasites
+There were these goblin, demon, fallen angel creatures, parasites, they were infesting the minds & souls of human beings. But their favorites? Children & teenagers. They were the most vulnerable, and the most important, of all human kind

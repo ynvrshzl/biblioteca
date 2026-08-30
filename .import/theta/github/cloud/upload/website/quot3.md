@@ -1,0 +1,1 @@
+"life is a constant change of pain that makes you want to quit the game. the real game is choosing to continue. you can't choose without reason."

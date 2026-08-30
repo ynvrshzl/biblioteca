@@ -1,0 +1,4 @@
+the German doctor, never discovered the cure to the human condition, but he did discover something more important perhaps, in his final words, he said something terrifying. "after witnessing so much pain and depravity, I have searched the depths of the human being for answers, I have found nothing. but yet, with all the forms that try and destroy life, life continues. it persists. it heals and protects. I have seen it in ourselves, it is in our bones. to fight. to fight for existence. I have not been able to discover the cure, but perhaps it is enough that life itself continues, in spite of death... the ultimate rebellion, then, is to live, for good and for truth. we may not be able to solve all the problems in nature, but perhaps the search itself is the reason we exist."
+
+we have to be careful with overly mythological ideas, but he is very inspired by Carl jung, so it's in his nature to explain Life in astrophysic terms 
+

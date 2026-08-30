@@ -1,0 +1,1 @@
+"The pain is delicious. The pain is real. Only in the pain I can grow & evolve. I must move forward. There is no end, nor beginning. All points collapse into this single moment. I must keep moving forward."

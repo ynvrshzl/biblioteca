@@ -1,0 +1,1 @@
+Grief is the cost of love, and sometimes it feels like too much to pay. Yet humans again and again find ways to live with it. Not because they “get over it,” but because the love doesn’t vanish with the loss — it changes shape.

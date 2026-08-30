@@ -1,0 +1,1 @@
+As Jason Rhin took his dying breaths, he yelled to them: "Someday, the Rebellion will come back, and you, won't be able to stop it."

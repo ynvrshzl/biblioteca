@@ -1,0 +1,1 @@
+This game used to be referenced as "elementals game" but after some shower thoughts, we realized it's actually a game about the human inner youniverse. So it's like a simulator eniviornment that doubles as a therapeutic education experience.

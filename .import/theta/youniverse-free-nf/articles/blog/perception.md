@@ -1,0 +1,3 @@
+One of the most difficult issues I've dealt with is perception. Our emotions influence our experience, but so do our thoughts. Just by imagining something, your body responds with emotion. At a lower-level, it's chemicals, and beyond that, is a mystery. None of that matters: only what's real & what's visible matters to me.
+
+The craziest thing is that we have no idea what life feels like for seomeone else.

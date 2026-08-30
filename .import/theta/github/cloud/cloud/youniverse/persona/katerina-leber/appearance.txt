@@ -1,0 +1,4 @@
+sum: katerina is very beautiful.
+eyes: clear blue
+neck: laced, dark-purple victorian-era choker, a gift from her mother.
+nails: usually painted dark purple

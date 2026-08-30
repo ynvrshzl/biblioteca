@@ -1,0 +1,1 @@
+box-shadow: 0 1px 5px var(--shadow); 

@@ -1,0 +1,1 @@
+Jordan Peterson said, positive emotion comes from the pursuit of something. Wether that's a goal, a dream, a hobby or even just pursuing to be a better human being. When your nervous system feels the body is moving towards something desirable, you will experience positive emotion.

@@ -1,0 +1,1 @@
+The orphanages of Lost Angelis are facilities designed to contain children without identification. The children of the city get sent to an orphanage immediately after birth. As mentioned previously, all families in Lost Angelis are banned. [Read more here.](families)

@@ -1,0 +1,3 @@
+In programming, time can be programmed. That's incredibly powerful and extremely dangerous.
+
+new Timeline("Events")

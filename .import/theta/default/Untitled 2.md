@@ -1,0 +1,3 @@
+A book is an artifact of immense compressed life.
+
+For example, you could describe life at 1:1 pace of real life [citation-needed]() or... 

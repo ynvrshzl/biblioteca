@@ -1,0 +1,1 @@
+In the beginning, there was the end. Time unraveling unto itself, events endlessly looping. Erase your memories? Surely. All emotions evolved from {{ERROR: MISSING DATA}} 

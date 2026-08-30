@@ -52,5 +52,6 @@
   },
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "userIgnoreFilters": null
 }

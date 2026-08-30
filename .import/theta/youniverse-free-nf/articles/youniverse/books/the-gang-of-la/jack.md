@@ -1,0 +1,9 @@
+He walks into the room. Long white hair, black trenchcoat, black gloves, and a dangerously handsome face. Slowly, he walks up to me, his coat clanking against his jewlery as he sits down. I stare at him, expecting nonsense. He looks at me... but through me... as if he's looking through me... This freaks me out. I think to myself: *"The hell's wrong with this guy?"* Simply, he wispers:  *"Do you want to know what happens to someone when their childhood is destroyed?"* My ears perk up... How does he know exactly what I'm thinking? He switches his focus... all of a sudden his crystal clear eyes are staring at me... *"The child never asked to be part of this existence... it was forced to be alive. Why is this normal for us human beings?
+
+I can't take this man, he's reading my mind or something. I get up, angrily balling my first. I swear I'm gonna punch this guy if he's got some secret underground mind-reading tech. He gets up with me, smirking villainously at me: *"Hey... I wasn't done talking."* I tell him: *"How the fuck do you know what i'm thinking?"* He takes a step back. I take a step forward. *"Who the fuck are you?"* He smiles even wider now, as he's backed up into the wall. Angrily I wisper at him: *"Who... the fuck... are you."* He stares right through me... again. Calmly, he wispers: *"Life can be so impossibly cruel to the ones who least deserve it."* He's reading my mind. These are the thoughts i've been having for the longest time. *"I'm giving you one last chance, tell me how the hell you're doing that."* He looks into my eyes: *"If you're going to hit me, then do it."* My fist is ready to punch right through this egg-faced freak. He smiles... *"I know you won't do it."* 
+
+*"If you ever lay a hand on her, i'll batter you up like fresh pancakes on a pan, punk."*
+
+*"My name is Jack... but really... all of our names are lies."*
+
+*"Why are all of the prettiest girls, always the most poisonous?"*

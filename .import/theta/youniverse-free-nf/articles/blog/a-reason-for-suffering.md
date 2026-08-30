@@ -1,0 +1,3 @@
+I've noticed, when I write stories, they don't hit hard, unless I make the characters go through impossible amounts of suffering. It's not becuase I enjoy it, but becuase I want to make these characters as inspiring as possible. **These characters saved my life, they'll save the lives of many too!**
+
+So that made me question: is suffering the only way to make a story inspiring & meaningful? Well, let's define suffering, as it shouldn't be confused with feelings. Suffering, by my definition, is inescapable pain that a human being would rather die than experience. Suffering can last for years, or only a moment. 

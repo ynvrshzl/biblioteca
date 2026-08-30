@@ -1,0 +1,3 @@
+Joey Doom is primarily a Martial arts student, of the spiritual realm. that is how he describes himself. 
+
+He usually has dark eyeshadow, as he believes himself to be formed from the shadow. but half of his hair is a blonde, ghostly white. devoid of pigment. he is not entirely dark but he is also not of the light. he is duality personified, autonomy that walks between worlds, almost in rebellion. only one should exist, but he crosses between them as if something in the middle exists. as if something outside the duality exists. what is that? what exists outside the bounds of suffering? what can the human survive? what force can the human become? that is the main quest of his life. 

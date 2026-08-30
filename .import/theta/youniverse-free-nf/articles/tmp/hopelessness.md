@@ -1,0 +1,4 @@
+# Hopelessness
+Of the biggest challenges when dealing with mental illness, pain or any kind of suffering in life, amnesia, is an demonstrably big problem. The reason is becuas when you are in pain, you lose all sight of the future, and that is a source of life for a healthy human being. Once the future is cut out of your field of vision, you enter survival mode. 
+# A link to the past
+It always comes back to our human nature, and how our ancestors evolved. The systems that exist in our bodies today, were born in a completed different world. Yet, our senses have failed to catch up to time, and we suffer as a consequence

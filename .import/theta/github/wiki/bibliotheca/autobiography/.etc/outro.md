@@ -1,0 +1,1 @@
+I'll close off this long-ass autobiography (lol) with one of my favorite quotes from charactes, that saved my life. *"And always remember, the rebellion, is coming."*

@@ -1,0 +1,3 @@
+so conceptual models and perspectives are like lenses from which we approach the physical world. I think that's how I would describe conceptual psycho models. 
+
+for example, before we learned about how logic gate and computers work, programming was just like alien language. but now we understand there are layers and layers of Technology and programming is just an interface for those layers. and it's like evolution in an ecosystem. logic gates are like little atoms, and complex logic gates build cells and then organisms and then life emerges.

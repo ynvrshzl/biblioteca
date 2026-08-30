@@ -1,0 +1,1 @@
+for the polymath, highly compressed work that integrates multiple domains of expertise and fields, are essential to maintaining coherence and joy of the process above all things. It is not about the output product but the life well-lived, which gives birth to fundamental discoveries. such discoveries will solve the greatest problems in nature.

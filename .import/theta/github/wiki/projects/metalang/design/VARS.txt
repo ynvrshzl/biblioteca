@@ -1,0 +1,8 @@
+"variables in metalang"
+in essence, a variable in programming is multiple things: it can be data stored in memory, but it's also a label for data. variables can also hold other varialbes, creating three-dimensional graph relationships in code -- this is exactly where complexity emerges, in relations.
+
+
+accessing varialbes:
+data in mlang is essentially accessed via strings and blocks. those are the fundamental design constraints. no symbols. no nesting. everything is a clear block that passes something along the chain. so according to it's design philosophy... we can assume we'll always access data via strings: new Access("memory"). essentially this includes all ways of accessing varialbes in classical programming:
+
+- accessing variables via var1[var2]

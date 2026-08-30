@@ -1,0 +1,1 @@
+In Lost Angelis, anyone is theoretically qualified to enter the city walls, so long as they give consent to everything in their possesions, including their own body. This is to provide a source level of equality for all citizens: everyone starts at the same leve. Refusal to accept these mandatory regulations, will result in a terminal ban from the council itself.

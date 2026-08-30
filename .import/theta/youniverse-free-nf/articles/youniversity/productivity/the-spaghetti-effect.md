@@ -1,0 +1,2 @@
+# The spaghetti effect. 
+it's an intoxication of stress, dissociation, disorder, directionlessness & forgetting why you even started. little issues interweave into a fabric that becomes impossible to understand. when your original plan was to sew together a single thread, you end up with a fabric of sphagetti things.)

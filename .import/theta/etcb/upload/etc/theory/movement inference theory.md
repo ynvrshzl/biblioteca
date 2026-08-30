@@ -1,0 +1,3 @@
+How do you know you're moving in the right direction in your life? This is really difficult to answer and I really know my perspective and I don't really have a static answer for this myself, but I think I'm starting to understand something...
+
+If you can look at your past and be grateful that you changed so much, even if you are not where you want to be right now, at least you aren't where you used to be and that is... (feeling sad & grateful) so important

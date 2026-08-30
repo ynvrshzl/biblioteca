@@ -1,0 +1,3 @@
+It is important to understand that all human behavior is motivated by some source. The paradox is at, sometimes we do things that are difficult, q when there is no motivation present. sometimes you just get there things that are difficult, or you survive. That's the paradox, what is, what exactly is driving human behavior? especially when there is no source of motivation present?
+
+I'm curious about this because, gender dysphoria is incredibly debilitating, and you often blame yourself, it's very misunderstood

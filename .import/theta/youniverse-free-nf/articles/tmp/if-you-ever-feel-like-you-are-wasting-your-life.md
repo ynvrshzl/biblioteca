@@ -1,0 +1,1 @@
+In an artist's life, nothing is ever wasted. Every dot on the canvas, every tube of paint, every stroke up the brush, it is all for the art the artist never waste anything for even the scraps are art. you can apply this to your life every situation you hate every repeating habits everything is meant to serve your greatest version.

@@ -1,0 +1,1 @@
+icontains(file.folder, replace(this.file.path, ".md", ""))

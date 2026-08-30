@@ -1,0 +1,1 @@
+Cognitive layer between hardware and software, above software.

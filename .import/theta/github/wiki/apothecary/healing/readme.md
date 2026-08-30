@@ -1,0 +1,1 @@
+essentially, we are exploring how to heal from trauma, on your own.

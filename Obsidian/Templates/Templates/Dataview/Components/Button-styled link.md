@@ -1,0 +1,1 @@
+"<span style='display: inline-block; border-radius: 25px; padding: 5px 10px; box-shadow: 0 1px 5px var(--shadow); --link-color: var(--text-muted);'>" + link(file.path, "Open") + "</span>"

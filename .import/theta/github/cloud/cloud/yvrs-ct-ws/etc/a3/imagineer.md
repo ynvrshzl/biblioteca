@@ -1,0 +1,1 @@
+An imagineer is: engineer + imagination-driven human being

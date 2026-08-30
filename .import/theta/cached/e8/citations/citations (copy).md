@@ -1,0 +1,1 @@
+- Ludwig Wittgenstein, "The [Tractatus](#) aimed to define the limits of language and asserted that what cannot be said; ethics, aesthetics, and the mystical... must be **shown** rather than **told.**"

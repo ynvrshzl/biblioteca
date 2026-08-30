@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1650648065216-1e80af24193b?ixlib=rb-4.1
 The "Bibliotheca Universalis" is a Public Domain Knowledge for oddysey of actuation of knowldge, modern day information complexity, and ethical problem-solving. 
 
 ###### Locations
-[Open system backend](Documentation/README.md) or [Enter library](PUBLIC/README.md)
+[Open system backend](Documentation/README.md) or [Enter library](Public/README.md)
 
 ---
 

@@ -1,0 +1,1 @@
+"The waters of Youthanasia are healing. They cleanse & purify the inner self. They heal. The waters restore what was taken by the dark things in the brain, The waters give you back life. The fountain, of youth. It is always within you. Listen closely. Listen, and the water will wash & heal all your scars."

@@ -1,0 +1,1 @@
+The double plot of the universe stories, is that we are simultaneously focusing on a massive universe, but at the same time these topics are mirrors of the microcosm within the self. so in some sense it's a literature project studying philosophy and aspect of human life, in a double mirror plot.

@@ -1,0 +1,2 @@
+# Early childhood
+Throughout the ages of 3 - 5 (That's when self-awareness started sprouting) I can distinctly remember blurry, dream-like memories. I can't remember people's faces, but almost, a hauntingly empty feeling... as if, those experiences never happened... as if someone came into me & replaced my real memories, with false copies.

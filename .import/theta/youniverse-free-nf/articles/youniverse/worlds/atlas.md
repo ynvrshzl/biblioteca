@@ -1,0 +1,1 @@
+The Atlas is a world-map. A holographic, multi-layered military-grade computer program, designed to keep track of the Earth's toxicity levels. It is also a tool to track every citizen in the world. The Atlas has achived semi-sentience, and has been used to predict natural disasters.

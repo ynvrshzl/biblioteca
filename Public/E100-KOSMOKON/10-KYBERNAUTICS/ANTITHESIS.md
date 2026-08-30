@@ -1,0 +1,1 @@
+The primal predator, arch-enemy in Kybernautics, is Chaos. Information overwhelming the sensite, finite human resources.

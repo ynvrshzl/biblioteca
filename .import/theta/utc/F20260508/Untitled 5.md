@@ -1,0 +1,1 @@
+Why does the human being, generally strive for the ideal? Why is material pursuit insufficient to the human condition? in theory, if the ideal life did exist for the human being with no suffering and no pain, would the human being be fundamentally the same creature? 

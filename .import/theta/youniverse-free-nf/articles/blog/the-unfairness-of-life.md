@@ -1,0 +1,7 @@
+# The unfairness of modern life
+Is it fair that few get to live in skyscrapers, with lavish kitchens. THeir kitchens filled with healthy food to keep their bodies healthY? It is fair that restaurants throw away food in the trash? Open your eyes, we live in a broken civilization. Power will always cause destruction when it's in the hands of the few, no matter how good you think you are, power corrupts everyone.
+
+# Dying without a purpose is the worst kind of death
+And yet I realize, in the end, we all lose. Nobody wins in the games of life. Life itself? It cannot be a game — nobody would play a game as unfair as life. I'd rather die miserable, but knowing I did my all to help someone suffer less in this world, than die happy, knowing I did nothing to help heal this broken world. It's a paradox... and it doesn't mean that I'm willingly going out into the woods & needlessly risking my life to follow a belief. But  rather, with my philosophy/way of life, I choose to share how I see the world: **from the perspective of a gifted young woman, who has a relatively priveledged life, with an insatiable hunger for meaning & helping others.**
+
+A moment of silence for all who have suffered without the diginity of screaming.

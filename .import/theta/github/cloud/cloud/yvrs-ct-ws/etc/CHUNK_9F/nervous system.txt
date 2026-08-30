@@ -1,0 +1,58 @@
+today hsa been a very strange difficult day. usually, we don't struggle this much with focus... but i think it is no longer our responsibility, and it was never our fault...
+
+i think our enviornment+rythym is fundamentally misaligned with our nervous system's needs. we need to mass redesign or even craft new environments becuase the system feels very tired of living this way.
+
+let's explore these two observations becuase they hold the key insight to bettering our human life everyday <3
+
+enviornment:
+
+i am learning that my physical enviornment affects & influences absolutely everything. if the enviornment around us feels uncomfortable, it's difficult to LIVE in it becuase the nervous system NAVIGATES THROUGH SPATIAL AWARENESS.
+
+a dissonant enviornment is; cluttered, difficult to move around, uncomfortable, stressful hot, messy, or too controlled, too clean, too perfect, unstimulating.
+
+this is the physical enviornment, but virtual enviornments matter just as much.
+
+comfort and joy are NOT luxuries, they are NECESSITIES of the human nervous system to feel SAFE enough to LIVE, not just SURVIVE.
+
+
+rythym:
+
+we're learning to work with our body's internal clock & energy cycles, and synchronizing our daily rythym, fundamentally gravitated by our body's needs. i think this is the core essence of somatic healing. we aren't trying to force ourselves to wake up early just to be productive -> we are CHOOSING to rise up early everyday becuase a meaningful life -> starts with meaningful days -> decisions -> decision to wake up early -> decision to sleep at night ->  progress comes from small, daily steps -> forward movement -> meaningful days -> meaningful life
+
+our daily rythym needs to be synchronized to -> our body's natural energy cycle which is;
+
+night-owl fundamentally, but with energy dips and rises, as a cycle patterns rather than one large wave.
+
+when we wake up early, our favorite part of the day is from the morning to the afternoon (8 AM - 3PM)
+
+at afternoon (3 - 5PM) this seems to be the most relaxing part of the day. the sunny enviornment calms us down, it's the best time for exercise i think...
+
+evening (5PM - 9PM) we crash very hard, but towards the night we wake up naturally
+
+night (9PM) if we're not careful, our body naturally wants to stay awake, so a calm, dark enviornent is a must!!
+
+
+we're thinking the window between 3PM and 9PM is causing the biggest system issues... today we experimented with exercise at 5PM so we have the evening to relax, and we got all the work we needed during the morning + afternoon. it's strange that this is the standard industrial clock... 9am -> 5pm... but we're listening to our internal body clock... tryign to craft a rythym that bridges the external server world clock with our internal body base clock... it's an art! and luckily we're naturally an artist :)
+
+analysis:
+so here's what we're thinking... there's only one solution we can think of... somatic engineering! this means -> working on lifeos as our virtual enviornment studio aswell as our physical enviornment synchronizer (timers, alerts, custom desktop enviornment = supercharged programmability possibility)
+
+we're gonna start working on it this evening :) webview is a bit clunky on tauri-linux, but we're staying away from electron due to it's increased resource usage and preload headaches.
+
+essentiall we came to this conclusion by realizing the fundamental threads of observation that we started this convo with! enviornment + rythym explains why we feel this way today: stressed out, unable to focus, program interfaces feel wierd.
+
+stressed out -> becuase we are realizing time is passing by -> and it's hard to focus on anything becuase the physical (we are becoming aware of physical enviornment clashes but they are solveable though re-arrangement and some purchases!) + virtual enviornment (program interfaces are clashing, difficult to focus on zoomed in/out windows) is out-of-sync  -> this leads to stress -> this stress response is THE ONLY WAY the nervous system can send signals that an issue is being processed the system -> our interpretation of this stress response is metabolizing -> synthesize information into action (intuition-intelligence) -> stress in isolation feels like it's your master, and you are a slave to it, but interpreted stress becomes a meaningful insight into problems we can solve, or atleast, a signal to rest.
+
+about those purchases we mentioned, it's all written down in our obsidian wishlist and ready to be scheduled... things like:
+
+Physical space:
+$: audio jack cable extender and/or 35.mm audio jack to interface adapter
+$: a new office/gaming chair
+$: a new modular table for keyboard + mouse
+$: PC USB hub
+
+Other virtual needs:
+$: PC more RAM!
+$: create a working daily prototype of lifeos
+
+we attached a screenshot of our dream enviornment workspace. clean, but personalized. apple products, but running on our lifeos custom architecture :)

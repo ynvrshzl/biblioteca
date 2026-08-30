@@ -1,0 +1,4 @@
+# Meaning is the only answer to the tragedy of life 
+Sometimes, life can be so terrible, that you just want to forget it. You want to forget the pain. You can't find meaning when you're being skinned alive, but you can find meaning if you survive that horrific experience. Ultimately, if your life is meaningful, it is the only answer to the tragedy of life. Yes, we are born against our will, none of us asked to be here. And people can be so cruel & blind. Animals can tear each other apart, and babies never asked to be formed from dust, into a conscious living being. Life is cruel. It is a sieries of never-ending decisions against your will. It would seem that you could atleast choose death as your last decision, but not even self-death will justify the cruelty of existence. Only in a meaningful life, the question of life, is answered.
+
+[Meaning](etc/youniverse-free-nf/articles/autobiography/meaning.md)

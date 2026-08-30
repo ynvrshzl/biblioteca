@@ -1,0 +1,17 @@
+An engineer can not start a project without a Schematic/Blueprint! This lays the conceptual foundation of the program and stores the initial vision.
+
+Becuase this is expressed, not as documentation files, but as source code text, we can basically visualize or convert this data into anything :) it's like living docs-blueprint-vision living inside the program.
+
+Example:
+
+Meta("Schematic").describes("The blueprint of this Tooltip program.").note(`This step is purely optional. It just explains what a 'Schematic' even is.`)
+
+new Barrier("Program start")
+new Schematic("Tooltip")
+    .core("This Tooltip component provides visual, context information for the websys interface.")
+    .field("Lifecycle: the main lifecycle of the Tooltip, before any crazy debouncing or optimization tricks, is simple. Hover over an element -> provide a cute context explaining the thing -> exit gracefully when no longer hovering.")
+    .field("Pseudo code: idle > while hover(show) > at hover out(remove) > idle")
+    .field("Optimizations 2: After the base Tooltip is complete, we can think about optimizing with debouncing, walking the HTML dom, registering conditional-programmable rules, etc.")
+    .field("Accesibility: To provide contextual information for the human user, to explain visual parts of the site.")
+   
+new Pseudo("Lifecycle").idle().while("hover").show().at().hover("out").remove().repeat()

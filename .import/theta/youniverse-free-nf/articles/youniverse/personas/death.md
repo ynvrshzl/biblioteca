@@ -1,0 +1,1 @@
+"They come for all of us. Father death & Mother life. A cycle that can never be broken. That to have dreams, we must also have nightmares. In order to experience order, there must be disorder. In order to experience life, there must be, the end of life."

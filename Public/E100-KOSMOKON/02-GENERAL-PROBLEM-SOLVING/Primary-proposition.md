@@ -1,0 +1,1 @@
+This is the proposed axiom: Questions describe parts of a whole. The whole is neither; useable or processable in it's entirety; [non-directionality]() proves this.

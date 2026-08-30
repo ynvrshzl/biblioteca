@@ -1,0 +1,11 @@
+in the high heavens of the universe, there are the academies of the universe angels. these are angels that are training so that they can fight for humanity. a common question is, how come there are so few angels as compared to agents of destruction and chaos? technically speaking, it is described by the angels that they exist because even the tiniest points of light can overwhelm the human senses. too much beauty is just as harmful, perhaps more harmful than the suffering caused by the agents of chaos and disorder. given this, it is understood that the human being is sort of a paradox creature, sustained by an odd Harmony of dark and light. this means that within every human being there is the capacity for destruction, just as much as the capacity for creation. this is essentially the birth of consciousness. every human being has consciousness, even if some human beings come prepackaged without empathy or (biological phenomena.) this is information shared, this is sacred information shared by the medical angel. 
+
+however, because the human being is a paradox of a creature, the tiniest points of light can save a human being that is drowning in chaos and shadow. 
+
+it is sad that consciousness is the ability to paint with light and shadow, and the philosophical angel, describes this as the problem of human consciousness. the human cannot perform as a Divine creature, even though Divinity exists within. and yet, if a human being is to become an agent of Chaos and destruction, they not only consume The Light within them, but they consume The Light within the universe itself. 
+
+perhaps this is the point where the Angels reveal that, we live inside of a universe that is not ancient and dead, it is living and alive, it is as alive as the universe within each human being. the inner world of the human being is so complex and vast, but there is no significant difference between the universe outside and the universe within. the symbols of duality always follow the human being. there is always a contrast. it is the only way to experience. 
+
+as such, these are the core principles that are taught to the angels, the main tasks of the Angels are to protect humanity, guide humanity, and someday liberate humanity from suffering. 
+
+some angels are carriers of light. they share the knowledge we learn here at the (academy| or | youniversit)

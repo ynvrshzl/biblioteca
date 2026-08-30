@@ -1,0 +1,1 @@
+Minamalism evolves into [Insanity](), becuase human beings need things. We can't have a blank wall, we need expression, we need some [Chaos.]()

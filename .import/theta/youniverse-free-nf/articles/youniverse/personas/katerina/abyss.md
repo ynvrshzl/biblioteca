@@ -1,0 +1,1 @@
+Katerina stares into the abyss. She cannot believe her eyes. She wish this nightmare would end... but it goes on, and on, and on, and on, and on, AND ON, AND ON, AND ON. This torment ceases to no end. Katerina is paralyzed. Joey Doom cannot protect her this time, she is alone.

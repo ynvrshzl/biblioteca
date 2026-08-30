@@ -1,0 +1,5 @@
+During my most depressed I was doing nothing all night, and in bed watching youtube. Videos of cities at night/day, wishing I could live again. I read alot of comments about people who were depressed & I did not want to end up like them, but I was losing myself... almost like I was in quicksand and my body had lost the energy to fight, and my spirit lost the will to live. But something, somewhere inside me, a stubborn little cell, wanted me to stay a live. Even though my body was falling apart: my skin was literally peeling off and my brain was fogged beyond comprehension. 
+
+I prayed to a God I didn't feel, and I am here today becuase i was saved.
+
+I reliazed just how important work & distraactions are: i'd rather feel the stress of daytime life, then the comfort of night-time, becuase atleast I'm fighting for something, and that's the only thing that justifies the suffering & cruelty of life.

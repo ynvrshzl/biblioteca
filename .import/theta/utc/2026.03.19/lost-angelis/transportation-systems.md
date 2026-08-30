@@ -1,0 +1,3 @@
+I think transportation systems in a city reveal a lot of things. so in World building, you can get an idea of the technological advancement as well as these social commodities and economy, on a whole host of other social political domains, just by looking at transportation systems. for example, in Japan you have high technology transportation systems, and they are embedded within the society, but in a place like Brooklyn, the subway system is incredibly dirty.
+
+lost-angelis has... a techno-utopia vision.

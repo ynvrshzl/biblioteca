@@ -1,0 +1,1 @@
+Attention to Detail - Part of the Creation Archetype - "You have a keen eye for even the smallest of things. Pair your intense necessity for detail, with a strong gravity, and...?"

@@ -1,0 +1,15 @@
+# Scenic Theory
+Human Perception-Perspective framing theory, as reduction of cognitive suffering.
+
+## Abstract + Context
+What if, reduction of suffering, is possible through scenic framing? so what I mean by this nonsense lol, is I was remembering a scene from the movie pursuit of happiness. it's one of my favorite movies ever because Chris gardner, the father of the movie, he suffered so much for his little kid son Christopher. he even had to sleep in bathrooms and staying home with shelters. 
+
+now, this leads us to our first idea, range of suffering. when I watch the movie for the first time, that was the worst conditions I had ever seen for human life. but then the more I lived, the more I studied human history, the more I realized the sheer depravity and cruelty of the human, has no end. but it's also true for human good. and so when I come back to this movie now, I don't tell myself, well he had it easy compared to a child in afghanistan. I recognize that suffering should never be compared. 
+
+the paradox is that, suffering should never be compared with anyone else, but I think seeing Theory describes comparing unbearable moments, to a larger motion… a movie.
+
+and in the movie he's running around the city and doing everything he can to survive for his son. there are many moments where he's just keeping it together and he's just a few steps away from completely losing it and breaking down. but he knows he has to be strong for his son. but the idea of clip Theory comes from imagining what if unbearable moments, when framed as a movie of your autobiography, suddenly not only become less intense, but now that time is framed as a Continuum of movie experience, then perhaps the suffering just makes a movie more interesting? of course if my hand is burning while holding a mug, that just fucking hurts, and it doesn't feel meaningful in the moment. but imagine watching a movie, watching how the character would shift their perspective and change how they feel the pain. not only does that change the perspective of the character but it also changes the perspective of the viewer. that's the paradox of the movie through the lens of the character.
+
+but really, this Theory came from the idea of remembering one of the scenes from the movie. where the song “people” by Stevie wonder, is the soundtrack to another wise, incredibly series of unfortunate events. and yet the movie feels like it's moving forward. and it's only because of the suffering that he indoors and survives. I think that's the point of the movie, it's even in the word itself, it's a moving image, it's moving, it's a movie. and it's really symbolic to the cycles of life, the yin and yang, contrast. 
+
+so clip/scene theory is an interesting idea and we have yet to develop it and study it in our own life.

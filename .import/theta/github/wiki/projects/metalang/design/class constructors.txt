@@ -1,0 +1,8 @@
+in a classical program, a class can have multiple ways of setting input parameters: directly upon instantiation, or as a chained method.
+
+essentially this is a fundamental design choice. because this is how we will model all blocks! well some blocks couldn't introduce their own way...
+
+I think essentially we want to conceptually understand when to use a constructor or a named method which makes things more verbose, but it leaves an empty class instantiation, which feels under used. I think fundamentally the class constructor is the semantic description of the class name itself. essentially in meddling, there is no such thing as a class, everything is a block, but since we are creating the language from classical programming constraints, we have to understand at the lower level, so that we can build our own conceptual frame on top.
+
+take this for example: new Block("descriptor")
+makes more sense than: new Block().descriptor("...")

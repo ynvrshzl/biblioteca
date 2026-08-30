@@ -1,0 +1,3 @@
+This can be very confusing to manage on our own, so we build abstraction layers to protect us from becoming overwhelmed by the details.
+
+if we can make that closer to our natural biological architecture, then this project becomes not only visually beautiful, but biologically intact. 

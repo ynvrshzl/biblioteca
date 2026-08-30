@@ -1,0 +1,2 @@
+# Love is the only reason
+The only framework you need in life is love. If you love something, someone, or even better, if you love life itself, or best of all, if you love your life, then everything you do, even the suffering to be endured, will be worth it. Because love, restores, rejuvinates, and heals. Love, is the only thing that makes suffering worthwhile.

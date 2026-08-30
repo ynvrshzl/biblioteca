@@ -1,0 +1,1 @@
+These hidden chambers underground were no longer in operation, as the city realized executions would be more sustainable than preserving "sub-life."

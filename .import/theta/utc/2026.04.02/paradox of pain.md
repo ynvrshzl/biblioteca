@@ -1,0 +1,1 @@
+the of pain, suffering, unfair times, cruelty ... is that for some reason, I am grateful I survived.

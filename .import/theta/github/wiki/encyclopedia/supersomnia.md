@@ -1,0 +1,7 @@
+The desperation to feel something real. Truly an obscure sorrow. As if being stuck in an endless sleep. Yet, restless. A sorrow so deep,  sleep cannot erase. Desperately screaming to your body to wake up... to feel again. Just to remember you are real, and alive.
+
+super Samuel essentially feels like you've been it sleep deprived your entire life, but some part of you is aware that you're asleep and you're stuck in like this dream you're almost like sleep walking or zombie being through life. And perhaps it's the fundamental awareness that we human beings are limited and will eventually die someday, and beyond that we have fundamental limitations. I think it's actually our human constraints that shape the character of each human being. 
+
+I'm not sure there's a solution to supersomnia perhaps each individual has their own solution but I think my personal solution is to experience more of what is good in life and to embody integration. and also to just trust and God because human intelligence has a very specific terminal velocity like a ceiling sort of speak and there's just so much we don't know and so much will never be aware of and so much we will never be capable... I leave those things to God. 
+
+there's a reason why we came in beings are a humbled. It's like the human mind, our consciousness has this desire to be almost God like, like we look at the stars and We intuitively sense that there must be something beyond us, and we also derive our meaning of life by the fact that we'll die someday... I think. It's definitely not Just a coincidence

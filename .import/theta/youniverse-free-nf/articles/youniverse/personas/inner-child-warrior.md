@@ -1,0 +1,1 @@
+"This is your inner child warrior, everyone has them, infact, your inner child is the only thing keeping you alive. Without the guardian spirits, this life is dangerous."

@@ -1,0 +1,1 @@
+Dawn Zen holding someone's head and just crying and just begging the heavens to free us from this curse. liberate us from suffering... *"Free this child. If the heavens are listening... please free this child from the suffering of yin... restore the balance..."*

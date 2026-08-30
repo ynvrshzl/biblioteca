@@ -1,0 +1,1 @@
+Whenever my mind is noisy, and there are lot's of voivces in my head, I talk out loud. I talk to  myself, with myself. THis has saved my life. I take gack command

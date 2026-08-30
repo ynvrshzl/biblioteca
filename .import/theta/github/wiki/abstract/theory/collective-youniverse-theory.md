@@ -1,0 +1,7 @@
+# Collective inner youniverse concept
+
+An observation and theory, is that figures and people actually contribute to the inner youniverse of the human self. 
+
+[Carl Jung]() had this concept of the collective unconscious. basically it's like the summary of our human history and memories and embedded within our consciousness. it's an incredibly frightening and structuring idea, that perhaps you are not just yourself, but rather we are integrated forms of surrounding people. and so that means that you are also like unknown on a network that means that your life is significant beyond what you can understand. and so this reinforces the concept that everything is interconnected.
+
+and so perhaps you could imagine like parts of us, parts of you are being sustained by the ideas and the beliefs that other people have created and shaped and sculpted. and if we are to do the same, then we are integrating someone else's self, and integrating our own self. it's very tricky to explain but I think the quote by Isaac Newton captures it perfectly. if I have seen further, it is by standing on the shoulders of giants. and I could imagine that there are like sort of like sculptures and statues of other people that live within you and perhaps it's not all inspirational, perhaps there are also negative beliefs and structures that are being sustained by figures that are not your own. figures that we're not of your choosing.

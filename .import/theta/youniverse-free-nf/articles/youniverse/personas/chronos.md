@@ -1,0 +1,1 @@
+Past, present & future, all personified into one being, time. Her name, is chronos

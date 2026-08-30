@@ -1,0 +1,13 @@
+# Common elements in UI/UX
+These are the most common elements & useful for [UI/UX]()
+
+- **Context menu:** this element is designed for the mouse/pointing devices/touch screen. Based on the area, you get a menu with it's context dependent on the area. i.e. on a browser, right clicking an image will open a different menu, as compared to right-clicking on a link. The purpose of the context menu is to provide a powerful way for more tech-savy individuals to access program commands
+
+- **Hotkeys:** this element...
+- **Buttons:** this element...
+- **Input fields (text, number, data, etc.):** this element...
+- **Icons:** this element...
+- **Tabs:** tabs are used when a single view is used to display dynamic content. Common examples include browser tabs,
+- **Menu:** the menu is one of the foundational elements in [UI/UX]()
+- **Sidebar:** this element is an example of collapsible UI, meaning, it exists to save space. This is great for UX to remove visual clutter
+- **Modals:** the modal is a modern element. It is used for creating pseudo-views within a main view. The purpose of the modal

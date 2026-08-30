@@ -1,0 +1,1 @@
+Armies of The Rebellion march forward, their fists in the air, the warring thunderous drums of war, pacing their every step. In a marvelous wave of passion & youth, they march forward throughout the city, parading & protesting, not to destroy, but to create.

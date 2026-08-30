@@ -1,0 +1,1 @@
+When Leo Vinci was a child, he would ask so many questions, that adults became terrified of his intelligence. **"That kid is insane, he's questioning reality? At such a young age? I can't even decide what's for dinner tonight!"**

@@ -1,0 +1,2 @@
+- GitHub for plain-text editing
+- MEGA as a cross-platform, encrypted privacy vault.
