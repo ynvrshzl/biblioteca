@@ -5,4 +5,4 @@
 - __"Deterministicality"__ i.e., "Teleological" or "Automatau"
 - __"Spatiality"__ i.e., 
 - "Cyclicality", i.e., "Once" or "Lifecycle"
-- "Directionality", i.e., "Forward", "Backtracing" and "Interpolation"
+- __"Directionality"__, i.e., "Forthographic", "Backtracing", "Resynthesis" or "Interpolation"

@@ -1,10 +1,10 @@
 ---
-# image: https://images.pexels.com/photos/32228687/pexels-photo-32228687.jpeg
 image: https://images.pexels.com/photos/12778427/pexels-photo-12778427.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200
 ---
 
 ![](https://images.pexels.com/photos/12778427/pexels-photo-12778427.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
 # Kybernautics
+Did you know? A "Kybernaut" is an individual who embarks on the life-long Odyssey of bringing order to the maelstrom of Chaos.
 
 ## Section 0.0
 
@@ -36,3 +36,7 @@ The primary argument or central object axiom of bedrock of Kybernetics is that i
 [Goal](Public/E100-KOSMOKON/10-KYBERNAUTICS/PURPOSE.md)
 
 The primary tension of study in Kybernetic is [Polarity](Public/E100-KOSMOKON/10-KYBERNAUTICS/Polarity.md)
+
+An atlas of Kybernetics.
+
+Did you know? A "Kybernaut" is a person or robot who devotes themselves to orienting good out of order out of chaos?

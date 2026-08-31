@@ -18,7 +18,7 @@ Based on the [Primary-proposition](Public/E100-KOSMOKON/02-GENERAL-PROBLEM-SOLVI
 
 There are multiple templates for problems, clasically, the most well-known including: **Who, What, Where, Why, When and How.** These questions are deceptively simple, and they define a majority of...
 
-Questions are deeply tied to the laws of [Linguistics]()
+Questions are deeply tied to the.. of [Linguistics]() however, from the GPS perspective, we study the Kybernautics; the structural natuer of infromation.
 
 ### 1.0.1 - Who
 This question models identity of a person. It defines and describes relational resonsibility or role

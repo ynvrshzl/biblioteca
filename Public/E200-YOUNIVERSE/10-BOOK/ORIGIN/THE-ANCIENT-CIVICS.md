@@ -1,3 +1,8 @@
+---
+aliases:
+- The Ancient Civilizations
+---
+
 # The story of civilizations across the Youniverse
 These are essentially different human perspectives of how we have attempted to address observable problems throughout the ages. While many of these stories are somewhat mythic-laden, they are also valuable repositories of historical human activity in the form of cinematic artifacts; otherwise known as a story.
 
