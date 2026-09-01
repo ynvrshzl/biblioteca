@@ -14,7 +14,17 @@ The lexolinguists believed in the code of life, that life was fundamentally writ
 
 Shrouded by their own languages, they forged great structures and worlds in the sky, sustained by the ancient logic; of clockwork and machine. They augmented their own biology to organize linguistically and expand their capabilities. 
 
-## The augmentalists
+## The Augmentalists
+"If our nature cannot, we will superscede."
+
+"The organic is not perfect, the machine and the intellect, the rationale and the logic, will save the world and liberate us from suffering."
+
+"The works of nature are incomplete, our task is to correct..."
+
+## The Naturalists
+"Let us return to nature, as we came from. This madness of machine has...for long enough!"
+
+## The 
 
 ## Unifying ending
 Eventually, these great orders of human beings, across the aeons of the Youniverse, became unified as co-centric rings within the great Angelyssian empire. Each civilization claimed territory after the War of the Old Earth.

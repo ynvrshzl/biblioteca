@@ -1,0 +1,1 @@
+The nonfinite, nonlinear, polydirectional must be filtered and represented as a linear, finite, uni-directional axis, in other words, a path. A "Proxy"

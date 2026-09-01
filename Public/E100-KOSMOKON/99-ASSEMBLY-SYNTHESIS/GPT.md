@@ -1,0 +1,1 @@
+[Open in GPT ->](https://chatgpt.com/g/g-p-69e935fd037c8191b536da0a5584f1c1-projects-assembly-synthesis/c/69e2659c-2aec-83ea-b550-44fed88cd27a)

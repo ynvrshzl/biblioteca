@@ -2,7 +2,7 @@
   "showLineNumber": true,
   "spellcheck": false,
   "vimMode": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showInlineTitle": false,
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden",
