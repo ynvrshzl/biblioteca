@@ -1,3 +1,5 @@
+Logocography is the study of language as a tool for ordering human life.
+
 Logo-ography, a language of cartography of the psyche and order in human life towards flourishing.
 
 In abstract terms, our ancestors created maps to navigate the seas; today we may create maps to navigate the digital screen. 

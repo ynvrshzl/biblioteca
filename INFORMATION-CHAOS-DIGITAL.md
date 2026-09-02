@@ -15,3 +15,5 @@ Kybernautics studies the structural, geoometric nature of information, while met
 Today, a computer is no longer an office apparatus, it is not even an enviornment; it is a superhighway of information.
 
 It is debilitating to attempt to focus when we have 50 possibilities pulling at attention.
+
+With visual technologies, the very noise we try to reduce, ends up in unexpected places; the nature of endless visual possibility.

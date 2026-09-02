@@ -1,0 +1,1 @@
+"If you haven't taught yourself how to deal with pain, you better learn now... life won't wait for nothing." - Captain Arch
