@@ -1,0 +1,1 @@
+This theory studies two parts: Important things always re-emerge, and emerge.

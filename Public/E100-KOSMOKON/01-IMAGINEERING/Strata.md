@@ -1,0 +1,1 @@
+ The strata of Imagineering features a cyclic, feed-back model based on Phenomenological and Mechanical Dynamics of Engineering: **Imagination, Methodology, Search-space, Prototype, Implementation, Idea, Ergnomics, Problem-solving etc.**

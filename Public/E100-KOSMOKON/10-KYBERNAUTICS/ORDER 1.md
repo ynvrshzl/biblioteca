@@ -1,0 +1,3 @@
+Theory: Order cannot be engineered; it is a byproduct of "systems transformation." The systems transformation is ontologically elegant: external, processual, feedback. We start from the system outside (problem, idea, improvement, etc.)
+
+When one attempts to "craft order out of chaos," we may realize "this is even more complicated." Ironically, chaos manifests...

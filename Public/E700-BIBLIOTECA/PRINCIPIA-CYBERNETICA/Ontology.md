@@ -1,0 +1,1 @@
+Before we ... we need to classify what is a computer? In it's simplest invariants, a computer is an instrument for computation. Computation is a system of transformation, state, time, data.

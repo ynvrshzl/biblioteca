@@ -1,4 +1,4 @@
-Invariants
+Invariants of Computation
 
 Universal, Foundational, Invariant principles, Laws of computation
 
@@ -21,3 +21,4 @@ Universal, Foundational, Invariant principles, Laws of computation
 Software invariants
 - **Models & Structures:**
 - **Values, Types & Variables:**
+

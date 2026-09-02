@@ -1,41 +1,16 @@
 ---
 icon: ":LiClock2:"
 cssclasses:
-- tiny-imgs
+  - tiny-imgs
 ---
-###### recent files
 
-```dataview
-table without id
-
-img + " edited " + file-link + " " + ago + flair as "Recent files/Activity"
-
-
-
-flatten "<span style='float: right; color: var(--color-green);'>M</span>" as flair
-flatten "<img src='https://img.notionusercontent.com/ext/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F215ba286-1b27-410e-8d45-e5c9faccb901%2Fmy-notion-face-portrait.png/size/w=40' style='--cards-image-width: 1.5rem; border-radius: 50%; vertical-align: middle;'>"  as img
-flatten "<span style='--link-color: var(--text-normal);'>" + file.link as file-link 
-flatten "<span style='color: var(--color-green);'>+" + string(slice(split(string(dur(date(now) - date(file.mtime))), ","), 0, 1)) + " ago" as ago 
-sort file.mtime desc
-limit 12
-```
+<div style='height: 25vh; display: flex; justify-content: center; align-items: center; font-size: 4rem; opacity: 0.1;'>:LiHistory:</div>
 
 ###### Recent Files
 
-```dataview
-table without id
-
- "<span style='--link-color: var(--text-normal);'>" + file.link + 
- "<br>" + "<small style='opacity: .4'>" + file.folder  as "File",
-
-"<span style='color: var(--color-green);'>+" + string(slice(split(string(dur(date(now) - date(file.mtime))), ","), 0, 1)) + " ago"
-+"<br>"
-+ "<sup style='opacity: .5'>" + dateformat(file.mday, "EEEE")
-as "Modified"
-
-
-
-flatten "<span style=''>M</span>" as flair
-sort file.mtime desc
-limit 12
+```dataviewjs
+const pages = dv.pages().sort((a, b) => b - a.file.mtime).limit(24);
+ const map = pages.map((p, i) => [ `<span style='color: var(--color-accent);'>\\#${i+1}</span>`, p.file.folder === "" ? "<span style='color: var(--text-faint);'>Empty</span>" : p.file.folder.split('/').slice(2, 3) + `<br><sup style='opacity: 0.5'>${dv.fileLink(String(p.file.folder.split('/').slice(2, 3) + "/README.md"), false, 'Namespace')}</sup>`, p.file.folder.split('/').slice(2, 3) + "/... " + dv.fileLink(p.file.path, false, p.file.name + ".md") + `<br><sup style='margin-inline-start: 1.2rem; opacity: 0.35'>${(p.file.folder === "" ? "File has no folder..." : p.file.folder)}</sup>`, `<span style='color: var(--color-green);'>+${Math.round(DateTime.now().diff(DateTime.fromISO(p.file.mtime), 'hours').hours)}h ago</span>`, Math.round(p.file.size / 1024) + " MB"]);
+ dv.table(['\\#', 'Namespace', 'File', 'Time', 'Size'], map);
 ```
+
