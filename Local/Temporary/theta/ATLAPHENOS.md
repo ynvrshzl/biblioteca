@@ -1,0 +1,3 @@
+A proposed model of Phenomenological Atlas. A mapping of spectrum, emotion, and phenomenological human...
+
+Based on our studies with Kybernautics, the first model is establishing a Continuum; extremes between two points. We may define this as the axis of 'Time.' Beginning and End, Life and Death. a<->b

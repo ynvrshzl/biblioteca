@@ -10,11 +10,12 @@ image: https://images.unsplash.com/photo-1650648065216-1e80af24193b?ixlib=rb-4.1
 <sup>Image: Courtesy of https://www.pexels.com</sup>
 
 ###### Description
-The "Bibliotheca Universalis" is a Public Domain Knowledge for oddysey of actuation of knowldge, modern day information complexity, and ethical problem-solving. 
+The "Bibliotheca Universalis" is a Public Domain Knowledge for oddysey of actuation of knowldge, modern day information complexity, and ethical problem-solving.  A knowledge interface to the world and the human. Knowledge is power, but power without stability, cannot be harnessed. Power without Ethics is destructive. Knowledge without action, is merely data. This project ultimately explores this as a central thesis of gravity, for all of the work proposed.
 
 ###### Locations
 [Open system backend](Documentation/README.md) or [Enter library](Public/README.md)
 
+
 ---
 
-<sup>Copyright (C) 2026 Hazl, MIT Licensed, Courtesy of...</sup>
+<sup>Copyright (C) 2026 Hazl [@Hazl](https://github.com/ynvrshzl), MIT Licensed, Courtesy of...</sup>
