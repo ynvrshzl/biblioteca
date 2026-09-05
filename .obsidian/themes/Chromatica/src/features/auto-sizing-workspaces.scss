@@ -1,0 +1,15 @@
+.workspace-leaf  {
+    container-name: leaf;
+    container-type: inline-size;
+}
+@container leaf (width < 320px) {
+    .markdown-preview-view {
+        --font-text-size: .8em;
+		--file-margins: 5px 0px 5px 5px;
+		// padding-right: 0;
+    }
+	.markdown-preview-view::-webkit-scrollbar
+	{
+		display: none;
+	}
+}

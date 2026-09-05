@@ -1,0 +1,1 @@
+The study of Time (Chronos, Structure, Eventuality) and Sync (Order, Harmony, Unison, Feedback, Coordination)

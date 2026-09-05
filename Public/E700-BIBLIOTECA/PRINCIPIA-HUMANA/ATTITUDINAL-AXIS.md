@@ -1,0 +1,1 @@
+How our attitude, mindframe, affects us. Almost as an "Attitud-inal Axis" which orients the self

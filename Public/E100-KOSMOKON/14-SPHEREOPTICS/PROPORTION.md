@@ -1,0 +1,1 @@
+The spheres of continuity, are also proportionally fractional. For example, at the "Meta" lens of perspective, a piece of music is... However, zooming outward from the music and into the external enviornment, we see a new proportion of spheres

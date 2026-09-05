@@ -1,0 +1,6 @@
+.callout:not(.is-collapsed)
+{
+    outline: 5px solid red;
+    outline-color: color-mix(in srgb, var(--background-modifier-hover) 35%, transparent);
+    background-color: color-mix(in srgb, var(--background-modifier-hover) 35%, transparent);
+}

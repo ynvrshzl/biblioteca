@@ -1,0 +1,13 @@
+// hide tab for split view
+// To affect ONLY for horizontal tabs, insert the ".mod-horizontal" 
+.workspace-split.mod-root .mod-horizontal .workspace-tab-header-container {
+    transition: height .2s ease-in-out;
+}
+.workspace-split.mod-root .mod-horizontal .workspace-tabs:hover .workspace-tab-header-container { 
+    height: 40px;
+}
+.workspace-split.mod-root .mod-horizontal .workspace-tabs:not(:hover) .workspace-tab-header-container {
+    height: 0;
+    overflow: hidden;
+
+}

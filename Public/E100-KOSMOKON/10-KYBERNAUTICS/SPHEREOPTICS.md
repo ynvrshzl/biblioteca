@@ -1,0 +1,3 @@
+Sphereoptics is a branching study of [Kybernautics](Public/E100-KOSMOKON/10-KYBERNAUTICS/README.md) To make the structures of infomraiton visible...
+
+Among the spheres of study, the 4... [Spheres](Public/E100-KOSMOKON/14-SPHEREOPTICS/SPHERES.md) Major spheres, includes the "Metasphere", The "Macrosphere", the "Microsphere" and the "Iotasphere." These spheres are synonymous with the function of "Lens," in that a lens is an actuation for vision.

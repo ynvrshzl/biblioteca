@@ -1,0 +1,1 @@
+The 'Work' atlas separates our 'Work' domain. Focusing on sustainable productivity, continously centered around orthogonal areas of one's life, e.g., the 'Health' sphere.

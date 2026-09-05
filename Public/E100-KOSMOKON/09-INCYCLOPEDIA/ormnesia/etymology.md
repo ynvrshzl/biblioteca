@@ -1,0 +1,1 @@
+This word is a composition form of: **Orientation + Amnesia.** 

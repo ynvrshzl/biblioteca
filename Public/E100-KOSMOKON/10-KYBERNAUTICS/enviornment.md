@@ -1,0 +1,1 @@
+The enviornment shapes our capabilities.

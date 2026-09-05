@@ -1,0 +1,1 @@
+split(string(dur(date(now) - file.mtime)), ",")[0]

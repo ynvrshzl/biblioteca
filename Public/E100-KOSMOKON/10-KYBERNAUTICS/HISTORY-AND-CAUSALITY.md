@@ -1,0 +1,1 @@
+History organizes events across time, as they unfold. This reveals the cause and effect between things.

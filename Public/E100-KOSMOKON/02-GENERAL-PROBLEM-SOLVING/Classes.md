@@ -1,0 +1,1 @@
+Classes of problems help us identify, define and [Model](Public/E100-KOSMOKON/02-GENERAL-PROBLEM-SOLVING/Modelling.md) problems.

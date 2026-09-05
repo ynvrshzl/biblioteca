@@ -1,0 +1,1 @@
+<span style='color: var(--text-faint);'>|</span>

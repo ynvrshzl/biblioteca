@@ -1,0 +1,2 @@
+## Identity & Autonomy
+Identity is integral to the human being. The identity is the interface between the raw external phenomena of the world, and the internal processing of action. This is recursive; our internal process becomes external the moment we choose to act 

@@ -1,0 +1,24 @@
+// @debug - trying different callout styles?
+@use "./callouts/base";
+// @use "./callouts/style2";
+@use "./callouts/style1";
+// @use "./callouts/animated-outline.scss";
+// @use "./callouts/gray-box.scss";
+// @use "./callouts/colorized-title-background.scss";
+// @use "./callouts/hover-outline.scss";
+@use "./callouts/dot.scss";
+
+.callout:not(.is-collapsed) .callout-title-inner
+{
+    color: var(--text-normal);
+}
+.callout-content
+{
+    padding: 0px;
+}
+.callout-content p
+{
+    margin: 0;
+}
+
+

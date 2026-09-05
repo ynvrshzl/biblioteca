@@ -1,0 +1,4 @@
+---
+icon: ":LiCroissant:"
+---
+`="<div style='height: 25vh; display: flex; justify-content: center; align-items: center; font-size: 4rem; opacity: 0.1;'>" + this.icon + "</div>"`

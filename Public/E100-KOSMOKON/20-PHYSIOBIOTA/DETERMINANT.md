@@ -1,0 +1,3 @@
+Physiobiota cannot be the determinant of life. We are not merely creatures of instict; even if the base strata of human functioning is biology; this is merely a materialistic, observable component, of a much larger, "essential" inquiry of being. 
+
+This is naturally where the Mythic or the Sacred and Religious, emerge into the image, as the physical fades and possibility...

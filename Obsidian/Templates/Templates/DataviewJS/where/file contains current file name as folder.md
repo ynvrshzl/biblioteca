@@ -1,0 +1,1 @@
+const pages = dv.pages().where(p => p.file.folder.includes(dv.current().file.name));

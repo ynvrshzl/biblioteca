@@ -1,0 +1,1 @@
+"Completed " + length(filter(file.tasks, (t) => t.completed)) + " of " + length(file.tasks) + " tasks",

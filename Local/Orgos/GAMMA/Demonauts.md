@@ -1,0 +1,3 @@
+"If you haven't taught yourself how to deal with pain, you better learn now... life won't wait for nothing." - Captain Arch
+
+Uniforms of the [Demonauts](Local/Orgos/GAMMA/Demonauts.md) of the Ancient-City: one of the most important stories ever told, becusae it showcases the Human will to survive and push, despite having no biological support, no material objective, and no philosophical purpose. Simply: "It is my mission." The uniforms are particularly important, as I dreamt of them having a quality of "soldier." 

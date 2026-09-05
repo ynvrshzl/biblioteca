@@ -1,0 +1,1 @@
+Stress and tests are expected in disciplinary fields; why would we expect any less of in the constant learning of real life?

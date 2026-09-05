@@ -1,0 +1,3 @@
+Why is importance + significance, complex to calculate, even Metronomically? 
+
+The features of importance are: proportionality and relativity. Importance exists at multiple scales of resolution. While "project-a" may be the "most important" in one's life, "project-a/task-b" is proportionally...

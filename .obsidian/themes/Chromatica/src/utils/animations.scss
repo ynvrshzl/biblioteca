@@ -1,0 +1,30 @@
+@keyframes outline-color-pulse {
+
+    10%,
+    80% {
+        outline-color: transparent;
+    }
+
+    90% {
+        outline-color: rgba(var(--callout-color), 1);
+    }
+}
+.anim-pulse {
+    animation: pulse 2s linear infinite;
+}
+@keyframes pulse {
+
+    0% {
+        outline: 25px solid currentColor;
+
+    }
+    
+    50%{
+        background: transparent;
+        outline-color: transparent;
+    }
+    80% {
+        background: currentColor;
+
+    }
+}
