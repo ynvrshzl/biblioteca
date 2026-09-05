@@ -1,0 +1,7 @@
+SInging is difficult becusae:
+
+1. The human voice by default does not naturally have the ability to sing.
+2. This means we have to spend a long time training this ability
+3. When notes connect (glissando, legato, etc.) those gradients in pitch make it extremely difficult to stay consistent with single notes.
+4. The singing industry is less of a community, and more of a gate-kept world. 
+5. Nobody really tells you what proper singing is supposed to feel like

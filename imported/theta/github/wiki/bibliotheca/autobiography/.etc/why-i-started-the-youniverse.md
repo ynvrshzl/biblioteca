@@ -1,0 +1,1 @@
+To be as a bridge for all of us who are sensitive to life's motions, a place where we can share traces of our lives & prove to each other, that we are not alone, we are just distant.

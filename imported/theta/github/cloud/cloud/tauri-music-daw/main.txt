@@ -1,0 +1,34 @@
+how come a fully-featured... or even prototypa web-based DAW doesn't exist yet?
+
+strudel.cc is the closest thing to that vision... except ofcourse... it has several limitations:
+- source code to control music is very niche, but very powerful 
+- no visual timeline
+- text editor does not have sound-intuitive controls. only start, stop, or interpret.
+
+this is an idea we had... becuase if strudel is capable of what reaper and fl-studio can do... in terms of software capability... then the only thing those programs have is features... not core essentials that we can't reach in a browser sandbox enviornment!
+
+- hardware compatibility & live preformance... although strudel is already bridging the gap here aswell
+- prepacked content... honestly strudel already has audio samples (that's incredibly important) and it comes with a ton of effects that are not even available as visual tools becuase they are inherently programmable...
+- visual interface... natively, strudel is meant for live coding algoraves with minimal visualizations... so this is understandable but also it's biggest limitation
+
+i was thinking we could continue our little music maker tauri/browser enviornment idea... 
+
+making music is so important for me... but ever since we switched from windows to linux... we lost all of our music-making resources. and linux doesn't support VSTs like windows does...
+
+speaking of which... that's what gave birth to this idea... a DAW that feels like it belongs in the modern age... even though there are several attempts at doing this like Bandlab's web editor... it's essentially a proprietary tool, not something you can actively extend and build on your own.
+
+instead of having VSTs, which are the main source of audio crashes and project memory issues, we could still have that community-driven idea of sharing effects, sounds and plugins... but with a language/block-based-system inside the DAW itself... kind of like a very strict modular API.
+
+
+the biggest hurdles would be what would make this program useable!
+- finding ways to easily streamline audio resources like... sample packs, prepackaged things...
+- choosing the right enviornment... browser vs desktop...
+- recording from devices
+- latency and performance
+- building the vst-alternative plugin block system
+- combining the best of both worlds: the visual intuitive nature of REAPER and the source data approach of Strudel REPL
+
+i'll save this to our Mega cloud so we can work on it later, but for now, let's explore!
+
+and as a side note... this is important to me... becuase making music is important to me...  however... the biggest timeblock is getting audio resources and vsts... that's why we wanted to develop this!
+

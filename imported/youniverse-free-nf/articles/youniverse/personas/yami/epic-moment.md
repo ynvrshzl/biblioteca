@@ -1,0 +1,1 @@
+Yami took off his shirt & you see for the first time the scars on his body, and how muscular & strong he really is. A burtal balance of endurance, and torment.

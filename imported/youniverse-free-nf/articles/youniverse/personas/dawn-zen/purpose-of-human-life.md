@@ -1,0 +1,3 @@
+Dawn Zen: human beings were never meant to ascend physically. Once we have good, we want better. And after better we want the best. And then there is the next best. It is never enough.
+
+Yami asks: "So what should we do?" Dawn calmly smiles: "We? I have no idea what 'we' should do. But I know what I should do. I help, especially our younger brothers & sisters in need." Yami looks at Dawn with teary eyes: "But... Dawn, what if I can't help?"

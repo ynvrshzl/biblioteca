@@ -1,0 +1,3 @@
+we're realizing that intuitively stories have structure like sustainable computer programs. there are primary characters and there are supporting characters there are background characters and there are positions. It's not a hierarchy It's definitely a graph. everyone is connected to someone. no one is isolated. 
+
+It's a lot like a sports team there are positions on field because each member has a specific role. That's actually going to give structure to sports and a lot of the tension actually comes from the graph like relationships of the roles and the sport itself. relationships of the roles and the sport itself.

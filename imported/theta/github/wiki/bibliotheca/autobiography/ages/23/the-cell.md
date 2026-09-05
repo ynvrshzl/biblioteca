@@ -1,0 +1,2 @@
+# The Cell Which Refused to Die 
+this is a short story in my autobiography, in our autobiography. the story about how we survived severe depression and chronic fatigue, completely alone. though I believe in a spiritual existence, I was probably never truly alone.

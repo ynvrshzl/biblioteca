@@ -1,0 +1,1 @@
+officer mayer works in his detective departments. and usually, the detectives are wearing standard white dress shirt, with Detective gear straps. so they're walking around pretty menacing.

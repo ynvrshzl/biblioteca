@@ -1,0 +1,1 @@
+My identity has gone through many shifts, pulls & push. I want to be as pretty as cis-gender female, because I want to inspire young people like my younger self, especially since I always noticed how females are criminally underrepresented in every area. men are the ones doing everything it's time to stop.

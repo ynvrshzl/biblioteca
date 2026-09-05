@@ -1,0 +1,5 @@
+I wake up with a racing heart. I guess it's becuase of school. I get so nervous & happy, I love this feeling. The bright early sunny morning orange light, fills my room.
+
+Throughout the busy city streets, I hear a woman. Her voice echoing through a loudspeaker: *"Good Morning, citizens of Lost Angelis. Remember to smile today, for a serotonin boost! And remember, smiling boosts serotonin!"*
+
+Then we reach the school doors, they are as tall as the building itself. *"There is no way anybody can open that!"* I tell my friends. Katerina says: *"This whole city is meant for people that can afford doors they can't even open."* I tell her: "Aw Kat, be grateful they let us in. It's been a crazy day already." I sip my coffee, as i feel a hand behind me... creep on my shoulder. "Hey buddy, what do you think you're doing." I hear a dry, creepy voice of an old man talk to me. But as i turn around, i see nobody. I panic & scream, dropping my coffee on the floor: "AAAAAA!" Katerina screams: "Yami!? Are you okay?"

@@ -1,0 +1,5 @@
+This is one of the most terrifying parts of the information age, especially a polymath, or someone who worked with the knowledge and information, because we can forget important things. for example, we can forget important movies that served to shape us, one may argue the value is not found in the information itself but rather the integration of the information it to the self 
+
+but it is possible to forget important things, what's important is understanding the mechanics of non-clinical amnesia, a phenomenon of human memory.
+
+A key idea here, is that information recall requires association because we cannot remember everything all at once, even if we do possess some memory of it. This is important because it means we somewhat rely on external sources of memory not a storage but as retrieval, as prompting. these external applications awaken these dormant structures in neural memories.

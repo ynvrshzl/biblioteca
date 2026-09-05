@@ -1,0 +1,1 @@
+"I screamed into the void and nobody listened. sing this song with me our suffering lessoned."

@@ -1,0 +1,1 @@
+Before jumping in the computer program, it is wise to prototype solutions. It is easy to get stuck in diagrams or documentation, which is why we use external tools to keep track of time and the original [stable-vector](stable-vector.md)

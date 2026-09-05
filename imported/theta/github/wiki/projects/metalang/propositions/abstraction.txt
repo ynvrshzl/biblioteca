@@ -1,0 +1,35 @@
+to solve the fundamental problem of abstraction and programming, we propose two solutions. Abstract and Program.
+
+take this classic example; function(x, y). it doesn't seem to be very complicated, it's very clear about its inputs, x and y. this is usually where tools start adding type notations and comments to try and document the abstract values. 
+
+the reason that doesn't work is because it's not part of the program itself. it doesn't provide position or location information for the human being. it is simply a local definition, but as soon as we start working with systems, if we don't have geological structure, that means that the human being is forced to store it in working memory.
+
+that's the biggest problem, whenever programming takes away the already limited human working memory, this is what causes stress and burnout and frustration and broken systems that just somehow work. 
+
+the reason it worked is because it's dysfunctional. that means it's functional, but in a broken non-sustainable way. 
+
+our introduction of the abstraction block is essentially a proposed solution to this catastrophic problem that we face as engineers every day. 
+
+ this is one of the most invisible parts of programming and yet we constantly work with abstract values. that means that we have gotten so used to a dysfunctional system, we don't even notice it's errors. that is the definition of dysfunction! the purpose of this block is to solve the fundamental problem by providing visibility of abstract values as visible members of the program. 
+
+however this still does not solve the fundamental problem, which is system visibility. essentially when we have an abstract value that calls another abstract value we've created two levels of abstraction that we have to hold in working memory. but we as engineers often deal with a dozens of abstraction levels in a system. you could consider each abstraction, like a dimension. a single abstraction is like a point in space. essentially the abstraction is a placeholder for an input value. but as soon as an abstraction references another abstraction, that's like a pointer in C. that's not only creates a linear path of values, but it literally creates a new dimension. we ask human beings really can only work with three dimensions and as soon as you ask more, that's where systems fall apart and it's not our fault, it's just not our native language. we walk in paths not in branches or graphs. 
+
+and so fundamentally another block to solve this core issue is some kind of schematic, data flow, program block.
+
+new Program("Main program")
+
+the reason this could work is because we establish a standard, it is inspired by the main entry point function of system languages like C and Rust. these languages have to be extremely robust and complex because they are embedded in a real-time system, usually operating systems or infrastructure. not only does it have to handle logical branches of data, but it has to create a system where the human being can interface with these complex relationships, operating in really high levels of dimension. 
+
+the reason a program becomes so complex is because we are trying to understand that dimension and work with it, because optimally, a program could be represented with minimal information. kind of like how a bundled file looks like to a human being, it's not meant to be readable, it's just meant to be functional for the computer. that's essentially what programming is at its core, a translation layer for the human being, but programming itself is capable of expressing essentially an infinite amount of abstraction layers, and so we need to tether this back to the human being because otherwise we are constantly moving in and out of dimensions and domains. so I think that's why the program block works. I think conceptually you can look at a program block and understand that no matter how complex the program is, everything is executed along this path.
+
+
+new Program("Main").thread("min").output().to().thread("max")
+
+
+new Thread("min").input("y").input("x").switch("logic").output("x").if().input("x").is("Less than").input("y").otherwise().output("y")
+
+new Abstract("y").describes("A number for calculation.").is("Integer").sample(5)
+
+new Abstract("x").describes("A number for calculation.").is("Integer").sample(10)
+
+new Try("min").input("x").as(9).input("y").as(9).output("console")

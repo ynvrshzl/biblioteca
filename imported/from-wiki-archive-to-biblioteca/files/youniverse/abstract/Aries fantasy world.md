@@ -1,0 +1,1 @@
+ Aries fantasy world She gave herself parents, Viking parents, she imagined a world where she was different and it's deeply inspired by the movie brave with so much references to Vikings and Norse life and mythology

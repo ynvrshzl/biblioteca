@@ -1,0 +1,1 @@
+The gang of LA, every night, had "nights of" where they saved as many people as they could. Either by stealing from the sleeping rich, or by helping in other ways. However, they quickly realized why the world was the way it was. Some people, refused to get help, and infact, tried to hurt the members. 

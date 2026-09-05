@@ -1,0 +1,3 @@
+Having 10-15 projects at any given time, is like second nature for a polymath, but researching and learning from polymaths/brilliant people of the past, I learned...
+
+- Focusing on one thing for a sustained period of time. Now, this is misleading because pacing matters more than density. One can, by aggregate, accumulate sustained work, through sustainable

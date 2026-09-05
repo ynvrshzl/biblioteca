@@ -1,0 +1,1 @@
+- [ ] studying favorite real-world/game/fantasy maps to develop a text-based, visually-parsable, literature wiki model of lost angelis world. probably best constructed using

@@ -1,0 +1,1 @@
+Jaeydn: "the hardest part of the day is starting (getting myself out of my sleeping bag). the hardest part of the night is everything to stop myself."

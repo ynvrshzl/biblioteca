@@ -1,0 +1,5 @@
+The life of Jack, Jacquees, is tragic, and an exploration in human psychopathy and the risk of social isolation for a brilliant genius. 
+
+essentially He was a genius, virtuoso, have video ability to play the violin at a professional level, when he was a child. He was one of the most crowned members of the royal family. until he realized The corruption, not only of his Royal family, but of the world he lived in. 
+
+This is made especially apparent when as a child he was continuously bullied by the same pack of kids, and no he did anything to help him. eventually very lies that he could either be a victim, or use his brilliance as a weapon, and this fundamentally hurt him, because once he realized that he could outsmart people, he became so much of the opposite version of the brilliance of law. law, Lawrence wise closely related to Jack, in fact throughout the universe, brilliance is often symbolized through many images, and the one of the most common is grave or white hair. because brilliant is often associated with high levels of stress and aging. 

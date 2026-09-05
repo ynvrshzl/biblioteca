@@ -1,0 +1,2 @@
+- Source code is like having the ability to edit the blueprint, and modified output in real-time.
+- this explains both the power and detriment of source; We rely on external sources of information, to determine code function, because it cannot explain itself (the way mathematics encodes meaning as symbolic transformation, code is symbolic transformation of meaning, for output.)

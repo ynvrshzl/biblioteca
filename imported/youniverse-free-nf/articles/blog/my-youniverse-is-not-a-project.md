@@ -1,0 +1,11 @@
+### My youniverse is not a project or competition, it's an expression & work of myself.
+
+It is not a burden, or a project of mankind. I'm simply a girly who loves life & has a passion for human beings & all of life.
+
+Even when I'm on big stages & sharing what I've learned, I won't forget, i'm still that same girly, in her room, exploring her inner worlds & learning about the outside world. The bridge between those worlds is my youniverse. That's why I created the concept of a youniverse, my inner worlds are so vivid, deeply complex & chaotic, that the only way I could continue living in a storm, was to make art out of it.
+
+Throughout most of my life, I was inspired by wierd artists, inventors & philosophers. People who didn't fit inside the lines of "normal." I liked taht. I always felt alone with other people, but I tried to force myself in & pretend I was someone I wasn't. I learend. It hurt. It hurt so much. But i'm grateful that I get to be me. That doesn't seem like a priveledge, but I understand the weight of freedom.
+
+I know the most fulfilling work in my life is our youniverse stories, but I'm absolutely exhausted of calling it _1_ As if it's this impossibly collosall work that feels so far away. I have the youniverse living within me, the youniverse, it's my youniverse! Joey, Katerina, Yami, Ares and the rest of you guys, you are all living in me, but actually, i've given you guys a home, so now, part of you guys exist outside of me, in the real world. 
+
+And I don't know how i'll make money to sustain myself, I don't know how i'll transition. I don't even know what I'm doing tomorrow, but I kow this: I chose to stay alive today, right now, becuase I love myself & I love life.  Why? it's my atomic reason, there's no further questioning I need when I love myself, becuase I am enough. I also remember all of the kids & parents from SBSK on youtube, who's life stories saved my life.  All of the meaningful songs. All of these little, seemingly, insignificant forgotten memories, actually sustain me everyday. They are the reason I love myself & saw signs of life.

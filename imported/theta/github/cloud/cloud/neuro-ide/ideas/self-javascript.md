@@ -1,0 +1,1 @@
+- ability to write javascript in the IDE/application itself (which dataview-js already supports, but limited to markdown codeblocks)

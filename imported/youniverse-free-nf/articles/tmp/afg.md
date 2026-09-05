@@ -1,0 +1,1 @@
+you can make of your life anything you want it to be, atleast, in perception. if you can even have this thought, I realize I am priveledged. whatever limits I face in my life are mostly imagined.

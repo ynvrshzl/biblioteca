@@ -1,0 +1,1 @@
+The paths world is an analogy for the many paths a human being can take in their life. Every decision, wether taken or abandoned, influences your life, and all of the life around you. Knowing this complexity of the youniverse within you & outside, what will you do? That will define your path more than anything.

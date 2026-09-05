@@ -1,0 +1,1 @@
+Magdelene's mouth is closed shut by stitches. *How did she get them?*

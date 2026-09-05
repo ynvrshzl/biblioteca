@@ -1,0 +1,3 @@
+What is your dream life? when you imagine the life that you could have the very best, balanced and older means, basically your dream life without pain and suffering, what would you have? This is an incredible thought experiment and partly what saved my life.
+
+there was thanks to Jordan Peterson's work, open my eyes and realize that, The human being without direction, is basically an isolated unit and a vast space of stars

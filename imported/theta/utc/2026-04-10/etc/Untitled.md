@@ -1,0 +1,5 @@
+the main plot of Los angeles, is that there are psycho soldiers, brain soldiers, neuro soldiers. basically, I just had a little vision while taking a fever nap. I just got extremely stressed out working on our website and overwhelmed with all of the systems and the UI and basically I just became an entangled mess, akin to poor cable management. but the thing is it's not entirely my fault, and I imagined a female military sergeant, perhaps scarlet, which is Nikki's mother. 
+
+she was telling a tired soldier: "you're stressed out? good! that's the point! we can only discover solutions from inside the system, while you're out there actually fighting... (condescendingly) well, you're in your little brain neuro suit, but you know what I mean." 
+
+retired soldier responds to her, "I know, I'm just tired. my brain hurts. it feels real." Sergeant Scarlett gets close to the soldier: "of course it feels real, it (e) is (/e) real. we're trying to discover the cure to human suffering so we can finally be freed us from this madness! that's the dream of a doctor... he's the whole reason we're in this operation. so get in there soldier."

@@ -1,0 +1,1 @@
+- self-talk is a core part of the self. it is often one of the most intrusive, invisible parts of the experience.

@@ -1,0 +1,8 @@
+# suffering reminds me I am alive
+
+Created: October 15, 2025 4:02 PM
+Edited: October 16, 2025 5:06 PM
+
+in most horrific moments where I just wanted all to end we're thinking only makes things worse where everything I try only makes it worse it seems that I'm sinking and I don't know whether to fight or to stop these are moments of crisis it's not a battle it's an emergency. in those moments nothing meaningful in life makes the pain any less painful but I remind you that there is life outside of this. and if you stay alive this pain will not only go away but it will also make sense. even then, that isn't enough you need a reason to be alive someone or something to fight for for me it was my inner child to give her the best life that she deserves to give myself the best life that I deserve.
+
+i understanding at least in my life the purpose of suffering and pain recently I experienced a gratitude for life unappreciation and sadness that I will lose my life and it was beyond saying I'm grateful I felt it in my entire being I was both terrified and in awe of life… life through my eyes. I had a respect for life that I had lost this is why I believe sometimes I experience moments of complete isolation and numbness when I get out of those impossible moments I always appreciate just being alive. having come so close to losing my life pain is what keeps me humble and what helps me to feel alive. he reminds me what matters most in my life it isn't the legacy I'll leave behind or my stories or my ideas or my songs or my plans or files or anything per minute it's the very fact that nothing is permanent including my very own life

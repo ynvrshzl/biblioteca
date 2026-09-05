@@ -1,0 +1,17 @@
+{
+  "showInlineTitle": false,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "openBehavior": "file:Homepage",
+  "vimMode": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "propertiesInDocument": "hidden",
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "defaultViewMode": "preview"
+}

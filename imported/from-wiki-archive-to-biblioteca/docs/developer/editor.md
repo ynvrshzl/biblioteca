@@ -1,0 +1,2 @@
+# Future wiki dedicated editor
+For now, this wiki is constructred using [Obsidian](import/wiki-cluster-2.0/system/docs/access/obsidian.md)... but someday there could be a dedicated editor for this wiki. Perhaps, within our [website](website.md) itself! Then it would truly be a homage to one of the primary sources of inspiration for this project, [Wikipedia](#)

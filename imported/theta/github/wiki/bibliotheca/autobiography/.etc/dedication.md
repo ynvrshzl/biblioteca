@@ -1,0 +1,3 @@
+Why did I choose to dedicate my life to some of the darkest parts of human life? The reason was, is, and always will be, simply becuase I love life. I appreciate the colors & senses of life, the darkness & chaos, and the euphoria & transcendence. We have no idea what awaits us, the un-lived experiences, the possibilities, the answers to our excruciating questions.
+
+Instead of defaulting to my human nature, which is to avoid pain & seek pleasure, I devoted my life to understanding, feeling & exploring human psychology & nature. I isolated myself & spent months without talking to anyone. I didn't do this to save anyone's life, I did this becuase I love life, and I want to help **so people stop needlessly suffering, when we have the solutions.**

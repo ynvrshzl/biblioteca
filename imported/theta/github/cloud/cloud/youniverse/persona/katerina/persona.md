@@ -1,0 +1,5 @@
+- Hair:
+- __Eyes:__ Exhausted, sleep-deprived look in her eyes
+- __Expression:__ Usually 
+- __Common jewelry:__ Katarina wears the choker that once belonged to her mother. It is the only thing that keeps her safe.
+- __Personality:__ 

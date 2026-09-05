@@ -1,0 +1,12 @@
+in computer programming, we usually start with a pretty clear idea of what we want to build. but most of programming actually feels like translation and calculation and logical processing and error handling and all of the separate domains that you don't really think about when you have that original idea. and this must be the reason why as programmers, we often lose the original idea or purpose of the program. I feel like all of the modern tooling, are just adaptive prosthetics, but in the form of casts. THey try to give this blind-spot by... sorta... feeling for it... but i think this is why it is so important to study things from all angles, and with this project, we're researching both problems and potential solutions, to aid in the fluency of language between human and machine.
+
+Now ofcourse, artificial natural language systems seem to have already solved this dilemma, however, they remove the engineering aspect almost entirely. You could always ask "just fix the code for me" instead of "explain why z works, but not q in this case." 
+
+What if there was a way to  leave little thought traces in the code itself? not as green-text comments, sitting outside of the  code... but rather.. in the code itself.
+
+At this stage, we are so far from the original note, how could be possibly stay on track? Is this an architectural-design problem, or is it a physical human limitation? By stepping away from the code, we can process it in imagination... but then... why can't we treat the live-coding process the same way?
+
+```java
+Notebook("Sample").note("So this is a little sample of what it would be like to write little thought traces throughout the code."); Abstraction("a"); Abstraction("b');
+Transformer("Sample").log(`We can always re-trace back to the original notebook. It's like meta-documentation time-travel. Excited face goes here.`)
+```

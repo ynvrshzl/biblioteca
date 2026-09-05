@@ -1,0 +1,16 @@
+an ide for the brain? no no, it's an idea to help you manage overwhelm and complexity in our life.
+
+essentially that's the only purpose of this computer program.
+
+implementation:
+- markdown-based
+- the basis of extension is javascript + markdown files
+- the same way we use obsidian to create our own dataview queries to he; us organize parts of our vast vault, into contextual "views"
+- context is key: it is the central force of the progarm, just like the human mind.
+- perhaps context can be a welcome screen > prompt "what are you thinking about right now?"
+- context = prompt result -> show a graph of nearby connections
+- graph is not manually created -> obsidian only creates graphs thorugh hyper links, but the mind connects topics without specific links. links are drawn by each word. so we could treat it the same
+- create your own 'app' using text-files & custom js/ts in the in-editor compiler
+- like an extended, fluid version of obsidian was for us
+- the base editor is a text-editor with core functionality to aid in creating a space for thought, reflection, analysis and ideally (ide) translation of thought -> into positive action.
+- like a research lab in your pocket (or laptop)

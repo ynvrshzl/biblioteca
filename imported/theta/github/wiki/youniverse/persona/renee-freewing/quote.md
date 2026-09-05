@@ -1,0 +1,1 @@
+"If I were to die, i'd hate to have wasted my whole life like this. Just a rundown military goodie two-shoes. So now, I live everyday like it's the last i'll ever get."

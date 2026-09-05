@@ -1,0 +1,4 @@
+# Context as a principle of Continuity and coherence
+
+## 1.0 - Research
+Did the Greeks emphasize the importance of context as a foundation principle in human flourishing and collective well-being? there's something significant about context as a principle of continuity and unification; a story is comprised of continuity across scenes and moments, context is arguably the story surrounding a moment, concept, or general unit of information. context also provides unification, essentially unifying sparse domains as one cohesive interface, a model of being which guides and instructs the psyche... at least that is my current working hypothesis of context. it's very complex mechanically, so I believe giving real world examples is a more effective phenomenological approach to understanding the significance of context, as well as defining it properly in a field of study, perhaps the unification of ethics...

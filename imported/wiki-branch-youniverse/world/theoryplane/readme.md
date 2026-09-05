@@ -1,0 +1,1 @@
+In theoryspace (tpn) we could conceptualize, according to physics, a theoretical plane in which all possibilities exist. this means all problems and all answers exist as states of potential. discovery

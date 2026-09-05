@@ -1,0 +1,2 @@
+# Near death experiences for healing 
+there is something extremely powerful about near death experiences. like I was just walking nearby a toilet wall lake. And for a second I turned around and honestly so many things could have gone wrong but I'm still walking here with my mother and I believe my life is protected by something we don't understand. for someone who's depressed it's also incredibly important to survive and your death experience It almost wait to your nervous system up

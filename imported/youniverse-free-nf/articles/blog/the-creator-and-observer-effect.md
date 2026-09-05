@@ -1,0 +1,1 @@
+There is a wall between creating something, and experiencing it. This happens in every field, from software to cooking. The person who gets to see the entire process, doesn't get to see it for the first time, and that is the unfortunate price to pay for being a creator.

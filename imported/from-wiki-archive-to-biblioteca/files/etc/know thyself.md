@@ -1,0 +1,3 @@
+"know thyself" ... is one of the most powerful phrases I've ever heard, I think it may be one of the invariant principles of human life, of human well-being, of optimal integrated functioning, to understand oneself, before...
+
+to be able to understand not only arbitrary weaknesses and strengths, but understanding what exactly drives motivation, what are the threshold of pain, managing excessive stress, managing the balance between work and life, learning one's natural cycles and patterns, all of this is implicit, we rarely explicitly structure and order Our lives as one integrated interface. but I believe today it is necessary. it is necessary to avoid unnecessary suffering,

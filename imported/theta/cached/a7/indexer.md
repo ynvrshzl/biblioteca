@@ -1,0 +1,3 @@
+Context: this cli script could possibly help creating index pages/table of contents? Basically, assembling arbitrary list queries... which would have to be updated when files change... hmmm... Is this worth the struggle? Are index pages really that necessary?
+
+perhaps dataviewjs/templaterjs... or an actual nodejs or sh desktop script... to generate actual file content... not just displaying dv... 

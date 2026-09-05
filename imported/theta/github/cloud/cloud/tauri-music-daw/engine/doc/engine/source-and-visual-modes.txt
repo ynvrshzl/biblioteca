@@ -1,0 +1,1 @@
+The engine is avaiable as both source and visual mode. Essentially, these are the two main ways a musician in today's world is interacting with a computer, to create music.

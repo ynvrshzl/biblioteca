@@ -1,0 +1,1 @@
+THe main message of the stories I tell, is that we are all different, and we all have a choice. 2 people can be given the exact same life, and yet, they will respond completely differently. It is not the life we have been given that defines us, but rather, who we choose to become.

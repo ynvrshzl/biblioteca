@@ -1,0 +1,1 @@
+Can we overcome analysis-paralysis by reducing comparison metrics to one parameter? E.g., if choosing between designs, constraint the search space to comparing only colors? 

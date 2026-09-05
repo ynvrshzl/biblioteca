@@ -1,0 +1,43 @@
+if we treat vim as a giant lego store, with lego kits and blocks and shapes, suddently, it becomes fun and manageable.
+
+(1) movement blocks
+"movement"
+
+this section is dedicated to the base blocks. these are the basic movements that everything else in vim revolves around. we learn these first!
+
+h... left
+j... down 
+k... up
+l... right
+
+(2) layers
+"layers" or "modes" 
+
+vim starts in "normal" mode. it means we can have basic functionality to build and modify text. but for more control, we have the idea of "modes" or "layers."
+
+insert mode... is dedicated to using the keyboard normally. all keys are no longer processed by vim.
+visual mode... is dedicated to selection of text blocks. 
+command line mode... doesn't edit text, more advanced power users
+multi-cursor mode... a super-layer, that can be combined with other types of layers. essentially, it allows us to create multiple cursors for editing text faster.
+
+
+(3) switchers
+these keys are dedicated to switching between the layers. assuming we start from "normal" mode.
+current mode: "normal"
+
+i... switches to "insert" mode
+a... switches to "insert" mode, but at the end of the cursor
+I... switches to "insert" mode, at the beginning of the line
+A... switches to "insert" mode, at the end of the line.
+
+(3.1) home key
+current mode: "any"
+from all modes, we can return to "normal" mode with these keys. these are like the home keys in vim.
+
+[Esc] 
+or [Ctrl] + [Left square bracket] 
+or [Ctrl] + [C]
+
+okay i'll share this on my youniversity class :)
+
+this is really  how i learn at my best: treat vim ideas like little lego blocks with shapes and form :) and when the blocks become too advanced, put them inside it's own section... like those baggies inside lego kits!

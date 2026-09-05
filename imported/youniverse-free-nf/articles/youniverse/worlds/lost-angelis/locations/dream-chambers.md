@@ -1,0 +1,1 @@
+The dream chamber is a massive location, with hundreds of sensory deprivation tanks, designed to infuse a person with specific dreams & emotions. Though it was originally designed to heal patients with severe trauma, it was later used as a recreative & therapuetic activity. 

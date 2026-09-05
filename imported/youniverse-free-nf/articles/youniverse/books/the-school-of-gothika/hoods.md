@@ -1,0 +1,1 @@
+To hide in the shadows, they all wear hoods covering their faces. 

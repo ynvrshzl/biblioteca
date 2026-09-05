@@ -1,0 +1,21 @@
+Formatting theory is related to reducing complexity in time and space.
+
+
+Queries are a great example of this, becusae they reduce two streams of input, and that scales across time and space. The two steams of input are: data and visual. 
+
+Data and Visualizing are part of the Dynamic-Static theory. Which essentially means in a complex system, there needs to be clarity about what is static, and what is dynamic. 
+
+The purpose of formatting theory is to use computers to reduce as much human labor input as possible, and automate everything that is not directly meaningful. Becuase we human beings are not limited by imagination or work, we are limited by time and space. So we need to be wise about where and why we are spending our time.
+
+
+[Applied Mechanics]:
+I'm designing a mood board for my life. It's simply a table with images and text.
+
+However, the more images and text i put, the more difficult it is to organize it, and display the mood board. Especially when i want to change the format or layout. This might seem like a superficial, cosmetic issue, but it's the best real-world example of the dynamic-static theory that I can find! 
+- The text and images are static, they are the data [static]. 
+- But the layout can change, that is [dynamic]
+
+Instead of manually creating a table, with images, and text, we can write a computer program that recieves the [static] data, and let's us change the [dynamic] layouts of the moodboard.
+
+[Applied Theory]:
+So this way, the data is always static, but the layouts can change freely. Across time, this is how we reduce manual input, and increase the data we can feed into the system.

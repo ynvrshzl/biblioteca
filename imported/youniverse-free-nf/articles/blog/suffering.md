@@ -1,0 +1,13 @@
+Let's assume for a moment that life really is pointless. that all of this suffering in the end amounts to nothing and we will all die and the Earth will explode by the Sun in a couple of billion years. and that all of humanity's history will be forgotten and it will be as if we had never existed. and that the potential extreme suffering itself means life would have been better to have never even existed.
+
+Here is the problem: life is not complete suffering. right in the beginning, I assume that life is pointless.
+
+If it is suffering itself that makes life pointless, perhaps it's your life that lacks meaning, and suffering is the only program that equates. Think of it this way: we human beings are the only creatures that have the capacity to solve the problems of nature, including excess suffering. So if doctors or healers would evolve their practices in the near future, suffering could be extinguished. Perhaps human greed, evil and other more complex issues, would require even more complex solutions, but they exist, they exist in life, not in death. How do I know this? I don't, I beilieve it. But in essence, we odn't know anything for certain, we can only believe & trust.
+
+Now, that doesn't mean you should go insane, just becuase nothing is certain, and we only live by belief. That's non-falsifiable, and that means if you can't test it, that truly is pointless. It isn't life itself that is poiontless or even meaningful, it is us human beings that give it meaning.
+
+now let's assume that because you're in pain, you believe life is ultimately pointless. that doesn't prove that life is pointless it just proves that you're in pain. if I'm really happy and I feel on ecstasy, that doesn't prove that life is worth living, it just shows that I'm really happy in the moment and I enjoy my life. 
+
+I realize as tempting and realistic as it sounds that life could ultimately be pointless because of all its miseries and tragedies, ultimately life is life itself and you cannot define it in human language that's why we have a word for it just like God and gravity. if you were to describe all of life you wouldn't have to recreate it that's why we use language and abstraction so we can describe what we mean, even if we can't prove it or show it. 
+
+but ultimately no logical argument will help you want to live if your health is decaying so that is ultimately what gives life at the meaning to us human beings, it is following the hierarchy of life from the lowest level parts our health and our relationships in the network and ecosystem. lastly figuring out how we can find our own meeting within our work or service. 

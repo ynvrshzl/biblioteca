@@ -1,0 +1,9 @@
+This idea describes the fundamental expression of ideas in language for human beings. It goes to show how essential clear instructions, order, and flow of time are. 
+
+Almost like giving instructions to a little robot, that is both, beautifully gifted, and yet, needs EXACT order or it won't listen to you lol!! 
+
+Instruction outline: keep current setup -> create proxy mesh -> proxy mesh now references curve as source data -> ... 
+
+Step 1: Keep current setup 
+Step 2: Add a "Proxy" mesh 
+Step 3: Add a "Geometry Nodes" modifier -> to "Proxy" mesh

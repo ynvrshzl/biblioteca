@@ -1,0 +1,3 @@
+# Yami visits his inner Youthanasia
+
+(beautiful etheral music fills you with hope... yami's inner voice echoes throughout his inner youniverse... (literal echoes of his voice)) *"i dream of a world without pain. (echo without pain... without pain... without pain...) time does not exist... where the happiest memories of your life play on loop forever... a world without yin and yang... where only yang exists... where you are not afraid..."*

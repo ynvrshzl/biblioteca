@@ -1,0 +1,4 @@
+# Addiction
+**Warning:** this section contains sexual content, trauma, self-harm.
+
+In my early teens I discovered masturbating after accidentally finding a pornographic DVD. I felt like it destroyed my innocence in an instant. My eyes would never be the same. I seemed much less happy to be alive... and more obsessed with this animalistic desire within me to have sex. But I was always a sensitive soul all along, I just needed to break free from the shell of illusion by experiencing it for what it was. I have not had sex, but with the ungodly amounts of porn i've consumed in my life, it's safe to say, it doesn't really matter. The damage had been done, now it was up to me, and me alone, to repair these broken walls within my being. But how does one go about such an abstract path? There are no books, no guides, no teachers or philosophies that can guide the broken soul to salvation... perhaps... 

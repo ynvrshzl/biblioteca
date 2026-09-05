@@ -1,0 +1,5 @@
+so we're outside this evening night. It's 8:00 p.m. and we're getting back home from some groceries. And I'm looking up at the building be careful 
+
+oops a random sprinkler just started. lol. We got wet! we're crossing past my favorite street. which is right in front of the railroad that crosses the neighborhood. And I always look at this spot and it's separated by a sea and you can see the other side over to Sunny isles and it's just such a fancy city. 
+
+I'm really thinking about that D Knight cloudy sky and the glowing lights casting fog on the trees and it's like it's a little gated world in there. Ander also looking at the buildings and there had me so much of Minecraft. And really the purpose of this conversation is to find a word for this feeling of being engaged and inspired in life where you looked at these buildings and life itself is inspiring you. And our favorite medium was Minecraft because you could literally rebuild parts of your world in Minecraft

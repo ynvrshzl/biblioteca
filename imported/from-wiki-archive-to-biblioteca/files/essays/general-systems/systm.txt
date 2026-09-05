@@ -1,0 +1,15 @@
+Section 1:
+---- Laws of systems ----
+1. Systems must serve life, not replace.
+2. Abstraction vs. Over-engineering
+
+
+Section 2:
+---- Inquiry of Laws ----
+2a. How does the human being notice when a system is over-engineered?
+5b. When is complexity justified?
+
+
+Section 3:
+---- Study & Applied Theory of Laws ----
+2. A system should make it easier for the human to reason about code. If a system introduces complexity, that does not directly contribute towards management of system, it 

@@ -1,0 +1,1 @@
+_"Perfection is impossible. The only stable effort, is __balance, evolution, and adaptation.__" &mdash; [Dr. Karl Klein](editing/youniverse/persona/dr-gustav-karl/readme.md)_

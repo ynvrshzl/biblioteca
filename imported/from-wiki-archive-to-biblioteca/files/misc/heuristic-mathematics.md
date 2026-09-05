@@ -1,0 +1,1 @@
+"Heuristic Mathematics": this is an interesting idea, can mathematics Express logic? for example, is it possible to express binary logic e.g., A or B, without new axioms or translation of number to meaning? what I mean is, is it possible to express logical binary using only mathematical arithmetic, and those numbers represent the idea of binary logic? e.g., 1 + 1 = 2. 

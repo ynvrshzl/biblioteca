@@ -1,0 +1,4 @@
+- [x] create auto-spaced macosx tabs
+- [x] fix --file-header-background-active to match --file-header-background
+- [ ] the first span of text before the first --suggestions-highlight should be marked as signifiant to distinguish search results visually.
+- [x] fix --suggestions-highlight-color-normal to --text-muted

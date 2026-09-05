@@ -1,0 +1,1 @@
+Logic space is the place where all facts, unchageable truths exist. Legend's have been told about this place, that once there were travellers from all of the Youniverse, fighting against these unchageable truths, and they shaped their own reality.

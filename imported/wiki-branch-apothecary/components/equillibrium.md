@@ -1,0 +1,2 @@
+## 0.0 "Equilibrium"
+Summarised as equillibrium - virtue & ethics are the most important social components of human being. Meaning, when you care about another human being, your heart is open. Almost like a structure that becomes resistant to collapse, but open to change. To weathering. This is incredibly difficult. Strong belief systems are difficult to crack open, but weak or non-existent belief systems are essentially, structural collapse. It is always an equillibrium.

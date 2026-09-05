@@ -1,0 +1,43 @@
+Hey, GPT. If we were designing the fundamental meta-language building blocks, I feel like the only way this would even be possible is for us to look at our real-world necessities in our own programs... hmmm...
+
+so let's see what we struggle with...
+- visibility: unclear input/output between data-flow
+- naming: reduces flow and adds cognitive friction.
+- multi-dimensional architecture: impossible for a human being to visualize, and thus navigate.
+- no models, shapes, or self-expression: the code requires constant commenting and documentation becuase it has no clarity, regardless of engineering perfection. and if you spend too much time engineering structure, time moves on and you end up making perfect little systems, instead of solving real-world chaotic problems.
+
+that last one is the fundamental issue, it's the missing cognitive layer of programming!
+
+thus... let's brainstorm-maelstrom: the fundamental blocks of programming are fundamentally incoherent with how we human beings actually proces life.
+
+data -> memory -> expression, operator -> condition ->  function -> loop -> object -> class -> module -> library, framework, api -> ecosystems, networks, software.
+
+that's a linear process, but it's never experienced that way in code. it's always like... "wait, this variable lost it's scope here, so let's create a class to manage the class that manages the object, in the function, but that's a circular definition, so we need a function to create an instance, in the object, before it goes out of scope, and then i can eat my cake." LOL that's A REAL PROCESS IN PROGRAMMING. THIS SHOULD NOT BE ALLOWED. that's almost violent to the human brain. seriously, let's do something about that.
+
+Core blocks in MetaLang:
+- Program("my program") is the literal shape of the program. the engineer now has a cognitive map, without having to create it themselves.
+- .extension() .input(), .output() are like making visible the invisible part of code: the dataflow. we can treat data flow as wires travelling in logic gates...
+- Data("..") or Memory("..") is the smallest unit in a program. it's what makes a machine turing-complete. so it's the fundamental block of programming.
+- Transformer("T"), Returner(".."), Mutator("...") are semantic layers of the overpowerd "functon(){}"
+- Model("...") is like the base class of metalanguage. everything in the world can be thought of as a model, or a shape... a thing. describing something.... 
+
+Core Utils in MetaLang:
+- since this is a reserach project, we can use our skilsl and knowledge of complexity management, and problem solving, to construct a human-to-machine-prosthetic-layer (HMPL) which is the technical definition of metalanguage.
+- brainstem: complexity management tools
+- ocular information: visualizing the complex relationships of the program with; built-in diagnostics, snapshots, visualizing the code as an html graph in the browser (omg i need this lol) and much more intuitive controls.
+
+
+new Visualizer("graph").using().program("scope").observe("inputs")
+this would visualize a graph using real program data, built in metalanguage, by metalanguage... oh... my... GOD we need this!!!
+
+new Model("animal").describes("a living organism"). 
+new Program("my program").input("memory").ouput("z")
+
+...
+deep breath.
+that's real actual functional code, and it's also human... that's beautiful and freaking awesome :')
+
+all of this could code very verbose... but that's the tradeoff and honestly... I LIKE IT!  if it stops headaches, it's worth pursuing!! i'd rather write: new Expression("mathematica").using().euler("rot").in("z").division()... over... const euler = x * z / (rot * z) ANY DAY LOL. here we are essentially trading time/space. human beings operate in space first, time second, and machines operate in time first, space second. i think... 
+
+Honestly, this feels like a science research language project, and hopefully we can create the working prototype and then share it with others, and make it collaborative :)
+

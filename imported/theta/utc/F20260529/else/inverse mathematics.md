@@ -1,0 +1,1 @@
+inverse/invariant mathematics is best describe as, applying mathematical principles in reverse; starting from the hardest problems we face as human beings, in real life, and working our way backwards, reverse engineering to first principles, patterns, and logic. 

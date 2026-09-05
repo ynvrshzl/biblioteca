@@ -1,0 +1,5 @@
+# Ethism &mdash; desire
+> [!note]
+> In summary, **desire towards a goal is the fundamental source of life for a human being.** Conditions which rend desire, are often fatal if untreated. Rather than terrifying biological information, what does the human being do when desire is depleted or even, completely absent?
+
+Fundamentally, from wnat we understand both through research, and personal lived experience, the human being requires forward movement towards a valued direction; a goal. Desire drives movement. There are many experiments which show; our nearest biological cousins, such as laboratory rats, will die if there is no desire. Desire, seems to be the fundamental driver in human life. This explains why conditions such as depression and chronic fatigue, are so devastating. They not only damage reward pathways, but also desire. And dopmaine, the neurotransmitter of desire, seems to be a key role. If this is what fundamentally keeps the human being sane, then the biggest life threat to the human being in the 21st century, is no longer predatory, but rather, the extinguishing of desire. 

@@ -1,0 +1,7 @@
+I'm going to something strange that started happening when I decided to go outside again but not by force, not by forcing myself to go at the park in the morning at 7:00 a.m. although that was euphoric and beautiful and it's own right, it just was not sustainable but when I started going outside again... i started feeling integrated and alive. Na d it was freighting. Being human is... especially after you've seen so much...
+
+I remembered there was once a time where life was worth living and I was inspired by the outside world to build my own world in Minecraft and not with just such a magical feeling
+
+It's one of the most critical parts of human life to be inspired by the world 11 especially someone who is a creative expressor but just spending time outside of your own world is like calibrating the system that reality exists outside of the known variables and there's just something about a human beings that we need to face unstable events... there's some part of us actually the systems of homeostasis and allostasis which work together to keep the human being alive.
+
+I once thought that by laying in bed and removing all schedules times project and external expectations, things that you should stress me out. but I actually felt this unbearable urge to just create and watch things happen and that's essentially that allostasis.

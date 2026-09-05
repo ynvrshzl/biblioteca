@@ -1,0 +1,1 @@
+something that i learend in software is becuase there are so many possibilities & options... you have to make a decision and stick to it. 

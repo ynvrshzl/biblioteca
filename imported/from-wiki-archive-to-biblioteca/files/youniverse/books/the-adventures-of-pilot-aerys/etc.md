@@ -1,0 +1,9 @@
+"I gave myself lives in other worlds. They felt so real, I wanted to stay alive... just for them. Those stories... those worlds... those characters... they made me so happy. This feeling... can you imagine it? The happiest, fuzziest, dreamiest feeling words cannot describe... all over your body... melting everything else away... "
+
+I imagined a forest walk, with my friends from other worlds. They feel so real. Here I am... walking in the same forest... on a morning. Completely isolated. I do not know where to go... or what to do with my life... I am... directionless... but I had the most beautiful feeling all over my body. It was as if my eyes expanded and I could see life again...
+
+"I could imagine people. I could imagine... a life worth living... I could imagine what their lives must be like. What must it feel like to be you? I could paint with my feelings... my mind the canvas. Where there used to be a forest of cold... now... an empty canvas to paint with."
+
+"What if you could have anything you wanted? Anything you could dream of, you would wake up, in another life, in another world, in another body, in another time. What would have? Most freightening of all, do you really think you could stand all of this? I thought so. But what I saw terrified me so much, that I fell."
+
+"And I dreamed of lives... of my alters... I dreamed I had a life I always wanted... It was simple... I had a family... I was a wife... I had a dream I was a completely different person... with a different body... with friends... with... people who loved me... but... they were never real... they... never existed."

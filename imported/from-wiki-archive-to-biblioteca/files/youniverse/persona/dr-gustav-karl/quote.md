@@ -1,0 +1,1 @@
+"There is a solution to every problem. It is found in life, not in death. In construction of good, destruction of harm, in the equillibrium between logic, human, and the spiritual unknown."

@@ -1,0 +1,1 @@
+[a] research! with @gpt [q] is there a way to build a custom login script so on the terminal bash init, we have a custom term? or even a CLI for common tasks? rather than a basic "hazl@pop-os: ~" we could even integrate this with @life-os-cli!

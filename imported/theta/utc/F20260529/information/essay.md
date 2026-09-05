@@ -1,0 +1,50 @@
+# :LiAxis3d:
+
+"Structures of navigation" linear sequential episodic axes
+
+https://chatgpt.com/share/6a0deab6-ecc4-83ea-b7e2-194964bc8b0f
+
+this is what I'm fascinated by, and let's not philosophize our mythologize, I want to understand specifically what does modern research present, about these topics.
+
+so what I'm fascinated by is how we human beings have managed to navigate information overload, since the dawn of time essentially.
+
+this is relevant today because I realize, technology is essentially its own little window of an ecosystem. it's a space of which applications compete for attention. graphical user interfaces are not neutral. information is massive. all channels are essentially overloaded, and sensitive people like myself experience this and a much more exacerbated level, than most people.
+
+now, I don't want to get into product design or philosophy, what I'm interested in is; how the human being navigates the world, without being exhausted by information. like this is a real phenomenon, and I think naturally we human beings are not even aware of how much we are missing, that's actually the purpose of our senses I believe, it's not merely bias; human senses serve as streams or channels, through which stimuli from the natural world, become interpreted and processed by the nervous system, and the rest of the human. that's my current hypothesis of the human sensory system, based on my research. although I don't want to philosophize, I'm using metaphors to understand the underlying chemical, systematic, mechanical processes which are otherwise too dense in information to understand practically. so when I reframe, "chemical a, bonding b, stimuli excitatory source" as "external World contains stimuli, are human senses are channels, the nervous system filters, the brain organizes" it's much more understandable.
+
+in fact our ability to use metaphors without changing subject, is definitely a significant area to study; I believe it's a form of both compression and storytelling. that's really important because we essentially filter complex material through both, abstraction layers, and symbolic representation. that seems to be one of core functions of dealing with the chaos of the world.
+
+core functions are really significant for need to study, because it can directly transfer to how I work , and approach technology properly.
+
+given how we natively come from the natural world, which has arguably far more channels of stimuli, information overload, non-linearity, and essentially chaos...  I described technology today, as being a window, to a cyber eco space. I really don't think that's philosophy or mythology, I genuinely believe that the human brain, specifically the nervous system, is processing technology as if we are looking through a terrarium, of a little digital microcosm, a little cyber ecosystem. and we co-author it. but the problem is; when the system becomes unmanageable, and a co-authors and influences our abilities and identity and thoughts. that's the area I'm focusing on. not essentially "going to be more productive at my computer" rather "how is the computer affecting my natural human abilities?"
+
+Douglas engelbart is frequently cited in this area of study, but I really believe that merely augmenting human abilities is not sustainable. technology already augments a lot of our abilities, but it does not amplify correctly, or at least, not at factory state. this may explain why a large portion of human activity with technology, is customizing, personalizing, searching, building. even non-technologically proficient people, end up spending hours on these devices, tweaking settings, curating feeds, finding communities online, etc. this is a massive problem. this is seriously problematic because, we are already dealing with a massive amount of information overload in the natural world. once we enter digital space, we are no longer dealing with a healthy balance of stimuli, sound, visual, smell, spatial, sensory, etc. in the digital space, we only really have two main sources of sensory stimuli, sound and visual. very rarely do we think about the tactile ability to interact with the computer, specifically with mouse and keyboard or with a touch screen on devices.
+
+what I'm proposing is, I believe the only reason we human beings have been able to navigate chaos, natively in the natural world, is, for one of many reasons, I believe we are simplifying and prioritizing elegance, symbols, compression, sequence, story, etc. above density of information. because according to epistemology, there are very real limits to what we human beings can understand and work with. and we need to ground epistemology in something real otherwise, we end up reducing The Human experience to mere information, and reductionism at that scale, is existentially dangerous. which is why I believe we really do need a field of study, to decipher the layers between chaos, information, and most importantly, how we human beings have already intuitively navigated a world with so much information overload.
+
+and trying to map this understanding into digital space. because the more aware I become of the technological canvas that I'm interacting with everyday, the more "semantic satiation" seems to erode symbolic transients so to speak, and I start to focus on shapes and systems and functions, rather than using these systems.
+
+this happens naturally with language as well, we can repeat the same word over and over again until it loses its meaning, or we can stare at the same patterns of letters until they resemble glyphs rather than encodings of meaning.
+
+that's fascinating here, meaning. I want to understand what does research currently propose, as to how we human beings not only derive meaning, a sense of order in the world, but how we actively shape and co-author meaning. I truly believe that we shape the world around us, locally, just as much as it shapes us. so the environment is absolutely one massive half or portion of the human experience. the other portion is internal, intrinsic. we not only interpret meaning from the outside world, stimulus, processing through our nervous system, etc... we also exchange meaning. it's energy distribution. this is why we human beings must be social. it's baked into us. it's really significant. because someone who spends all time in front of a computer, will fall into the formulaic lie:
+
+productivity = surface area
+
+success = productivity
+
+obsession = % luck of success
+
+
+when in reality there is no formula, it's a transformation. it's a function of functions. It's a system that is mutual symbiotic and interconnected. one cannot merely pretend to understand the human experience, by reducing it to information, or stimuli, or nervous system. this is why myth, philosophy and religion will always be important, they remind us of the interconnectedness of things. and symbiosis, is arguably the only reason ecosystems are sustainable and they don't exhaust themselves. cycles alone are insufficient, because no system is perpetual. according to the second law of thermodynamics, in which no system is 100% resource efficient. it will always require mutual exchange and resource.
+
+those are my hypotheses of systems, chaos, and more importantly, how they map on to real life, not just physicists theorizing. even more importantly, how we human beings have already navigated a world of information overload, and how technology today is essentially in its Stone age of experimentation. revealing how excess is always detrimental to human functioning and flourishing.
+
+in conclusion I definitely prioritize elegant simple to understand systems, even though they require more time and effort. the ability to understand the tools we use, directly influences my ability to understand how it is influencing and changing me.
+
+in much the same way an author intuitively feels the difference between writing on a page or a freestyle canvas, I believe the tools for use absolutely change the message we express, because not only do they constrain our autonomous output and abilities, but the medium (the surface area), influences the compression density of ideas, information and symbols.
+
+without getting lost in philosophy, I believe elegant systems are going to become much more prioritized. for now I'm studying this locally in my life. and I'm realizing that not only "less is more" but "in order to understand more, we need order, 'in order'."
+
+still, according to my research I still do not understand how we human beings navigate nonlinear spaces, the natural world, and how we determine direction, either intrinsically or extrinsically.
+
+example would be how we navigate a city. if we don't have a plan of where to go and why, it's basically up to the external world, organization directions. one could argue that a very human activity is to get lost within cities without a specific plan, but work should often not be treated as leisure, our ability to focus, is our ability to restrict information surface area, and channel density, so to speak. but I'm not sure how well these geometry metaphors and terms actually map to real neuroscience and human functions. so I do want to sculpt and challenge and add friction to my own hypotheses. because the difficult thing is not researching neuroscience, the difficult thing is mapping human awareness, intuition, into real world solutions. arguably without my ability to be aware or to observe, I would not be having this discussion. and the solutions would probably never emerge. so it's definitely a form of wrestling with chaos, or the unconscious as Carl Jung would say. as philosophical and mythological his work was, it's this area specifically that I believe his work is most important; napping mythology, unconscious human psyche processes, and real world problems.

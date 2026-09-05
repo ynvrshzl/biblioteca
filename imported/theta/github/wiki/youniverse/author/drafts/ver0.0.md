@@ -1,0 +1,5 @@
+# Draft — ver0.0a
+
+> Author's notes: This draft correctly captures the opening sequence and first impression, more importantly. the first few words are the heaviest, and anyone who was struggling as much as I was, what at least stay and listen for the next few words. that's exactly the feeling that Jordan Peterson's talk gave us. we just could not pause and look away, with every word he expressed we wanted to know what he was saying next. that's exactly what a good movie does to you, it's engaging.
+
+"When I was 23, I was severely depressed. I wanted to end my own life. Isolated. No friends. Traumatized. Hopeless. Nihilistic. I saw how many children suffer, everyday. I saw how cruel life could be.  I was, a few days from ending my own life. But a man who gave a TED-X talk, saved my life. I hope that anyone who is listening to this, who is struggling with any mental illness, please listen carefully to me. I often heard the words, you are not alone. that isn't true. I was alone. but what I can tell that girl who was struggling in her room, alone, is that you may be alone, but you are not invisible."

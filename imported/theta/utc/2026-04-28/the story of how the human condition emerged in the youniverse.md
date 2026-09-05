@@ -1,0 +1,4 @@
+ the story of how the human condition emerged in the youniverse
+we once were Titans of great imagination. but once, we realized love could be forged. once we realized actors were indistinguishable from real agents... this is where both, human creativity, and the timeless Battle of the human condition, all emerged. one could say this is both the collective understanding of The Human Condition in the yo universe, as well as the personal understanding. true creativity does not emerge until you understand your limits. love is not real until you can accept vulnerability. this is not because we live in a cursed set of rules, this is actually because you must agree to love. they're very definition of love is unconditional.
+
+that might explain why we human beings hate things that are fake. we would rather accept hate that is real, then love that is false. is this subjective, or is it real?

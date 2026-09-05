@@ -1,0 +1,1 @@
+Joey Doom's earrings were gifted to him by someone. He had a pair, and Yami, had the other. Together, they would be united as a tag-team duality, to fight in the unseen realm.

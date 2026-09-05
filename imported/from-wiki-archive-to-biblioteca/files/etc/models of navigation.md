@@ -1,0 +1,7 @@
+Here's a hypothesis, it's most likely not useful unless applied to real world problem solving; "every statement is incomplete..." we do not measure our understanding or navigation of the world, merely through depth of detail; explaining everything, not only would consume an enormous amount of time, but it would halt us from movement. this implies that information itself is insufficient for human life, and it also suggest that what is living, prioritizes movement over accuracy. continuity, over completeness.
+
+this is one of the most remarkable parts of human language, because it allows us to learn, it allows us to abstract. in this sense, language is an interface of cartography, in which we can shape the map, according to level of detail, depth of subject, and ...
+
+Learning is our capacity to synthesize information, adapt, abstract and remember and optionally, integrate into action
+
+this also suggests why virtual systems (Knowledge Management systems, the internet, social media, algorithms, deep information systems, etc.) produce negative, detrimental, obsessive, often harmful effects in human beings. When a system relies deeply on information, it exhausts... We do not eat information, that is not a source of life. information itself may not even be a resource, it may be the confidant/applicant of learning. without sufficient information, whether verbal, written, or interpreted through our senses, we may not develop the ability to learn otherwise.

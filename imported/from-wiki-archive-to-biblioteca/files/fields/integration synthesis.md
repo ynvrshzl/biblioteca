@@ -1,0 +1,1 @@
+integrations s is the field of study of the human ability to process information, as part of the self. meaning, it is a core aspect of the general learning model. when we truly understand something, we no longer depend on the external medium of study, the knowledge becomes integrated

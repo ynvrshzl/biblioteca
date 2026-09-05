@@ -1,0 +1,1 @@
+[Renee]() and [Mary]() fell in love and it was childlike an innocent and playful. They were like [Adam and Eve in the garden of Eden.]() The way they fell in love is so lifelike and resonates deeply to the way human beings fall in love in real life. No love is perfect, but to the end, they loved each other... [even in the afterlife.]()

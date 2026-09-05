@@ -1,0 +1,1 @@
+Memoria is the world of memories, experience. Experiencing something for the first time, is a special, often, spritually dense part of life.

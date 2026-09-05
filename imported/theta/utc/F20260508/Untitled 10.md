@@ -1,0 +1,7 @@
+philosophy, at its most useful, fills in the gaps that observational sciences cannot. 
+
+for instance, The Human experience can really not be observed scientifically, even if we had instruments to somehow understand every process and relationship, in the human being, in order to meaningfully thread such data, would require The Human experience itself. it seems to me that consciousness operates in a structural dimension. this possibly explains why some people experience life fundamentally deeper than others. 
+
+we must understand that no level of scientific approach or philosophical scavenging, will fundamentally reveal anything new about the Human Condition which we do not already know. I believe it is simply our stubborn human nature which must be the source of suffering. this is not to say that the human being is fundamentally flawed, I believe what our ancestors were trying to relay , using mythology as a transmission device, was fundamentally The Meta condition; one must discover their own individual path to the only correct path. that's almost paradoxically. almost like several bodies of fragmented rivers, joining into an ocean. although it appears to me that the human condition is more like one massive under explored of this, of which only few have survived, and far less have seen that narrow path our ancestors knew of.
+
+what I fundamentally understand is that, the answer is, the solutions already exist. it's almost like through the reduction of the unnecessary...(??)

@@ -1,0 +1,1 @@
+One of the most terrifying ideas of the void (khaos) is that "the hardest problems, and the worst suffering, is where we cannot remember, cannot see, (in some cases, even) cannot feel. When we are unaware, ontologically, of the existence of a reason. 'Why is this happening?' Is perhaps the ..."

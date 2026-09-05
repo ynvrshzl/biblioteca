@@ -1,0 +1,1 @@
+I used to feel sad when I watched kissing, or cudding in movie scenes. I remember feeling especially sad when I saw Violet from The Incredibles 1. I always felt sad seeing girls in movies, and I didn't know why.

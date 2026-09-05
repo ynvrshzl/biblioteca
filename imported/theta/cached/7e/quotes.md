@@ -1,0 +1,1 @@
+- "No music is born in isolation, echoes of the past guide new voices"

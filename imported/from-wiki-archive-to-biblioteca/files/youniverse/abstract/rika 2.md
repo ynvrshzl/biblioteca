@@ -1,0 +1,3 @@
+something I learned about irritability, which Rica learns on her own, is that this is essentially extreme system pressure and it must be released in channelled properly.
+
+The hardest part about irritability and anchor is that you cannot release it in the moment because it simply causes collateral damage, however, Rico understands eventually how to channel this, does she answer being an explosive damaging personality, she understands over time

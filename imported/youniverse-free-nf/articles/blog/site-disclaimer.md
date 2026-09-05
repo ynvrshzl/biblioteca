@@ -1,0 +1,1 @@
+Site disclaimer: 99% of the images I use in this site are generated via AI. To save time wiht the enourmous amount of things that I want to visualize, it would be impossible to do all of this work on my own! Someday, I will render artworks & videos, but for now, everything is a placeholder.

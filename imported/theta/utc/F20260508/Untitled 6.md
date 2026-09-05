@@ -1,0 +1,1 @@
+gpt's definition of ADHD hyper fixation is remotely close to how I would define it: "A state where the brain finally finds a stable, high-signal feedback loop—and refuses to leave it"

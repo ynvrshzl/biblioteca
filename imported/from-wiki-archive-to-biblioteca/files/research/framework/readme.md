@@ -1,0 +1,1 @@
+A framework is beyond the applications of code or complex systems; in general, the framework provides structure and shape to human life.

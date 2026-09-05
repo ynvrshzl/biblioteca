@@ -1,0 +1,6 @@
+
+# The rebels
+
+Known as **"the father of the free world"**, he started an agressive war against the system, and unlike any humanity had ever seen. **"If you step into our territory, we will take our lives, and the lives of our cattle, children, and families."** It was a suicide protest. And the only way to fight against the collosall beast that was the family. He tragically took the life of his family, and himself, after beliving that the world was a hopeless place, and his family would never have peace, in a world ruled by psychopaths. He left a message with is last dying breaths, and ignited a flame of Rebellion. *"Someday the machines will sleep, and the children will awaken. They will tear apart your castles. The children will arise from their graves & seek vengeance for what you did. Though you may sleep now, someday, they will come, The Rebellion will come."* 
+
+After the father & his family passed away, The Rebels carried torches, made from their ashes. Parading along all the city. Humanity, was not done fighting. "Freedom is our birthright." They shared stories, in the form of lullabies, campfire songs

@@ -1,0 +1,1 @@
+Abstract: A center stage, and adjacent side panels on either side.

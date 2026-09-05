@@ -1,0 +1,1 @@
+Eric, before his death, quitely wispers to Yami, fountains of blood pouring through his mouth: "Who's to say if we hadn't been given different lives to live, in different bodies, that we wouldn't have done the things we did."

@@ -1,0 +1,3 @@
+One of the most important aspects of human life is myself identity and how you see yourself in the story You tell yourself and The story you're living. 
+
+because I just realized there's a massive shift and how I feel when I'm walking by myself as compared to, when I'm helping my mother with a groceries. there's just something important about human agency and the age and perception of self and it's just incredibly important. like I was walking by myself and it felt great. like I felt autonomy. And that's really what the human being will watch I think I open q1

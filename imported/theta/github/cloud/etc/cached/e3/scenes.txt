@@ -1,0 +1,5 @@
+Think of a book as an emergent structure; we never know the shape of everything, everywhere, all at once. It's the same concept as in the most complex fields of human study; Software engineering, architecture, neurosurgery. 
+
+We thread together small things and they form larger structures over time. That's the key idea here -> small, consistent things get big over time.
+
+"Nature sustainability"

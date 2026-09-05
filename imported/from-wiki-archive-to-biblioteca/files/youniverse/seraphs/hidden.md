@@ -1,0 +1,3 @@
+"Hidden thoughts" while i'm practicing the piano, i'm noticing alot of negative internal commentary. I have, to my knowledge, no control over this and it's a miracle that i'm even aware enough to write about it. It often seems like i'm not playing the piano, i'm instead watching a front-row show to the theatre of my own thoughts, which i cannot control these characters or what they say. Solution? 
+
+This is what the angels, seraphs, and paragons of the Youniverse spoke about...

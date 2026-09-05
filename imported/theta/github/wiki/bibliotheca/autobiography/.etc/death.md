@@ -1,0 +1,10 @@
+# Death
+I am completely alone iin this world. sometimes, i really just want to dissapear, it's just unfortunate how death is inevitable, and yet, we can't just choose it earlier than it would happen. especially since almost always, someone else will suffer becuase of our death. 
+
+Death is the end of this human experience. That is all we know. What happens from there on is a complete mystery.
+
+One of the tragedies of death, apart from death itself, is that we will leave behind a world, that will continue to exist without us. I've found my answer, that if I leave behind something meaningful, it can trace back to my existence, and to me, that's enough to keep living.
+
+When a person is depressed, they might believe their death will mean more than their life ever did. That perhaps, in death, other people can finally grasp how much pain they were going through. It is in this most vulnerable place that some of us, might even believe that people will move on & forget aobut us. I think about how much matter is around me, that once belonged to a depressed person, that battled through their life, but couldn't keep living. I wonder. I also remember the people that committed suicide. I still remember you. You said people would move on, and they did, most people are following the biologically program, but I never forgot you. I will never forgive this world for how everyone completely failed you. 
+
+I know we cannot save everyone, some people are so broken & depressed that nobody can reach to the places they've gone to. Human perception, psychology & our biology, is a mystery. We're making progress, rather slow, but steady. Civilization is becoming overall healthier for us, and more than ever, it is the most healthiest time to be a human being. None of that matters when you, don't want to live.

@@ -1,0 +1,3 @@
+as the saying goes in software, "if it works, don't over-engineer it, move on to something else!"
+
+and like... that's actually the way it needs to be sometimes... from a systems perspective... but if the system is to be robust, long-term, future-proof and sustainable, you can't leave half-baked solutions everywhere. Eventually -- you need to come back and shape them properly, or eventually, the entire system will cognitively collapse!

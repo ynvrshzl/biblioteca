@@ -1,0 +1,3 @@
+Recently, I was breifly studying the catastrophic history of Marxism. 
+
+Apparently, It began as "An analysis of Economics" but eventually...

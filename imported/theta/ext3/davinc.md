@@ -1,0 +1,1 @@
+Man who is inspired by davinci,because he feels he has failed humanity and we have failed God. he is a polymath abd screams outside rhe church to the skies "LORD FORGIVE US FOR OUR SINS. FORGIVE US FOR WE ARE IGNORANT. HUNGER FOR YOUR GLORY. HAVE MERCY ON MANKIND."

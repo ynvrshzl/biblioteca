@@ -1,0 +1,1 @@
+*"Have you really given it your all souldier? Have you given your very life to the dream? That's right, you have not. You have not done everything in your power... you will arise again, wether you like it here or not, cause there's no way in hell, that hell is a better place than this broken battlefield, where your very bootprints shape the land around you."*

@@ -1,0 +1,10 @@
+# Authors use references
+
+Authors don't just spawn magnum opus's out of thin air... everyone... everything, came from somewhere previously. **Nothing is self-created,** and that is the illusion of the artist, the author, or any illusive figure. It's important to understand, wether you are an author or a reader, that fundamentally...
+
+I think it's really important for authors and storytellers to, understand that you can approach writing stories, the same way a painter would approach a canvas, or a musician would approach an instrument. the page holds infinite potential. like human imagination, which is the source engine of all creative fields. that's what all of these fields have in common. there are three components, the medium, the imagination engine, and the autonomous expression. 
+
+so in essence, human imagination requires a reference. because you could consider the imagination engine to feel like a particle accelerator, it's just not meant to exist in a vacuum. and so the same way an illustrator would use a reference image, to ground the imagination and intertwine the expression, I believe in authoring it is the same mechanic. except because we are using plain text, it's much harder to find a reference that matches the medium of plain text. because writing stories is really complex, we're using human language to convey imagination essentially. and we're doing all of that while trying to express our narratives. whatever they may be. 
+
+I think in this case it's most beneficial to look at real life stories as the reference. I think if reference matches the medium, then it would be the same as a musician listening to a symphony and learning how to compose, or again, a painter looking at an image or an object, and visualizing it. so perhaps, the author doesn't have to just look at other stories that other authors have created, but rather the methods of which those stories were created. and stories are everywhere not just written as source code. stories are scripts of movies video games, even of musical albums. 
+

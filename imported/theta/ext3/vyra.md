@@ -1,0 +1,5 @@
+there is a scene where Dr Vera is walking amongst a busy Street with tons of people, and at first she feels sonder... but then she feels existential panic, realizing that someday none of us will exist, so what happens to consciousness? she becomes terrified of her life, she has based all of her worth and reason, on scientific understanding and achievement, and when she Rose to the very top of her field, she regretted all the time she lost in her own head, wishing she would have been a normal person like the people she saw walking by. 
+
+so as the scene progresses, she becomes increasingly more disturbed, The echoes of people become deafening, it's almost as if her senses become tunnelled... and then she just stands there in the middle of walking people... staring into the void... 
+
+... basically she experiences depersonalization / derealization, which is an experience that has happened to me many times. it's terrifying, and I'm not really sure what the solutions are, at least with the doctor Vera we can explore what it feels like phenomenologically from first-hand experience

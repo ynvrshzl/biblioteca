@@ -1,0 +1,3 @@
+Most useful, core features of obsidian, and define this project.
+
+1. __Queries as formatting:__ the fact that queries can automate formatting, across multiple views, not only establishes consistency, but saves an enormous amount of time editing and formatting. this idea is extended even further when we realize Source data exists as a skeleton, but the graphics are instances, projections of that source. this means the same data can be represented in a multitude of views. this idea is captured by notion, but Obsidian provides authorable, source control.

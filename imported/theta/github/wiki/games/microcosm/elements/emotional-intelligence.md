@@ -1,0 +1,3 @@
+EI (Emotional Intelligence) is synthesized naturally by ?? archetypes
+
+EI can be learned by ...

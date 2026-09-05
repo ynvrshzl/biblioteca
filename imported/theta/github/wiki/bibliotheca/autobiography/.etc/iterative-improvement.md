@@ -1,0 +1,3 @@
+# Iterative improvement is a beast in the long run
+
+Taking one step everyday, is 365 steps in a year. That's better than 365 steps in one day, becuase you build strength over time, not in numbers, but in the space between the steps. Debussy had a quote: "Music, is the space between the notes." As pretentious as it may sound—he was right. Music, without silence, is like a constant crashing of noise. Infact, your favorite songs, all use this, even if they musicians, aren't aware of it, technically.

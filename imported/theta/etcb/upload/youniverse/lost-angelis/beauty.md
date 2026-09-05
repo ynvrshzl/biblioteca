@@ -1,0 +1,1 @@
+In Lost angelis, beauty is determined by human resemblance to mannequins and static objects like sculptures. Beauty is interchangeable with health, which is a key part of the Lost Angelis rank system.

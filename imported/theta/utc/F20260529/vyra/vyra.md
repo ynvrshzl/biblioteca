@@ -1,0 +1,1 @@
+dr. vyra: "does she realize how lucky she is? I wonder what her life is like... I wonder what it feels like to be her... she seems so happy... oh she is so, so happy... I wish I was her..."

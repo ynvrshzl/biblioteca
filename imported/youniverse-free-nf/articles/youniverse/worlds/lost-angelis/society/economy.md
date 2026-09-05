@@ -1,0 +1,1 @@
+The economy of Lost Angelis depended largely on the citizens themselves. Unkowingly, they had to work themselves to the bone, often times, literally. This level of exhaustion granted any qualifying citizen, the level of honor, meaning, they had access to the technologies given to the citizens of the walls.

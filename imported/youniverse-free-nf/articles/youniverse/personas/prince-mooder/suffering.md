@@ -1,0 +1,1 @@
+"Why did you do all this? Why did you create this city?" The prince slowly looked at them: "To find the cure for human suffering."

@@ -1,0 +1,5 @@
+summary: being on time requires you to essentially prepare ahead of time. and it feels like it's demanding a lot of you, almost like it's demanding you to be perfect. but I think rephrasing it, as preparation as a necessity, as a necessary component of a sustainable human life.
+
+I think I can finally see time, as someone with ADHD and neurodivergence, I think I can finally see time as a train. something that is not in my control but something that I absolutely cannot ignore. think about it this way, A train has a perfect schedule. and so if you don't show up on time, it will leave you behind. and that's really painful to admit because so much of life is already painful, and so time as an element of... 
+
+but I think it just simply reinforces the belief that only love makes life worth living. and if you love someone you'll go through any stress for them. because they are the only thing that gives you a reason in the end.

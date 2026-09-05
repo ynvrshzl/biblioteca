@@ -1,0 +1,19 @@
+- [Rzn Kai]()
+- [D. Rage]()
+- Calcutta
+- Rzn Kai
+- KD1
+- Sizza
+- Blazeken
+- Vmax
+- Moveset
+- TRUTHSEEKER
+- Server
+- Terminus
+- Cyber
+- DJ Jay dee
+- Korey
+- Recon
+- Scout
+- Punkhead
+- Alphabeta

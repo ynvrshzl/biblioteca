@@ -1,0 +1,2 @@
+![](https://youniverse.free.nf/media/img/insanity.jpg)
+Very few people in the Youniverse have survived insanity. IT is a place so dark that it breaks a person's spirit beyond repair... and yet each and every one of us can rise from the ashes, and do it as many times as we need to.

@@ -1,0 +1,1 @@
+The medical district is a massive infrastructure, which hosts the world's most advanced technologies, and collosal architecture. It is said to be the most stressful enviornment, and death rates are unnaturally high in this area. Even with all it's negatives, many lives are saved, and suffering, is lessened, thanks to the advances of human kind.

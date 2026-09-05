@@ -1,0 +1,1 @@
+there's this fear I have missing out on life but not essentially formal, s o m o, but rather, missing out on my own life. I think that's actually an incredibly important emotional signal that you are healing because you at least care, and when you have something to lose that means that there is something of value. 

@@ -1,0 +1,1 @@
+The mooders developed a technology to generate any emotion, within a lucid dream. The technology was a nano-bio machine, capable of entering the mind... of course... this was hijacked & criminalized. "It's like you can't do anything good... without stretching the possibility of evil..."

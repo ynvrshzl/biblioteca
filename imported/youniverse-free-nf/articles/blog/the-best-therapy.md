@@ -1,0 +1,3 @@
+The best therapy is being where you belong. And every human being belongs in an environment where you can give and recieve.
+
+The sound of a guitar, being violently djent chugged is therapy to my ears, more than the sounds of your words. And yet, I know, I know: *"This is no replacement for a licensed professional."* Why are professionals so expensive? And why does it seem that very few actually care about you? You go to therapy not to be heard, but so you can solve problems in your life. That's the problem, sometimes, the person only sees a client, and not a human being, desperately clawing their way back to a life that seems to have forgotten them.

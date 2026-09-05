@@ -1,0 +1,3 @@
+[Eric]() met [Rachel](), and she would brighten up his life so much, that eric's hair turned clear... seemingly his body loved her light. Despite how exhausted & depressed he was, his body would move on it's own... the clouds above seemed to clear when she was in his life.
+
+She was happiness, he was depression. Two polar opposites, like a magnet, somehow found their way, tearing through the impossible odds of life, and they were the best of friends. They found a kind of love that cannot be separated. A love so strong, every fiber of my being has been woven by them. What happens when you get happiness, and depression? My friend, you get the adventure of a lifetime.

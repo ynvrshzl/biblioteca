@@ -1,0 +1,1 @@
+If there's anything I'm grateful for having survived depression, is that I've seen all the colors & shades of human nature. From insensitive, cold, to the empathic, warm & experienced.

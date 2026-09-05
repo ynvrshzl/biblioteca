@@ -1,0 +1,2 @@
+# Fear of missing out, fear of wasting your life.
+Do not hurt yourself over any kind of progress. Life is not a movie, unless you want to see it that way. It is, if anything, a mystery. That means we are free to carve our own meaning. But don't worry about that either, you don't have to search the ends of the earth for a reason to keep living. Your reason can be as simple as hoping for a future where you have a lovely family & fall in love. Or a future where you run off-grid & live out in the forest. Meaning can be found anywhere.

@@ -1,0 +1,1 @@
+components of human life. Our social structures, like our social relationships, like the people you are related to and the people you are connected to in some way, it's like a social network. There are many layers to the human experience

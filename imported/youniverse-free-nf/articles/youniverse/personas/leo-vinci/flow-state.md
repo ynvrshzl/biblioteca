@@ -1,0 +1,1 @@
+Leo Vincinatti enters the "Flow space" a state where time collapses, and the only thing that exists in his Youniverse is his piercing, razor-sharp consciousness, and his work.

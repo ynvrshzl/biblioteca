@@ -1,0 +1,1 @@
+Ideas aren't just mere "information". Ideas that were able to become externalized by the human being, were processed inside an organic system, that was part of an "inner youniverse" of other information bytes, memories and more parts. (this is diverging into my inner microcosmos theory.)

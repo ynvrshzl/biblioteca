@@ -1,0 +1,1 @@
+"The youniverse will reveal it's laws and language of order amidst chaos, given our persistence of work, not pursuit or creation of law, but of experience. In much the same way, human life reveals it's meaning, when we live it truthfully."

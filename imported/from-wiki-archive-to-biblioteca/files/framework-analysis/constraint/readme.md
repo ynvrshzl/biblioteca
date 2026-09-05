@@ -1,0 +1,1 @@
+Constraint is the base function of a framework. A base set of constraints [examples](examples.md)

@@ -1,0 +1,3 @@
+This is not a class, or a guide on how to rebuild your life, simply, i'm sharing...
+
+Having a goal, emits positive emotion in our body. Goals, are the only source of primal positive emotion. However, it is a very high-level layer of the scaffolding that keeps a human being together. Just beneath the goal, is a reason. The 

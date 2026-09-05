@@ -1,0 +1,1 @@
+she had been forgetting nightmares since the age of a child.... she needed to remember... because katerina believed she had been missing a reason to be this paranoid... she witnessed the world of nightmares herself.

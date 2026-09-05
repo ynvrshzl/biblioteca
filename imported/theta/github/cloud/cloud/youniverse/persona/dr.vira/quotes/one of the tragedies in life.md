@@ -1,0 +1,1 @@
+"one of the tragedies of this life... is that... you area so lucky... in ways you will never understand."

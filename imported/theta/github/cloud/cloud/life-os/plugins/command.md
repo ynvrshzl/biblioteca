@@ -1,0 +1,1 @@
+Remember how on windows 10, we had the superkeys.ahk autohotkey script. When pressing "Alt" "/" [Alt /] it would popup a little pseudo-terminal with our own custom system commands?

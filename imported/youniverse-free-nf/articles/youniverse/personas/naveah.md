@@ -1,0 +1,1 @@
+"They will hate you for being beautiful, so let them, let them envy. Envy? That's my twin sister, I hate her, but I need her."

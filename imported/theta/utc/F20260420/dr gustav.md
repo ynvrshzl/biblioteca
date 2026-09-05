@@ -1,0 +1,3 @@
+the German doctor, as he dies, gives a speech, but it is actually a recorded message from himself, light years in the past. what remains of him is a frozen shell of consciousness, the afterimage of a human being. 
+
+"I have mapped the entire universe. all that there is to understand and explore and all that ever was and will be. I have mapped the fractal realities and the alternate timelines. all possibilities. and yet I have realized life is fundamentally worth living for all its suffering. there are solutions to all problems and they are discovered in life not in death. but one should never seek knowledge or power, one should seek to be a good human being. work within our constraints, these bodies were designed with a reason. we are more than just a vessels, "

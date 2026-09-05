@@ -1,0 +1,5 @@
+After a life of romance & hundreds of female partners, Zaine, finally had enough.
+
+"There's got to be more to this man... I can't... I can't get stepped on anymore... I can't do this anymore... I just can't... I can't... these women don't care... they're... evil... they're so evil... and my heart... I can't feel anything anymore... it... it fuckin' hurts." Zaine talks to himself, as he walks alone in his abyss. It is cold, isolated, and dark. He has nobody. He remembers the females he slept with, and the memories he made... but they all are so fragile, when he tries to grab them, they dissapear.
+
+There, he meets the voyager in the abyss. Sit down, child, I will show you what it means to be a human being. Infact, you have already met individuals, you have just been too stubborn to pay attention. Dawn, Yami, Nihil.

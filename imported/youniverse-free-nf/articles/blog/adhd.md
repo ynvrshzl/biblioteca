@@ -1,0 +1,3 @@
+This is everything i've learned to manage my personal ADHD. Perhaps any of this knowledge if useful for you... who knows... it could even save your life. Now strap in buckaroo!
+
+- Multiple things at once. This seems counter-intuitive & against everything that researchers say about multi-tasking. But it isn't multi-tasking, it's learning to manage your attention & focus, so that you neither get stuck on one thing, or get bored. But what if you only have one assignment? Here is where you have to get creative... like your life depends on it!
