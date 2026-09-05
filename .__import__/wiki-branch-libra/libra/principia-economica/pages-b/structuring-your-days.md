@@ -1,0 +1,3 @@
+I generally started healing when I became aware of the issue of extremes; I was either living for pure productivity, or living entirely disconnected from meaningful work. my days became not only structured but experiential, not pure utility, not pure leisure. the golden mean, as Aristotle explored. 
+
+I started genuinely healing when my days became episodic and sequential, when I was able to recall not only what I did, but what I experienced.

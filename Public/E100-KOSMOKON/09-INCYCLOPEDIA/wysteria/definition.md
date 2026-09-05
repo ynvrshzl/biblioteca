@@ -1,0 +1,1 @@
+The grief, regret of wasting beautiful things, missed opportunities, especially wasting time, and irreversible parts of life.

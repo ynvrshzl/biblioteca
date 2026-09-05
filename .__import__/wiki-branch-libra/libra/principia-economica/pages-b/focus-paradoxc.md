@@ -1,0 +1,1 @@
+there is a paradox when someone with ADHD tries to deeply focus on work; Focus is only sustainable when it is a byproduct of inherent non-volatile tactile feedback

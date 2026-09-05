@@ -1,0 +1,1 @@
+When Yami finally accepts that life is painful, his lotus bomb awakens. Pink yami hair, revealing his true form.

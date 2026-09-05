@@ -1,0 +1,1 @@
+"Gospel  group of singers with white tunics, and good vibes. They regularly sing throughout the city and at the various churches. They help alot of people during depressing times; their voices are so beautiful and uplifting, it feels like angels echo through their body..."

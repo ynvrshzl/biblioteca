@@ -1,6 +1,9 @@
+<div style='height: 25vh; display: flex; justify-content: center; align-items: center; font-size: 4rem; opacity: 0.1;'>:LiGithub:</div>
+
+
 ```dataviewjs
 const statusbar = dv.el('div', null);
-statusbar.style.cssText = 'position: fixed; top: 0px; left: 0; width: 100%; background: var(--background-primary-alt); box-shadow: 0 0px 15px var(--shadow); padding: 5px;';
+statusbar.style.cssText = 'position: fixed; top: 0px; left: 0; width: 100%; background: var(--color-accent-2); color: white; box-shadow: 0 0px 15px var(--shadow); padding: 5px;';
 
 statusbar.append(dv.el('span', 'GitHub: Last fetch 2s ago'))
 

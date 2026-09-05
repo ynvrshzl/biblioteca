@@ -1,0 +1,1 @@
+I Dream of human malevolence becusae it is truly the incarnation of the Spiritual-plane; assuming such a space exists. Human malevolence is different from natural suffering, however, I hypothesize all evil and suffering originates from the "parasite" or as the Hebrews said, "demonic fortresses and principalities."

@@ -1,0 +1,1 @@
+This story has multiple endings, depending on the reader's choices (?).

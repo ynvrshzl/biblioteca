@@ -4,10 +4,33 @@ aliases:
 ---
 
 # The story of civilizations across the Youniverse
+"The Civics are the remnants of Humankind."
+
+We see at the level of Civilizations, the manifested human world-views.
+
 These are essentially different human perspectives of how we have attempted to address observable problems throughout the ages. While many of these stories are somewhat mythic-laden, they are also valuable repositories of historical human activity in the form of cinematic artifacts; otherwise known as a story.
 
-## The orators
-As such, the first civilization to emerge, were the orators; the crafters of stories. 
+## The Orators
+As such, the first civilization to emerge, were the orators; the crafters of stories. They believed in the power of the word, the "Logos." Stories encoded within the sounds of symbols, the very fabric of life.
+
+## The Warrings
+"All of life is a war."
+
+## The Observists
+Coming from the Ambitionists, The Observists were obsessed with knowledge and information. They believed life was sacred, and it's information was signs of the divine.
+
+Preserving, organizing, recording information. They never questioned the purpose of their knowledge.
+
+The "Bibliotheca Infinitus" was the Architecture of all recorded human knowledge. Led by a madman, "Vance Amadeus Da-Vincus." What remains of their ancient empire, scattered inside the strata of the Earth. It is said humankind is still unravelling the work laid by these ambitionists.
+
+## The Cryptics
+The Cyptics believed in security and complexity as the pillars of humankind. "Cryptos" was the 
+
+## The Khaosytes
+They 
+
+## The Motionalists
+The Motionalists believed that human life revolved
 
 ## The Lexocographers
 The lexolinguists believed in the code of life, that life was fundamentally written in word, in code, in language. Everything could be understood linguistically; and so they worshipped linguistics. The intellect. 

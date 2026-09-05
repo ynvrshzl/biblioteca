@@ -1,0 +1,1 @@
+"The Purging." It's the day we've been planning for, quite a while now. There's an army, a war.

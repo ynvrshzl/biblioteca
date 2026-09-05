@@ -1,0 +1,63 @@
+---
+gpt: https://chatgpt.com/share/6a35d03a-d6b8-83ea-adf2-52abe72b23fa?ogimg=plain
+title: information structure and document formats
+---
+
+
+# Infstructs, Classes, Objects and Document formats
+
+Structure, classification, and purpose of information.
+
+in today's information age, there is a constant overflow of information stream. a lot of people are overwhelmed, myself included. with the study I hope to contribute solutions to structuring information and knowledge, so that we can make sense of the overwhelming overflow of excess access we are experiencing today. with the ultimate goal, being able to focus on collective "Telos"; not just collecting information or studying endlessly, but processing information, making real changes in the real world and positively influencing the world we live in today. 
+
+## 1.0 - Abstract 
+that is my summary of the purpose of information, essentially information, knowledge, study, theory, all of these classifications of information, have the functional responsibility of guiding human action. just as music theory guides a pianist to access correct technique and form, or equations guide a physicist to work on complex problems, I believe the mutual goal of information structuring, which is the study of this discussion, is to help us understand what kinds of problems, what kind of information is worth exploring? given our finite form and constrained abilities, how can we synergize and harness properly? 
+
+## 2.0 - Introduction 
+
+that's an abstract description of the purpose of this work, and now the introduction of the study. 
+
+
+there's something I'm fascinated by, how documents are structured to convey information properly. not only is information nonlinear and non-finite, but a document is doing something fascinating; whereas in the old world, librarians, scholars, writers and authors worked almost exclusively with manuscripts which later evolved into the classical book. a document essentially compresses a book in digital file format, but the ideas are pretty similar; we are transferring information using the power of human language. sometimes, books have pictographs, illustrations, equations, and non-natural languages, although these are rare. what I'm fascinated by even more, is the clever use of language to structure and organize information. such as footnote, citations, cross references, indexes, page numbers, and incredibly clever uses of language and symbolic systems to structure and organize and present information. arguably, the constraint of physical mediums provides fertile soil for creative mechanics and devices... just strange because in the modern world we have a plethora of technology, and plain text is foundational in technology, yet apart from the hyperlink, typographical formatting, glyphs, and a plethora of file formats, technology exhibits incredible power, but difficulty harnessing it. much of the elements we use today technologically, are almost directly physically modeled, even the power of hypertext links, come from older writing systems that used indexes, cross references, citations, and physical mediums. 
+
+but the main emphasis of this discussion is not file formats, syntaxes, and endless technologies, rather, I'm focused on the phenomenological, tangible, physical medium of writing itself; how we effectively structure, author, and publish information so that it is useful in the real world.
+
+given this, I'm fascinated by how different fields seem to organize and structure their information. while it may seem counterintuitive to structure nonlinear, non-finite information, using the linear format of the sequential document, this is actually when I source from human history; if not linear phenomena can be described linearly, like Isaac Newton's principia Mathematica, or Alice in wonderland... then this suggests that we human beings navigate non-linear information space, in linear format, preferably textual. what's fascinating about this is that we can explain incredibly complex nonlinear topics or describe entire worlds, constructed sequentially from serialized encoding of information; natural language. 
+
+what is fascinating to me about natural language is; maybe our only General interface for information transfer. it's somewhat cybernetic because the author translate their inner world, their imagination, their phenomenology, through natural language, crafting a tour through a non finite world, and signifying (information theory / semiotics) using characters, symbols, concepts, explanations, chapters, episodes, scenes, stages, and more classifications of information, to structure the phenomenology of the world, concept, or set of instructions, to be decoded by another person, eventually, the natural language becomes imagined; similarly to how the author began the writing process to begin with. that's somewhat of a cybernetic Loop... but understood through semiotics, information theory, and information architecture. 
+
+something I'm fascinated by, which began this study, is reading science papers. the responsibility of a science paper is not purely academia, the most important scientific papers that have been recorded in history, are the ones that helped solve the real world problems. and this is fascinating because it suggests information is independent of medium, but meaning is influenced by medium; structure, categorization, flow, prose, tone, style, pacing, and general architecture of information. 
+
+all science papers include an abstract section and several citations, and this is a reflection of the field itself; science is not a field of Law and Truth; science is a study of Laws and Truth within the observable. this is important, because science papers have the responsibility to be properly structured, to convey information, but not to imply omniscience; science is not all knowing, science rests on the shoulders of giants, and information constantly changes. this is why citations have a dates, this is why papers are versioned, this is why I collaboration and peer review is necessary, and this is why the abstract section is so important; it clarifies the summary of the content.
+
+that brings me to one of the most fascinating ideas I'm developing, I'm not sure if other fields have studied this or classified it, but I describe , quote information objects, end quote. 
+
+the summary, is something taught at the elementary level of linguistics, literature and general education, and it is foundational to structuring information properly. being able to summarize content properly, is independent of substrate; human ability to summarize is essentially a complex compression function of information. this is most likely what masters of their fields aim for, the ability to explain complex ideas as simply as possible. Albert Einstein famously said, "we must make/explain things as simple as possible but not any simpler."
+
+what's fascinating is that information architecture is focused on the digital age of information, but the actual architecture of information is independent of medium, I hypothesize. for example, chapters, indexes, scenes, they are compression functions for bodies of work. 
+
+## 3.0 - Compression and Structural Information Objects
+speaking of these information objects, like the chapter, the index, the scene, what's fascinating to me is why they chronologically emerge; what problem are they solving? can they become problematic? 
+
+### 3.0.1 - Utility and Chronology of Structure 
+what problem are these structural classifications solving? chronologically, experientially, when we structure information, eventually we start losing position, not only in the document, but independent of substrate; we start losing track of the information itself. what's fascinating is that neurologically, we also exhibit this problem, we forget information, we forget position within information, we forget priority, we forgot structure. essentially these are problems of continuity. if information acts as external scaffolding for human memory, then we also introduce architectural-like systems and structures for organizing and classifying information. and this is, I hypothesize, because we require position, even in information space. 
+
+so perhaps neurologically we are processing information somewhat spatially, and it is not surprising, because if we can imagine, encoded as literature, and decode it as imagination again, then the substrate is acting as semiotic information transfer; the symbols of natural language are not arbitrary, they are reconstructing information and data in real time, through the lens of interpretation. this is where it gets really complex because we introduce the idea of interpretation, not only as signal loss, but as necessary; an author cannot explain all parts of a world. a mathematician cannot prove every axiom. 
+
+that's fascinating. if we are working with incomplete models, even at the information level, then it is not entirely absurd to treat the structure of information as spatial processing; we don't really think about walking, and walking is understood as a controlled fall... as a motor ability... and we don't really understand how we walk, we can't really explain it, and yet walking is an ability that is possible neurologically; people with specific machines on prosthetics can learn to walk again, even without the autonomous limbs. and honestly that's beautiful.
+
+### 3.0.2 - Fragment vs. Continuity 
+I believe this is a more significant idea, we are balancing not only the structure of information density/surface area, but we are structuring the problem of fragmentation versus continuity. the problem of separation versus unification. that's non-trivial, and perhaps too technical for the phenomenology of the study...
+...So when are these structures problematic?  for example, when does a chapter become too small? how do we decide the length and structure? when does a scene stop being separate? how are these loose fragments, serialized, segmented, and sequenced together as a final composite? and honestly, that is the art of the craft, that is the craft of information cartography! we could even consider literature to be the cartography of information! constructing maps of information.
+
+## 4.0 - Significance
+I think I analyzed information structures a little too much here, so let's resurface the phenomenology; in essence, we are structuring literature, to translate imagination, instruction, or other forms of information, through the process of literature, basically encoding data, and then reading that data, decoding it, and trusting that the process is approximate; we cannot perfectly semantically process the world, but we can approximate... that's sort of like applying calculus ideas but at the level of information structuring.
+
+so if information can be structured as objects, this leads me to an interesting idea, how many more objects are there? how many objects are useful and classically used throughout history to help us human beings organize information? are these information objects similar in function to the human nervous system? have we intuitively rediscovered what our natural biology has developed? are there more information objects that we have yet to discover, to help us solve information based problems especially in today's age? 
+
+those are fascinating questions!
+
+of course this is an incredibly complex set of ideas, so we should research what historical figures have to say, What fields can support these ideas, more examples of how professionals structure there information and document form, based on necessities, as well as what modern research has studied on these topics!
+
+## 5.0 - Conclusion 
+what's fascinating about architecture is that, as we have explored in separate discussions, architecture seems to emerge organically, and that is the most sustainable form of architecture for us human beings. as applied to my local practice, natural organic structures have emerged from my writings and structure of ideas and information and research, for example the structure of this study is inspired by scientific literature, and I have also developed important sections such as "significance, conclusion, and phenomenology" which act as information objects in and of themselves. although I did not invent the "Abstract" I believe it is important for us to understand why and how things work... this is connected to a previous discussion we had about object versus subject, propositional knowledge versus operational knowledge...

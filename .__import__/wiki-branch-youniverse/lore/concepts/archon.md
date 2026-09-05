@@ -1,0 +1,1 @@
+The "archon" is the ruler of a domain, field of plane of existence.
