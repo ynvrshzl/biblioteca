@@ -2,8 +2,8 @@
 image: https://images.pexels.com/photos/12778427/pexels-photo-12778427.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200
 ---
 
-![](https://images.pexels.com/photos/12778427/pexels-photo-12778427.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-# Kybernautics
+The central proposition of Kybernautics is Navigation, specifically, Navigation of Entropy, Captured by the quote; "For the system, machine or human, there is no worse state than being lost."
+
 Did you know? A "Kybernaut" is an individual who embarks on the life-long Odyssey of bringing order to the maelstrom of Chaos.
 
 ## Section 0.0

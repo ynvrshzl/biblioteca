@@ -7,6 +7,7 @@
     "case": "checkbox",
     "days": "multitext",
     "tested": "checkbox",
-    "refresh": "checkbox"
+    "refresh": "checkbox",
+    "topics": "multitext"
   }
 }

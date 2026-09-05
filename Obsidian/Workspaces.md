@@ -10,6 +10,7 @@ Intedad of gettinglost in teh filetree, workspaces atetmpt to construct a conehi
 
 ```dataview
 table without id 
+":LiLayers2:",
 "<q style='color: var(--text-normal);'>" + file.name as "Workspace", 
 
 "<span style='float: right'>" +
