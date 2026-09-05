@@ -1,1 +1,0 @@
-"What happens when you die?" In the outside reality, we have no idea, but in the Youniverse, when you die, your memory gets sent to Youthanasia, where they await the "last remembering," a once-in-an-eon event, where a persona is remembered for the last time. It is said we die twice, once when the light in our eyes fade, and twice, when we're forgotten.

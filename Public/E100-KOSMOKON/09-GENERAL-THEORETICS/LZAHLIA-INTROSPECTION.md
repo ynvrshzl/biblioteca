@@ -1,3 +1,0 @@
-The "Lzahlia method of observation" is directly inspired by the greats; "The Scientific Method," "Aristotlean Philosophy" and "Lovelacian vs. Newtonian Productivity"
-
-It is named after myself, not out of pride; but as a marker. I noticed I have a unique lens of the world; but I exist on a spectrum, just as much as everyone else. I also believe if the isolated introvert, or the exhausted extrovert is to 

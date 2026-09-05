@@ -1,1 +1,0 @@
-(Wink wink) fingering is one of the key principles in piano playing.

@@ -1,3 +1,0 @@
-- [ ] Aloe Vera
-- [ ] Baking Soda
-- [ ] 

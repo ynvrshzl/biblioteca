@@ -1,1 +1,0 @@
-That is when we got together, all around the campfire, and I could feel in my heart, so I said it out loud: "This world needs a revolution..." katerina, jokingly said: "A Rebel-ution."

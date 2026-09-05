@@ -1,1 +1,0 @@
-Stable vector. Goal, Vision, Purpose, Function. Is the driving force for the program. To be clearly defined, as a summary of the imagined end product. __example: "Creating a window api for our apps."__ 

@@ -1,5 +1,0 @@
-* [Contact](mailto:ynvrshzl@gmail.com)
-* [YouTube](https://youtube.com/@ynvrshzl)
-* [Github](https://github.com/ynvrshzl)
-* [TikTok]()
-* [Reddit](https://www.reddit.com/user/ynvrshzl)

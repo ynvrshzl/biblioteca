@@ -1,7 +1,0 @@
-How do we define goals?
-
-This is at the heart of [Kybernautics]() 
-
-How does a person go from being lost, to having direction? Is that our sense of meaning? So in some sense, are goals the micro elements of direction, and thus, when the nervous system produces positive emotion, it is in such a byproduct of moving towards a destiny, rather than accomplishing goals themselves? 
-
-Given this hypothesis, goals are exhausted, they have a finite lifetime.

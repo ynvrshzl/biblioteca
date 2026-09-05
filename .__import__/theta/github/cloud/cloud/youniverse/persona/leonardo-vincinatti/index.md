@@ -1,1 +1,0 @@
-![alt text](import/cloud-main/cloud/youniverse/persona/leonardo-vincinatti/img/main.jpg)

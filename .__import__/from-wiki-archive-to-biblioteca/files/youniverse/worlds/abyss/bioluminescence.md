@@ -1,1 +1,0 @@
-Bioluminescence, the strongest form of all light in the Youniverse.

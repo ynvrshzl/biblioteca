@@ -1,1 +1,0 @@
-Time, Focus, Course correction

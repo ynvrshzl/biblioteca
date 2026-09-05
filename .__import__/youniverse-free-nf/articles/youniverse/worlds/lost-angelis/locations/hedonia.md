@@ -1,1 +1,0 @@
-Hedonia is the city of pleasure. The opposite of this city is found underground, [The city of Anhedonia.]()

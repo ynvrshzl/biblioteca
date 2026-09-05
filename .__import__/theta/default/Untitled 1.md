@@ -1,3 +1,0 @@
-Code is literature for executing instruction. But it does not explain what code is doing, as part of a larger fundamental system; that is inherently a human definition.
-
-Where does do we define the purpose of a function, in a computer system? In it's name? In documentation? In comments? What if it were part of the code itself. As a database entry "function: of function." [(notation)](editing/schematica/function.md)

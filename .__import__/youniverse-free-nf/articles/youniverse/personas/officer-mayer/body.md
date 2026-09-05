@@ -1,1 +1,0 @@
-Officer Nihil's body is constructed of the top materials the city had to offer. Everything below his torso was shredded in [the accident.]()

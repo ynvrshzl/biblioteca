@@ -1,1 +1,0 @@
-"Logos", as in "The word of God." The suffix "Graph" as in "Recorded."

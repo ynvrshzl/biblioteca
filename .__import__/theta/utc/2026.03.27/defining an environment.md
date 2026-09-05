@@ -1,2 +1,0 @@
-in order for a ecosystem to be defined as a ecosystem / system, these are the components of natural ecosystems, and perhaps they are components of all abstract systems:
-- cycles. cycles, balance things by temperature. 

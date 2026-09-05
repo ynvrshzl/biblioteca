@@ -1,1 +1,0 @@
-Jaeydn saw how incredibly strong, powerful, flexible, yet balanced & effortless dawn zen's fighting style was. he realized, even with such a weak body, "wow... i... i want to be like that someday." He was absolutely in love with his strength, yet gentle poise. almost like a sharp blade dance. [This is the life's purpose of dawn-zen](wiki/youniverse/persona/dawn-zen/life.md)

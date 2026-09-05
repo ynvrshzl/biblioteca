@@ -1,1 +1,0 @@
-SORT length(filter(file.tasks, (t) => t.completed)) = length(file.tasks) DESC

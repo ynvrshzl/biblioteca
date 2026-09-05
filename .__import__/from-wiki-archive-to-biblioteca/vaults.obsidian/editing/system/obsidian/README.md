@@ -1,1 +1,0 @@
-This directory conains any **obsidian-specific** files, such as **dataview** query helpers, that are not necessarily "wiki" content related.

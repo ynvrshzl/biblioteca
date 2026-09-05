@@ -1,1 +1,0 @@
-In Kybernautics, a "Kybnete" is equivalent to a Synaspe: A single point of information in space. Edges between Kybenetes, much like Psynapses, aer

@@ -1,1 +1,0 @@
-Ada lovelace was the first programmer.

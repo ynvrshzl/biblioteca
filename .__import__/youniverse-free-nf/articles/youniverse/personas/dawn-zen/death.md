@@ -1,1 +1,0 @@
-"Though my body will die, my energy, will never die."

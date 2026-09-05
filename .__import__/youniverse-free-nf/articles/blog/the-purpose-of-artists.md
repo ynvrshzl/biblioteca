@@ -1,1 +1,0 @@
-Life can be like the night sky, nothing makes sense & points scattered everywhere. A creative's biggest challenge is connecting those dots for themeleves, and others to see.

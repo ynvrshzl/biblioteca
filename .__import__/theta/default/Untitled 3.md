@@ -1,1 +1,0 @@
-stream thoughts as raw fragments first, then categorize

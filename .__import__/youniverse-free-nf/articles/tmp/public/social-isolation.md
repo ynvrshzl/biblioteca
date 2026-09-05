@@ -1,1 +1,0 @@
-“The brain is comprised of 100 billion cells, 500 trillion connections. It is an organ of social function. The brain needs  to interact in the world.” *— Dr. Huda Akil, Professor of Neurosciences, University of Michigan*

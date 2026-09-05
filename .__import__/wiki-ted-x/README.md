@@ -1,1 +1,0 @@
-A series of ted-x planned speeches and materials for public presentations.

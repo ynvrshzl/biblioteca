@@ -1,3 +1,0 @@
-The rebels wore black clothing, often with dark eyeshadow.
-
-The original rebels treated each other like family, even if you were not related to each other at all. The more you have suffered in this life, the higher your responsibility to guide others. There is no hierarchy or political system within the original Rebellion families, becuase they chose to rebel against the city of Lost Angelis. Eventually, they were all slaughtered by The Mooders. All, but one Rebel. One mother who gave birth in secret, and with her, the Rebellion continues to march forward, unstoppably, the maiden of death herself, coming for all those who have taken from the innocent. 

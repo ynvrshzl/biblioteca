@@ -1,1 +1,0 @@
-The world of time. The world of sands.

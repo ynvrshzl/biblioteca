@@ -1,3 +1,0 @@
-- [meta-architecture of being thesis](https://chatgpt.com/c/69cbc931-4098-8327-8c0b-3d8851a1357f)
-- [programming where everything is a program](https://chatgpt.com/c/69cbcdd4-d5d8-8329-aea7-0da03803ff08)
-- [researching real-world complex systems & how they are managed](https://chatgpt.com/c/69cbc1a8-c22c-8328-83bd-ff2bb0c8e447)

@@ -1,1 +1,0 @@
-In accordance with the highest Mooderian value of peace, the citizens of Lost Angelis are being lied to. "This is the only world. Families don't exist. Peace & happiness are all that matter in life."

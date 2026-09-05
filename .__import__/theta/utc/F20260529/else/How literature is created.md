@@ -1,3 +1,0 @@
-in continuation with our literature author series, I'm fascinated by how literature is created. because we do not merely generate ideas in a vacuum...
-
-This explains why it is so difficult to create stories, without understanding how our favorite stories himself were created. they were cold created, nobody invents ideas in a vacuum, we fundamentally assemble new relations of things.

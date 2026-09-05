@@ -1,1 +1,0 @@
-"Losing hurts more than winning feels good, but that won't stop me."

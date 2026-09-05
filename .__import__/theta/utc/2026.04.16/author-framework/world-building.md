@@ -1,1 +1,0 @@
-- references of real life (like how gta modelled LA for Los Santos. Arguably one of the most complex video game worlds ever created. How was it created? That's what we're studying to create our own story people's and breathe life into them via inspiritus(inspiration)!!)

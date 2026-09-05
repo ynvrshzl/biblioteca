@@ -1,1 +1,0 @@
-In the youniverse, everyonw has their own headspace. It is like an inner world. Depending on your core emotion, your inner world will be shaped by it's energy. Remember, emotions are energy in motion.

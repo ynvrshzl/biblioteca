@@ -1,1 +1,0 @@
-there needs to be an ethical guide on how to properly use the internet especially because it is a dangerous place. this is probably already a field but it's just not accessible. it needs to be at least written as public documentation which we will release.

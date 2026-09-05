@@ -1,1 +1,0 @@
-"There are no words to describe... how I feel right now... I... i feel so happy... but... also peaceful... and sad. Sad that someday... someday I won't be here anymore... I won't be part of this world."

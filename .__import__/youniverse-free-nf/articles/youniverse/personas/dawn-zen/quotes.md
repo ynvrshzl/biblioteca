@@ -1,3 +1,0 @@
-- "Only light can blind the eyes."
-- "No matter what dark forces await you, energy can never be destroyed."
-- "You either suffer the pain of discipline, or you suffer the pain of regret."

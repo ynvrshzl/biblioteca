@@ -1,1 +1,0 @@
-"This life has been hell, I am at peace knowing I will sleep with the stars."

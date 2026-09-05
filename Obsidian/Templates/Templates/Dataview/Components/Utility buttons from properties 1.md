@@ -1,1 +1,0 @@
-Eventually, this script will basically create buttons from common frontmatter properties, without having to define buttons themselves.

@@ -1,1 +1,0 @@
-- **schematics:** generates visuals, maps & diagnostics for a code system. Essentially, like architecture, but for raw code text.

@@ -1,3 +1,0 @@
-Officer Mayer, carefully sipping a hot cup of java, looks to the city sunrise. Peace flows through his body. The cool city air washing over him, all the stress, lifts away. The officer walks into the shop "Good morning. May I have a medium java & pumpernickel bread." Someone mysterious walks into the coffee shop. The officer, being undercover in broad daylight, has his eyes sharp as a hawk, yet so smooth to be mistaken for a regular citizen.
-
-"This is officer nihil mayer. Yes..." He immediately gets up... We have a suicide accident, we need to go. [Law]() annoyingly moans: *"Ughhhh, not again."*

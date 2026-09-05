@@ -1,1 +1,0 @@
-A problem requires structure in order to be solved or strategized. This is the __Fundamental__ idea in GPS. 

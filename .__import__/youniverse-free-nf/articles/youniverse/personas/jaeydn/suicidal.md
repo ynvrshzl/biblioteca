@@ -1,5 +1,0 @@
-Jaeydn had two paths in his life. He could either end his life, and walk the path of the left, or, he could endure the suffering, and walk the path of faith. "I can't take these voices in my head anymore man, they're gonna kill me one day."
-
-Jaeydn never had a dream. He never recieved a call from the skies, or from God... but he did meet his alter versions. He could imagine... a world... in which he was a father, and had the most beautiful, loving woman in the world as his wife. It was then that Jaeydn realized, the power of his hands. The power of his anger... the power of his rage. The greatest weakness Jaeydn believed about himself, became his greatest strength. "I could stop the pain all right now... but only I can stop myself... and that... is power."
-
-The fear of having wasted an entire life, was like a hand of fire, slapping him across his face... it was... the only way for him to wake up.

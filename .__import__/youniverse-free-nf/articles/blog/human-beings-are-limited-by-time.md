@@ -1,4 +1,0 @@
-# "Human beings are not limited by space, but by time."
-If you gave us immortality, we would probably solve <u>all of the problems of nature.</u> Since we know we will die someday, and we don't know how, or when, that subconsciously drives everything in our lives. It is neither a force for good or evil, death simply magnifies the true nature of each human being.
-
-I'm trying to figure out ways to compress time into space, or space into time I'm not sure which one. it's a computer science concept that algorithms are based on. I'm trying to use that concept and everything I do because human beings have severely limited bodies and some of us are born with brains that far exceed our physical limitations. however, instead of doing something stupid like illegal substances to override the physical limitations, I believe we should embrace what major has allowed us to develop.

@@ -1,1 +1,0 @@
-# Transformation = Integration + Implementation + Actuation

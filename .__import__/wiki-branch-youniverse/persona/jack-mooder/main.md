@@ -1,1 +1,0 @@
-Jack Mooder is "..." personified. He is the personification of "a jack of all trades, master of none."

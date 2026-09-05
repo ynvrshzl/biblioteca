@@ -1,1 +1,0 @@
-Old earth is often described as "Fallen Eden."

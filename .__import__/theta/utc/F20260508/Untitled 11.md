@@ -1,8 +1,0 @@
- how did officer mayor, become mostly machine? 
-this is actually the most heroic and important part of his entire life, and one of the most important explorations of what it truly means to be human, in the most extreme.
-
-officer mayor basically jumped into fire, to rescue someone. (perhaps a child and a pet, or an animal, or a person of significance, or merely a civilian.) in which office mayor, disobeyed orders of (figure of authority) and jumped into a situation he was not equipped with. 
-
-mayor was pronounced, to be ethically humanely euthanized, due to the 4th and 5th degree burns, complete destruction of part of his body. this is where, we can see the brutal aspect of the physical life, and exactly where nihilism and existentialism, infest. they Holt at the tangible physical level of analysis. but in order to truly understand what it means to be human, a full level of analysis, is required. and this is exemplified in officer mayor's life story. it does not necessarily mean that he became a stronger self after sacrificing his own life for someone else. rather, it is the metamorphosis of the human. internal brakes first, and the outside forms the exoskeleton, the armor. this happens many times within the human life. more importantly, it is a vision of transformation, philosophically speaking. that is mythically and realistically studied in the life of mayor. 
-
-the sacrifices and pursuit for civil responsibility and virtue do not end simply because he has a body of machine. for even if his biological heart replaced with machinery, his soul is not mere clockwork. what is left of mayor, is not the stereotypical dystopian transferable consciousness, rather, what it truly means to be human.

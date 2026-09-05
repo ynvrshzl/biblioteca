@@ -1,2 +1,0 @@
-# The rebirth chapter
-Right whenever I believe that I should end my life, or that life, is ultimately doomed, there is always a spring of rebirth. This isn't necessarily a chapter, but rather a cycle... a season... just like nature. As painful & impossible as these dark storms of depression & hopelessness are getting, the springs are becoming more & more beautiful, and I believe in my heart I have everything I need to hold on, until nature itself decides my time is up.

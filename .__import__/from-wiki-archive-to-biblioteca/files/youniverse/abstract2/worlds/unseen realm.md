@@ -1,4 +1,0 @@
-in the universe, the unseen realm is a concept, for the submerged, subconscious, and possibly spiritual, higher dimensions of being. there are many other astral planes within this concept, 
-
-- Afterplane: a higher order of dimension in which space and time converge into essentially infinity. the classical concept of eternity. this is where human memory exists, because it travels faster than light, and yet it occupies space. the after plane can be considered somewhat of the afterlife concept, though not religious by nature. it's more of a philosophical scientific mathematical observation of a very real phenomenon; remembering people who no longer exist. 
-- Metadome: the metadome is a domain structure, which is the center of gravity for the persona. this is essentially what we think of when we imagine the universe

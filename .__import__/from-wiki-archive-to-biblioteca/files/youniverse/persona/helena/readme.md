@@ -1,1 +1,0 @@
-Helena is the mother of [Katerina](import/wiki-cluster-2.0/youniverse/persona/zaeyn/katerina.md)

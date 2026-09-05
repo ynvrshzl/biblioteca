@@ -1,1 +1,0 @@
-Standardization is one of the fundamental tools

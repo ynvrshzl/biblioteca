@@ -1,1 +1,0 @@
-A "component" of a word is the part of a word, as examined under linguistic lens, as being an individually significant part, forming vowel, phonetics, or concepts of a whole word.

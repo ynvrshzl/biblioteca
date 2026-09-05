@@ -1,1 +1,0 @@
-"The eyes havea awakened. Soon, the children will tell the signs of a fallen world, coming to an end.They will tear the earth apart with their will. Evolution has reached it's final stage, obliteration. "

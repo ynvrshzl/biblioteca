@@ -1,1 +1,0 @@
-"Someday, the rebellion will awaken. Someday, the ??? will awaken. They are asleep, not because they do not know, but becusae they wait."

@@ -1,3 +1,0 @@
-- [https://sass-lang.com/](https://sass-lang.com/)
-- [bootstrap](https://getbootstrap.com/docs/5.3/examples/)
-- [https://www.wearebgc.org/](https://www.wearebgc.org/)

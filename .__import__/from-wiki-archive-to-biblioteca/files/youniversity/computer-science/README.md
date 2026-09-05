@@ -1,1 +1,0 @@
-CS (Computer Science) is the study of computational systems, in the application of sciences.

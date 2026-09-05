@@ -1,1 +1,0 @@
-How do you organize an entire youniverse? It can arrange itself through it's core parts: stories & time. The beggining, the end, the middle. all a story, told by stories. This is how most of my younvierse is organized.

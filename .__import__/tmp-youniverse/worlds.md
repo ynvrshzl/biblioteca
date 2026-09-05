@@ -1,1 +1,0 @@
-If personas are things personified, then worlds are things objectified, and projected into a stratosphere of being. In other words, whereas Greek Mythology treated worlds as (containers) for Gods or Titans, we try to understand worlds as elemental (reflections|wombs) of personas. e.g., an infernal belly of hell as jaeydn's world, or a freezing cryochamber as zaeyn's world

@@ -1,1 +1,0 @@
-hypothesis, architecture does not emerge from simple primitives, rather, architecture is discovered through prototyping, sampling, and unfolding paths of simple function. eventually these functions emerge into large intersecting structures, which eventually require architecture and management.

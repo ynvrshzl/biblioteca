@@ -1,1 +1,0 @@
-Doom: "You and I are like oil and water, no matter how hard we try, we will always separate each other. It is in our bones, we were created to fight." Yami screams: "Joey, I am not your enemy... we are fighting the same thing"

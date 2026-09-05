@@ -1,3 +1,0 @@
-# An introduction to Chronotics
-
-"Chronomatics; Memory as the scaffolding of time." Without memory, we esssentially cannot persist information structures. It is the same idea that allows architecture to be a multi-seasonal project, rather than a momentary structure. When we build memory structures, we are persisting work into the future. Memory structures include; giving names to concepts, organizing ideas, compiling work, compressing fragments. These structures allow information to persist across time, beyond the immediate time scale. The importance of giving names to things is significant to  how we compress space into time. We may be limited by our time as human beings, but collectively, historically, we can build across time.

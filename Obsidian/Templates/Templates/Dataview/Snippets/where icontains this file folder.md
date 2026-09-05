@@ -1,1 +1,0 @@
-icontains(file.folder, this.file.folder)

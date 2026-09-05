@@ -1,3 +1,0 @@
-before we were going outside today I was thinking about why am I even working so hard to dress and took repair myself just to go outside and then I realized well, God made me to live and we have antifragile system for the nest so just like muscle atrophy you have to use those systems otherwise they become diminished and die over time. 
-
-now... this could be a good thing If you think about it if you don't feed systems that negatively affect you and harm you, and then perhaps then perhaps them perhaps when we don't feed negative systems 

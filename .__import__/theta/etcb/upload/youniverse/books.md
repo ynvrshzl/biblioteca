@@ -1,5 +1,0 @@
-# books = source code!
-
-I think the written version of our universe stories, like imagine physically holding the book like you would be a teenager in school inspired or something and you just look at the cover of the book, and you imagine what is that story about? those characters look so cool I loved the anime, what is the written story like?
-
-but here's an important distinction, I find reading books to be incredibly boring. I think the only reason I would read a book would be if it would be so incredibly imaginative, that it is better than watching a movie. and that's really rare. or maybe reading the book of one of our favorite animes or movies. because then you would be able to see the surface material that inspired the finished compiled work and there's something really awesome about seeing the generation process

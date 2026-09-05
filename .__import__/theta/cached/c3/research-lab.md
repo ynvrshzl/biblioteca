@@ -1,4 +1,0 @@
-# Research laboratory of Human Self
-If we treat our youniverse work, as the research laboratory for the human inner youniverse, then all of a sudden we have two collossal worlds; epic anime, and science.
-
-most of our work is actually like a reasearch experimentation laboratory + sandbox. fundamentally we ask: how can we reduce our own human suffering through our work? not "reduce the world's suffering" or "make the world a better place." those are noble directives, but incredibly volatile. the human being was not meant to carry the weight of the world they live in... that's what imagination is for. our work, art, stories... they can help us process things we cannot. that's what a tool is. that's why we human beings create tools. this leads us into our next idea of a knowledgeer, a student of life. avoiding biohazardous information materials (BIM) [read more here](information-biohazards.md)

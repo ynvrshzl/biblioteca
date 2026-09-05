@@ -1,5 +1,0 @@
-information is a fundamental property of living systems. whereas the fundamental elements of the observable universe, are currently understood to be, the States of matter, various forms of elementary atoms (hydrogen, carbon, oxygen, etc.) as well as systematic reaction, as a property of chemical reaction. such as water and temperature forming steam or ice various forms of matter as it is currently understood
-
-dates of matter are fundamental because, they allow us to classify chemicals into categories. this is fundamental to how we human beings organize information. not everything is considered information, and not all information is useful, this brings us to a fundamental principle of automata, information machines. the idea that computation is essentially symbolic transformation of information, is simply one half of the equation. the other half is reason of function. 
-
-system can exist solely to

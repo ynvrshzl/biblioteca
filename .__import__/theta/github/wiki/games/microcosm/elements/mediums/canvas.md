@@ -1,1 +1,0 @@
-As formless as the youniverse itself, the Canvas is an element of imagination... of potential... you could paint anything on it... what will your imagination unravel?

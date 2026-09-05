@@ -1,1 +1,0 @@
-This is becuase memories can save your life by reminding you of a better time in your life. This has saved my life many times

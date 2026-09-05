@@ -1,2 +1,0 @@
-# Vision
-whenever she feels unsafe in public, she starts to hyper vigilantly scan the area. her eyes lock in like aperture camera lens, scouting the area. this is similar to laws hypervision. in fact in the universe, intelligence is often portrayed as light coming through the eyes, vision, awareness, consciousness. that's essentially my understanding of intelligence

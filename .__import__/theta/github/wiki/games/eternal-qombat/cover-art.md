@@ -1,1 +1,0 @@
-We imagine the cover art of this game to be someone (perhaps Joey Doom). Portrait capture. Two-toned (Red Highlights, White Fill, Black Shadow) (Persona-5 style.)) Looking upwards. With a spiritually exhausted expression. Perhaps capturing the eternal struggle of the human being.

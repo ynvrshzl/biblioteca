@@ -1,1 +1,0 @@
-After Joey Doom had been tortured for eons, he woke up in a field of nothingness. His eyes, rising with the sun. Exhausted from the daylight, he kept his eyes shut tight. But the sky was so beautiful, it lulled his eyes to peek by themselves.

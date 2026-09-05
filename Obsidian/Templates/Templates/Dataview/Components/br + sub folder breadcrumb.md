@@ -1,1 +1,0 @@
- "<br><sup style='opacity: 0.5'>" + file.folder + "</sup>"

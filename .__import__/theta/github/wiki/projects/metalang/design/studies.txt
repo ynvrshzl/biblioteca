@@ -1,3 +1,0 @@
-observations and studies on how blender visual nodes are managed to avoid the same problems that software has.
-
-- parameters are interfaces. params provide top-level input access to a system, without needing to know how the system works internally. this could be implemented in metalang as a Parameter() block.

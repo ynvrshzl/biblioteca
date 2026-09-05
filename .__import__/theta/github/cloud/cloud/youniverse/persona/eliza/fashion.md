@@ -1,1 +1,0 @@
-Elizabeth has a fashion style very inspired by [2b from Nier Automata](https://nier.fandom.com/wiki/YoRHa_No.2_Type_B). Goth/Pastel Lolita classical victorian dressing, with a depressed (not just emotionally, but physically) attire.

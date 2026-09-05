@@ -1,2 +1,0 @@
-## The timeline model
-The timeline provides the only reliable cohesive model for a story, [arguably, a story is fundamentally time-driven, all story is history.](editing/youniverse/worlds/old-earth/history.md)

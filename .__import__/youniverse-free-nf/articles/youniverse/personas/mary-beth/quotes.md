@@ -1,1 +1,0 @@
-"You can suffer from an early death, or an  unlived life. Pick your posion."

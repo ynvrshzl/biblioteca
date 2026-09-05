@@ -1,3 +1,0 @@
-Notes on phenomenological local stages of learning.
-
-Kybernetics focuses on how we navigate and orient complex spaces. Learning, is one of the fascinting...

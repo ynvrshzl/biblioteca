@@ -1,1 +1,0 @@
-What makes you interested in certain things but not others? Is this a physiodome concern, or of [Kybernautics]()?

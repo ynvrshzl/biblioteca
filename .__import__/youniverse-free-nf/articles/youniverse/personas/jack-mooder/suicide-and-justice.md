@@ -1,1 +1,0 @@
-"Perhaps the end of taking one's own life is the result of living a life without justice. Perhaps it was the only way to use what little energy you had left. Was it the right choice? We all die in the end. That doesn't mean it's okay to end someone's life earlier than it would have naturally. But without a God to call justice, what are we left with?"

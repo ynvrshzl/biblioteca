@@ -1,3 +1,0 @@
-Jaden was once on a fire, in the spirit realm. and he said to someone he loves very dearly: "my body feels pain, but my heart has hurt the most. if life is pain, then I will endure the pain and burn, for I love you."
-
-this is essentially Jaden's real spirit self. it's the embodied integrated whole version of himself. rage plus the broken child within him. he was crying while his body was burning. pain beyond imagination. and yet, the tears burned into char and ash, because the fire kept him alive.

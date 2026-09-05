@@ -1,1 +1,0 @@
-the chaos cube, is a object, a cosmic object that lives inside the universe. it's essentially like my interpretation of complexity and chaos, and not being swallowed by it. and learning to harness it as fuel. like a Dyson sphere

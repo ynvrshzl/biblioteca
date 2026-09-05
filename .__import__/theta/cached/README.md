@@ -1,1 +1,0 @@
-best directory is dedicated to fast access, various writings. similar to the random access memory model in a computer, information that could not be organized at the time of creation, is essentially dumped in memory fragment sectors. resembling cash addresses and a computer.

@@ -1,1 +1,0 @@
- "!" + elink(default(image, this.image))

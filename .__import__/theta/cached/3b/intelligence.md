@@ -1,1 +1,0 @@
-I believe, the only sustainable usage of our human intelligence, capabilities and consciousness is to solve problems in nature, reduce suffering, reduce pain, reduce illness, reduce disease, and build solutions, build medicine, build new materials.

@@ -1,2 +1,0 @@
-# Economy of Lost Angelis
-The economics of Lost Angelis — [despite what the Mooders have told the citizens for countless decades](population-control.md) — is deeply reliant on **illegal trade** with the [other underwater nations.]() 

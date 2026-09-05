@@ -1,1 +1,0 @@
-**Olympus/Olympia** is the biggest city in Lost Angelis. Only the highest intelligence can access this city. It contains the luxuries of life.

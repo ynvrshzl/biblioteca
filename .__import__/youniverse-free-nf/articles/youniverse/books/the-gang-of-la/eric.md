@@ -1,5 +1,0 @@
-My name is Eric. I was born with... I was given a really fucked up life man. I don't know who did this to me or why... but ever since I was little, i've had this hole in my chest. I've always felt like a monster... and monsters are doomed to be alone forever. I had a disfigured face, and before I ever looked into a mirror, I was happy. It was until... you can probably imagine what happened to me. I wanted to jump off a bridge when I saw myself for the first time.
-
-Love can be so good... and love can hurt you so bad.... I think it's the only thing in this world that could both make me want to die, and make me want to live.
-
-"You'd seem to be okay if I just died. I think I'd be okay with that too." Ahh... this letter won't make sense to anyone but me. Over my shoulder, I feel a hand over my shoulder: "Whatcha' writing there buddy?" It's Vin. Ugh. What a meathead. "Fuck off dude." Vin laughs: "Hey hey man... that's no way to talk to your boyfriend." Immediately I back away from him: "What?" He laughs. Man I don't get that guy, he likes girls right? Why's is he such a... such a 

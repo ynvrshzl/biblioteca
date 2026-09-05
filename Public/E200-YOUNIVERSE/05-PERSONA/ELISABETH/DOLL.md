@@ -1,1 +1,0 @@
-Elizabeth was so terribly wounded psychologically, that she believed she was a doll. "I am a plaything." She also believed her doll was truly her "the doll wants to become me, and I am becoming her."

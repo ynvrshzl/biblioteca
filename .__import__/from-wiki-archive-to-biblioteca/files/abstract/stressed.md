@@ -1,7 +1,0 @@
-"my ability to feel stress and exhaustion, my ability to feel stress and exhaustion, is not a medal of honor, is not a medal of honor, it is it is the only reminder that the only reminder that I care enough to be engaged with life even when it is painful and confusing."
-
-I remind myself, I remind myself, when I am stressed, when things don't work properly, when I am stressed, when things don't work properly, when ideas become lost, when ideas become lost, that doesn't mean that doesn't mean our work is our work is useless when we need it most, useless when we need it most, it means that it's only in these rare times when we are about to collapse that we realize it means that it's only in these rare times when we are about to collapse that we realize; __oh wait, I care enough to be stressed.__
-
-Yes it's painful. Stress is awful. It isn't good for us. But I remember myself in those exhausted moments where I feel powerless and about to collapse; you can still feel, and that means you still care.
-
-this is important because this is important because one of the most important things I've learned in my life one of the most important things I've learned in my life, which I believe is the most important thing in human life, is the ability to care. to want to live. to want to fight and struggle and to exist. which I believe is the most important thing in human life, is the ability to care. to want to live. to want to fight and struggle and to exist.

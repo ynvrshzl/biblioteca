@@ -1,1 +1,0 @@
-"We live in a world of mirrors. Where either, they reflect back to you, who you are, or they show you, who they truly are."

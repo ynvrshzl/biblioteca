@@ -1,1 +1,0 @@
-Black lung is a member of [The Pirates]() They call him 'black lung', becuase he smokes so much his lungs turned char black.

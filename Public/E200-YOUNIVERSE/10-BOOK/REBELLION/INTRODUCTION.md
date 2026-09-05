@@ -1,1 +1,0 @@
-In the beginnign of the Rebellio story, Yami cries "How I wish you could see this... how I wish you could see this."

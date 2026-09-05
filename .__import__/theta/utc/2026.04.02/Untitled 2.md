@@ -1,8 +1,0 @@
-My personal theory of the youniverse is basically to describe the problem of what the inside sees, and what the outside world sees. 
-
-
-You could be the most beautiful person on The outside, but on the inside your mind it could be tricking you in order to feel like you are a completely different person.. 
-
-This is essentially what I feel with gender dysphoria, basically I end up feeling like I'm a different person. And yet I'm beautiful. but my mind literally distorts what I see and basically I end up seeing, someone that isn't me. On the inside I have a different self which is basically, I end up seeing someone who is uglier than me, I nasty voice in my head. shortness of breath. It's literally physical it's not just a emotional inner thing. like it's literally physical. I could almost imagine an angel saying, like archaella from the universe angels. basically saying, so he basically uncovers the inner workings of the human being, and he basically describes, how the fundamental problem was being human is that you don't underst understand
-
-This could be described as a general inner and congruency because you literally don't see yourself on the outside That's cool you really are. And that's essentially the basis of dysphoria and this morphia and it's really scary because it's almost like looking at a mirror that has been bent out of shape! so you could almost see our human consciousness as the mirror through which we see ourselves and the world. The paradox is that you cannot even experience your own life, like introspection is impossible if your isolated.

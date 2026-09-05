@@ -1,1 +1,0 @@
-Association is the __basis__ of all human cognitive memory function.

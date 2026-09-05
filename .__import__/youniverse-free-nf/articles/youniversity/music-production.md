@@ -1,2 +1,0 @@
-# Ghost rythyms
-Have you ever wondered what makes a hip-hop beat so good? Remember, even hip-hop uses fundamental dance beat rythyms. Usually, the vocals or a percussive element, is what keeps tempo, while all other elements are dancing around the focus.

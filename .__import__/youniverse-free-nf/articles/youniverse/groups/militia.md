@@ -1,1 +1,0 @@
-The militia is an organization from [Lost Angelis]() tasked to protect the city walls from 'the wicked rebels.'

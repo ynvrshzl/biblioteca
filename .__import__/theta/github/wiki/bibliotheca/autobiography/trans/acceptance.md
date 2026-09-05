@@ -1,5 +1,0 @@
-My family still doesn't accept me as their daughter... i'm okay with that, becuase I accepted myself, even when nobody did.
-
-I realized then, that i'll live for myself. I don't care what anyone or anything tells me... tht's why i'm socializing again... to make myself feel human again... to speak to that social part of me & let it know that it's safe & alive again... that it can breathe & exist. I realized it's better to have this false peace, than to constantly be on edge... I thought that hiding myself from my family... they would listen to me... and ask me what i've gone through to end up like that. But nobody did... even when I said that's what aI needed... to be listened to. And I'm grateful... I still exist. I was able to save my life... and God ultimately saved me.
-
-I don't say that cos I'm happy... I say that becuase it brings me deep pain to see both sides of life so clearly... I don't know if there's a bridge between the horrific sides of life... and the most beautiful meaningful parts of life. Perhaps healing is the only answer to walk between those two worlds, and be okay with them co-existing... that's life.

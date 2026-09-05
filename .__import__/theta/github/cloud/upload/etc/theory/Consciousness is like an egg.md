@@ -1,7 +1,0 @@
-I think consciousness is like an egg... or maybe an onion. or a matroysoka doll... 🪆 and pain... i think it's painful because it cracks the layers that protect the egg inside... but I think part of the human being actually needs this to happen... our systems need pushing (like muscles, brain, heart, etc.) otherwise they decay, weaken and die.
-
-But I also think the egg idea is... painful because the more conscious you become, the less layers you have to protect your core... i think ... unless the egg gas already hatched.
-
-I think it's incredibly important to understand this because life fundamentally is painful, and consciousness is only really awakened so to speak, through pain I think. or I think very profound experiences open up consciousness like an onion layer or something and getting to the core of the individual is almost like an agiolic it's fundamentally vulnerable and always needs to be protected. 
-
-but those cracking layers of consciousness is actually integral to the development of the human being, I think. because the more conscious and aware we become, assuming we are heading in a ethical, virtuous, godly direction, then we become more aware of what matters most. I really learn to fundamentally work within our constraints and make the most of them to actually become almost anti-fragile. being optimized under constraint and limitation.

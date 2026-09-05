@@ -1,2 +1,0 @@
-- "You must continue without me."
-- "This war will never end, my friend. We were shaped by steel, and to ash we will burn. That is why you must exist."

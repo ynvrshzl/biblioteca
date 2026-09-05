@@ -1,2 +1,0 @@
-Proposition: It is difficult to implement purely calculated or computed knowledge. Almost all human knowledge comes from Essence; Source, Life. Wether an observation, a problem, an idea, a spark. None of these are fundmaentall "human authored computation" and it properly explains why Science and Computers are generationally evolvable; the knowledge is not capped at human computation, but our observation of the world, solutions, and creativity as a bridge between the world and the self.
-

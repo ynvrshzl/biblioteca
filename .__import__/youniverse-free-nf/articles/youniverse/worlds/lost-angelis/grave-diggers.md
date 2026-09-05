@@ -1,1 +1,0 @@
-This is one of the saddest ways to get "successful" in Lost Angelis. People rob graves at night for status exchange by wearing the expensive attire of people that have passed away. 

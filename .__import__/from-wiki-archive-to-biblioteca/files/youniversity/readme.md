@@ -1,1 +1,0 @@
-Youniversity is a project for sharing education, practical knowledge, and sparking curiosity for the better human being.

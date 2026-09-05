@@ -1,1 +1,0 @@
-Struggle & refinement: we eventually learn to "enjoy" the good worn path. like carving into stone, refining. even if at times it is unbearable. some responsibilities, decisions or actions in life, are unavoidable, becuase inaction leads to progressive entropy

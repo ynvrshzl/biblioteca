@@ -1,1 +1,0 @@
-file.link + "<br><small style='opacity: 0.3'>" + file.folder + "</small>" as "Folder",

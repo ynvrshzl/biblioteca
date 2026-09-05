@@ -1,3 +1,0 @@
-The world around us, is not a safe place, but neither is it a cruel place. Everywhere you look, there is duality to be discovered in everything. If you ever feel powerless, being able to do nothing, you often forget, there is evil inside all of us, just as much as there is good. 
-
-This is, perhaps, the darkest discovery of my life. To realize that "good" people are capable of horrors, just as much as "evil" people are. Does this mean morality is an illusion? Absolutely not, if anything, it means **we are defined by what we choose to become, not what we are born as.**

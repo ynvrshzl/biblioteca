@@ -1,3 +1,0 @@
-Ken is attractiveness personified as a man. He had beautiful, curly blonde hair and clear, green eyes. His good looks caused him to get anything he wanted in life. His life was one of the happiest in the entire youniverse... until he met someone that broke him entirely, and single-handedly repaired him.
-
-*"I met this beautiful woman... she was... so kind... and had nothing... she was sleeping on the streets but she had to be the most beautiful girl i had ever seen... Up until that fleeting moment, I had only ever thought about how good I looked... how many friends I had... how expensive my dining would be... staying on schedule... meetings... but then... I met her..."*

@@ -1,1 +1,0 @@
-Serena: "How I wish I could erase your pain... erase your trauma... I don't want you to heal... I wish you had never survived what you have to begin with."

@@ -1,2 +1,0 @@
-# Love is my atomic reason
-Whenever I ask myself: why? I keep asking why, until I get to a question so small, that it is almost atomic in it's size, but a life's worth of meaning in it's density. Ultimately, if I love something, that is the atomic reason, and the smallest reason for doing anything. To me, that's more than enough.

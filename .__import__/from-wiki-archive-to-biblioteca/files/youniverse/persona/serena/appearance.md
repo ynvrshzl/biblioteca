@@ -1,1 +1,0 @@
-Serena has pink, ethereal hair. She could be described as an ethereal elf woman, with mocha skin.

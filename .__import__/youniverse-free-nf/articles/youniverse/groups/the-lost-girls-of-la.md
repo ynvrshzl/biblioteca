@@ -1,2 +1,0 @@
-# The lost girls of LA
-Eliza Beth & her captured friends formed a group on the streets. Most of her friends never made it out alive of that life. [Natalya]() was able to live again, even after [the horrific torture in the chambers.]()

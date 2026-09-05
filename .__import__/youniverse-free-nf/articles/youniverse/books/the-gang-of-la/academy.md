@@ -1,3 +1,0 @@
-I see him, from the corner of my eye, approahcing me. He grabs a seat next to me and points his finger at me, softly, he wispers: *"Pooooh..."* He pretends to shoot a gun at my head. *Is this guy insane?* I look at him...
-
-Vin: Jeez, what are they feeding those white girls? Man, that looks good. Renee: Watch your mouth you meathead, they can hear you. Those aren't just any white girls, those are the twins. Vin asks: SO what if they can hear me, they looking like breakfast lunch and dinner! Renee let's out a sigh of frustration "Sigh I gotta explain everything to you? If you get us caught we'll get expelled. Keep that large mouth of yours shut."

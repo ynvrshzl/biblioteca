@@ -1,1 +1,0 @@
-It's actually crazy the feeling of going outside and seeing new things and places and paying attention to the little shop of life It's almost like your scope of life, almost like your consciousness It's almost like a lens that has become magnified but not essentially you can see more things but rather you pay attention to both the macro scope and the microscope.

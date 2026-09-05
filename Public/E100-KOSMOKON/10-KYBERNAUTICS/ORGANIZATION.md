@@ -1,1 +1,0 @@
-Organization requires a pre-defined location or position in space

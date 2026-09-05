@@ -1,8 +1,0 @@
-designing the fundamental blocks in metalang. how is this process guided? experimenting? turing-completeness? observing our real programs? blah- let's just play!
-
-- data: all information input of a program, not necessarily variables.
-- data structures: ways of storing data... e.g. array, object, set, etc...
-- variable: a data, memory unit, a block that holds information.
-- functions: in programming, the code runs at global scope. meaning there is only a single level of sequencing. that's what makes programming so powerful: the ability to sequence code, at cifferent points of time. that's as fundamental as a function gets. 
-- loops: allow the program to repeat instructions, based on the loops instruction
-- conditions: give the computer, logical instructions on how to handle data.

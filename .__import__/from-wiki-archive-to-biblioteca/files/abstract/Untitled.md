@@ -1,1 +1,0 @@
-why is it important to understand things? because there are deep limits to what we can know as human beings, this is the philosophy of epistemology. we cannot merely prioritize raw signal or truth. in fact the human body filters stimuli, and one of the major functions of the nervous system is to filter information

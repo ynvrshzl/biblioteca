@@ -1,1 +1,0 @@
-# Authoring in this wiki

@@ -1,1 +1,0 @@
-I have nobody in my life that can save me. My soul is in a deep crisis and it seems the devil himself is trying to end my life. But in my stories I have so many people to live for, and I want to see how their stories end.

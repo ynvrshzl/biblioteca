@@ -1,1 +1,0 @@
-Gestalt Psychology proposes the idea that we human beings organize the chaos of the natural world, through categories, commons, shapes and patterns.

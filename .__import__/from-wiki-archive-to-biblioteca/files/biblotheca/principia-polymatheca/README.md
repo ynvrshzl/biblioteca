@@ -1,2 +1,0 @@
-# Principia Polymatheca
-A readable form of [Chaos Agency](wiki/youniversity/chaos-agency/readme.md) which combines our personal lived experience with Neurodivergence, Polymath-esque tendencies, and learning to heal, amidst chaos.

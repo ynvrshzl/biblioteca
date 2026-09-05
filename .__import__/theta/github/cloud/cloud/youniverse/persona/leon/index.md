@@ -1,1 +1,0 @@
-![](wiki/youniverse/persona/leon/img/main.png)

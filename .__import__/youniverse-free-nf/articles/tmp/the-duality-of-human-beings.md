@@ -1,1 +1,0 @@
-"Human beings at our worst, destroy life. At our best, we heal life."

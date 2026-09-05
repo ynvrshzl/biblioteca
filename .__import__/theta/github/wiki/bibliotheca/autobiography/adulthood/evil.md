@@ -1,2 +1,0 @@
-# Evil 
-Yes, evil, horrible people walk aroudn us every day. We risk our lives, even in seemingly every-day normal events. But it's not life itself, evil or even, against you, but rather, it is all a side effect of being alive. If a tree falls over & kills an innocent being, ir lightning strikes a pet, is it life that is evil & poses nothing but suffering in the end? No, rather, again, it is the side-effect. Unfortunately, if our sensitive human body meets the wrong element, it will react. That, is a reaction... a side effect.

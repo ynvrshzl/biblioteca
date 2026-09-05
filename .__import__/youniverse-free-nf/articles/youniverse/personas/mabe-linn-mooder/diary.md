@@ -1,2 +1,0 @@
-
-"Frank, his voice sounds like it's been aged inside a bottle of rum for 50 years. He's such a sweet-hearted man, beneath his dirty clothes. I wish I could help him, but my parents deny me to message anyone outside the walls. What has this cursed world come to? I wish I could die & sleep forever." — Mabe Linn Mooder

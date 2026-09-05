@@ -1,1 +1,0 @@
-TV-head is an automaton/persona whom represents the liminal-space between waking life, and the dream. He commonly re-assures you throughout your 'interstellar-business' in his proposterously gentleman-laden vocal signature: "This is not a dream... this, is reality!" He will continue to remind you "This is not a dream, this is reality!"

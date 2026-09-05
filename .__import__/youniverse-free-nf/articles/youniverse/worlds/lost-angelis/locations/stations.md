@@ -1,1 +1,0 @@
-Stations are the main form of transportation in the city. 

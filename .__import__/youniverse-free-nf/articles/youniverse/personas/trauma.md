@@ -1,3 +1,0 @@
-"When you meet trauma, they will take a part of your soul. I guess that's the price to pay for being alive. Maybe, trauma is jealous that I'm alive. Maybe something hates me down there. Hell, if i'd have been buried alive, i'd probably be irritable too."
-
-"Trauma is like a church bell... it will never stop ringing... you will always remember it... wether it was a person you've lost, or an opportunity that will never come back... however you've felt trauma, know that I am with you. Together, we will find our place in this Youniverse."

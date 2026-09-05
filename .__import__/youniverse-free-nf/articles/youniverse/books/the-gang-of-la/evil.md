@@ -1,1 +1,0 @@
-"Life is short, enjoy it." Jack laughs: "Hahah... *enjoy it?*" He slowly walks up to her & looks at her, with furious eyes: "Have you seen what it's like out there?" Renee, thinks to himself: "This guy get's it."

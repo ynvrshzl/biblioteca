@@ -1,1 +1,0 @@
-"Principia Humana" is a body of work which dedicates to the study of human flourishing, mechanical understanding of autonomy, and a cohesive integrated model

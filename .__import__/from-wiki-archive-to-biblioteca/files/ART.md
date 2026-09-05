@@ -1,1 +1,0 @@
-I believe the reason we enjoy games, stories and especially pictures, is becuase we are exploting the human ability to remember; which itself is structurall re-experiencing the moment in time. The abioity to return to a time without returning to the space.

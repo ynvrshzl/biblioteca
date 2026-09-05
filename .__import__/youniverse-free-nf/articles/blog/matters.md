@@ -1,1 +1,0 @@
-"Either nothing matters, or everything matters."

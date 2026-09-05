@@ -1,2 +1,0 @@
-# A reason for suffering
-Just like how we will find the cure to suffering only when through all the fields of humanity, for the life of an individual, you will only find truth in both sides: the things that make life worth living, and the suffering. Realizing that not even death is a free from this curse, we must live, and do our best to reduce suffering, starting with ourselves and extending to however far we can reach.

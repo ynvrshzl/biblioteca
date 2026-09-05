@@ -1,1 +1,0 @@
-> "There is no end to the pain. we must free our brothers and sisters. those who remain trapped in the false world. teach them what I have taught you. free your mind. meditate on the teachings. breathe the breath of life. Honor with dignity. balance, not above all things, but below as well." 

@@ -1,1 +1,0 @@
-is the development of the human being would be somehow represented as a process in our elements game fear would play the giant part in the process because fear is ambiguous but it always feels life threatening.

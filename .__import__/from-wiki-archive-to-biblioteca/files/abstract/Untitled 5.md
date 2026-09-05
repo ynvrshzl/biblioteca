@@ -1,3 +1,0 @@
-when are the most badass epic scenes, which really showcases why I love life and being human, is when Joey doom, or officer Mayer is battling in the unseen realm. someone says "that's a human being. they don't stand a chance against warfare of this magnitude. these machines will crush him."
-
-that's when the soldier, Joey doom/officer mayor, defends his life from the machines. and this showcases, The duality of the human being. not merely a creature of instinct , and most certainly not biological aircraft machinery, the human being is the duality of both the emotion and the motion.

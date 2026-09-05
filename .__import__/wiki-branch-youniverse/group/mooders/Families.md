@@ -1,3 +1,0 @@
-The royal family, split into branches...
-- The Robinson family, responsible for the pursuit of crime, and the management of its infrastructure 
-- The Mooders, responsible as the head family of public representation. The "voice" of the royal party and family

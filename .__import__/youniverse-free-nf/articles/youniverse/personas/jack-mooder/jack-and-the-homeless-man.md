@@ -1,5 +1,0 @@
-_"Father... father!!"_ Jack screamed. his father responds: "what is is jack?" the young jack frantically asks: "why is that man in the road all alone?" his father radars the street, to find a homeless man, decaying by himself. Unfortunately he's outside the walls, and the city law prohibited interactions between the city & the rebel territory. But why? for a City megalopolis who was founded under god, to honor the memory of the angels, and a city named after them, why would it's on the city allow its own people to suffer? Th
-
-another homeless man was walking behind them. with his rum soaked voice he interrupted his father: “someday, this world will fall apart…” the homeless man was illegally trespassing motor territory, Jack's father immediately covers his ears so that he is not brainwashed by the rebellion. immediately his father takes out his gun & yells: “STEP AWAY FROM THE BOY.” the homeless man is completely hopeless. he looks on the other home to spend decaying in the street.
-
-“and it's because of people like you that people like me exist.” 

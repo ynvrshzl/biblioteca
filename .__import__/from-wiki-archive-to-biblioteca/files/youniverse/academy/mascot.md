@@ -1,1 +1,0 @@
-A mascot for the academy of [Lost Angelis](wiki/youniverse/worlds/lost-angelis/readme.md)

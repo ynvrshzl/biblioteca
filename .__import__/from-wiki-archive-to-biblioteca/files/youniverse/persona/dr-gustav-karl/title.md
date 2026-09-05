@@ -1,1 +1,0 @@
-In loving memory of _"Dr. Elias Theodor Karl Klein, the man who solved the youniverse."_

@@ -1,1 +1,0 @@
-"Artists create a world of understanding, Scientists understand the world."

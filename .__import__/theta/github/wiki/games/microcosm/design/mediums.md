@@ -1,1 +1,0 @@
-Text-based RPG? at least as a prototype, since the source code itself is a branch-logic tree evolution model. Non-linear reactions, but linear programming.

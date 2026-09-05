@@ -1,1 +1,0 @@
-The Cemetery of Lost Angelis is a massive field, with thousands of tombstones, and the buried. At the entrance of this ghostly other-world, are the sisters of the city, the little angels. They passed away, and the city, was created after them, to give their souls a resting place. [Read more](the-little-angels.md)

@@ -1,3 +1,0 @@
-Yami wondered: "Why are girls allowed to be free, and you treat me like this?" The souldier pressed his boot onto Yami's head, pushing him onto the ground: "Don't question the will of the father. You need to be cleansed of these ideas, my friend." Yami wanted to die. Yami wanted to die so badly. He wanted to kill the souldier. He wanted to kill everybody. But he knew in his heart, it was not the right thing to do. Yami was patient & believed. He accepted himself & then saw a masculine girl souldier, around his age, and she was so rough, she put the men to shame. He wanted to be like her.
-
-It broke Yami's heart. "Listen, you're a good kid, but you can't help everyone. You'll only hurt yourself."

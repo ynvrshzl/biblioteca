@@ -1,4 +1,0 @@
-At the proto-medium, there is a language, a pattern, to the way we approach building things.
-
-1. When we build new things, e.g. a computer program or a routine, we must understand that this is fundamentally prototype-based. There will be many versions, designs, ideas and tests. So our goal is no longer "build the perfect thing" rather, *"try and test new ideas, and we continously improve on the last, towards the proceeding version."*
-2. It is natural to get "lost" in the system while we are building it. That si a sign to step away and come back with a resolved  lens! (This is actually how we human beings reason about problems and find solutions from outside the system. It's a system of sampling and[...] )

@@ -1,1 +1,0 @@
-dock is a beautiful man with blonde hair. he is like the prince charming of lost angelis.

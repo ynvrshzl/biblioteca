@@ -1,1 +1,0 @@
-Abstract: by reconstructing scenes from inspiring sources, from memory 

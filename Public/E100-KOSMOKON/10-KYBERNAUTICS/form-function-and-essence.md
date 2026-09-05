@@ -1,1 +1,0 @@
-Form, Function and Essence. We mostly interact with forms and functions throughout our daily lives, for better or worse; we never truly see the essence or source of a thing. It may be essentially because we simply cannot process high-dimensional essences or the full nature of things; by necessity. Infinite knowledge would not solve our problems

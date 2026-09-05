@@ -1,2 +1,0 @@
-**Emotion, Experiences, Engagement.**
-It may sound cheesy at first glance, but stick with me here, the simplest things are often the most profound. I learned this and it's helped me direct myself when i'm focus off path.

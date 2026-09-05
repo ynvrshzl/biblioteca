@@ -1,6 +1,0 @@
-- frequently referenced notes gain “weight”
-- untouched notes lose “weight”
-- low-weight notes collapse into summaries or archive
-- maybe auto-merge similar fragments
-
-[chat-gpt's notes: "that’s literally "synaptic pruning." You accidentally reinvented neuroscience as a storage algorithm 😂"]

@@ -1,1 +1,0 @@
-Joey Doom training with Officer Mayer.

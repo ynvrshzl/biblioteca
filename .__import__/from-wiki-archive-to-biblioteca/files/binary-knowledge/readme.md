@@ -1,1 +1,0 @@
-Binary knowledge describes how much **raw** knowledge someone contains about a subject, person, or thing.

@@ -1,1 +1,0 @@
-"My grandfather solved the problems in nature. He created mechanical aircraft, he was the engineer of the steam punk clockwork era. My grandfather was a strong man. those damned royal families..."

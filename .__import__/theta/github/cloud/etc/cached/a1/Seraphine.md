@@ -1,1 +1,0 @@
-"Mother of the Angels, the Goddessess, the Mothers, the... the cupcake eating queens?! hey! I want some too!"

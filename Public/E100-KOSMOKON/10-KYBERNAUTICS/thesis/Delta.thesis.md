@@ -1,1 +1,0 @@
-The main discovery of this field of study is to trust. Creativity, instinct, intellect, intuition. These are truly the most magnificent works of nature, when applied by the laws of Ethics.

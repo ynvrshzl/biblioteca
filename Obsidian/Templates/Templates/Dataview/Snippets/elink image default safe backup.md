@@ -1,1 +1,0 @@
-"!" + default(elink(image), elink(this.image))

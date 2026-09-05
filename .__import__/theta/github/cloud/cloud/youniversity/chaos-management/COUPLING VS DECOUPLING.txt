@@ -1,5 +1,0 @@
-As an example, we'll use something commonly everyday; files & folders.
-
-The bigger we store folders inside folders, the longer the path becomes. 
-
-This is the point where we have to split up the parts into easier layers of access.

@@ -1,9 +1,0 @@
-- Automata 
-- Ergo Cogito Sum 
-- Olympus
-- Icarus 
-- Coherence 
-- Locality 
-- Causality 
-- Emergence
-- Deus Ex Machina

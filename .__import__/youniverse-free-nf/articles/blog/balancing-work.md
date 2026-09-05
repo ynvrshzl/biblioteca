@@ -1,1 +1,0 @@
-Zooming in/out. Sometimes I get lost in the details, and other times, the bigger picture is too overwhelming to see all at once.

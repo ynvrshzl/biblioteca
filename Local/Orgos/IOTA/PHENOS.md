@@ -1,1 +1,0 @@
- It's hard to integrate or close the gaps between the phenomenological; the real-time, organic, human, everyday-lived-experience, and the mechanical, the processed, the tangible.

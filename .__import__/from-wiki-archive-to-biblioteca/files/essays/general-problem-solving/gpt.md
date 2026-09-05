@@ -1,1 +1,0 @@
-https://chatgpt.com/share/6a189b1c-badc-83ea-9563-70958e91d7d4

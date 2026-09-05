@@ -1,1 +1,0 @@
-Ever want time to just... pause? That's what this world is all about. An ever infinite moment of time, captured as a fully immersive space in your imagination.

@@ -1,1 +1,0 @@
-"<span style='height: .7em; width: .7em; border-radius: 50%; display: block; background-color: hsl(" + truncate(string(hash(file.folder, 1)), 3, "") + ", 70%, 60%);'>",

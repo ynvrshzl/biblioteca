@@ -1,1 +1,0 @@
-"Maybe when things don't work out, it's because somewhere in this Youniverse, they're making space for something better."

@@ -1,3 +1,0 @@
-c › i › w
-
-notes: technically, the 'd' key deletes a word, but stays in 'normal' mode. The 'c' key 'changes' the word inside the cursor + enters insert mode. Usually, this is more...

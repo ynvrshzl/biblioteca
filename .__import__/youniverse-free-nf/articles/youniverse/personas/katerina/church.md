@@ -1,1 +1,0 @@
-[Katerina]() goes to the [cathedral church.]() There, she prays to the Lord. She meets [The nun](the-nun.md) and forms a motherly connection with her. The nun explains to Katerina: **"We live in a fallen world, and someday, the Lord will come for his children."** Katerina does her best to follow her teachings.

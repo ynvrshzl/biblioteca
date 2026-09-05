@@ -1,1 +1,0 @@
-When Joey Doom tried to end his life in the [simulverse], someone revealed to him the innerworkings of nature "You cannot die. The cells which form your consciousness, will return here. There is no end to the suffering. You must endure and survive, you must evolve and shape."

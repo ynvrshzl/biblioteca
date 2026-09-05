@@ -1,2 +1,0 @@
-# "The Tacit Series"
-Phenomenologically, the hardest problems in life may be the problems we cannot observe, cannot recall, cannnot study. Once experience is in the past, the problems evaporate into a cloud of confusion.

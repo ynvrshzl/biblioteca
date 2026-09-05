@@ -1,5 +1,0 @@
-Why readability matters in programming. 
-
-the first and foremost reason is because readability is like cable-manaegemtn.
-
-Kimball management may seem like it's time consuming and perfectionistic, but it's literally the foundation of sustainability because if you have a couple of cables on the ground you can easily follow where each of them are going like little paths however as soon as they become bundled together it becomes impossible to work with them and progress not only slows incredibly exponentially but eventually it will halt. this is why always maintaining a clicking standard in programming is absolutely fundamental, and that also applies to everything else in life.

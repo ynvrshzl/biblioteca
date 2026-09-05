@@ -1,1 +1,0 @@
-the implied ethics are human, world-scale! so we cannot approach sharing our healing work from a world-saving, ethical lens, it would devour the soul. Instead, simply observe, live, record, analyze, process, metabolize, share. Let the work do the rest. We are not here to save the world, we are here to live beautifully.

@@ -1,1 +1,0 @@
-- the fifrst part of leaning anythign is the experimening: etestin gyoru bounds & eeing how far you ca ngo. things are very messy at this satge but if you can find a passion/love, you'll cut through the fog & reach clarity.

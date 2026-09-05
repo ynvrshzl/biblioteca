@@ -1,3 +1,0 @@
-* what if we had a way to express music, visually, without listening to it?
-
-this design came from...

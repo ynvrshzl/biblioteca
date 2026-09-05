@@ -1,2 +1,0 @@
-Toby is an Android automaton, created by a scientist in Lost Angeles. essentially this Android is inspired by Astro boy, the scientist lost his son and his daughter in a tragic accident. in fact, Kobe and his twin sister kali, are not entirely human anymore. the original models, types and series of the Android automatons, were eventually developed into human life forms. the scientists expressed incredible anatomy and appreciation of the human soul. but even within the aircraft of carbon fiber, the human is not simply mimicry. 
-

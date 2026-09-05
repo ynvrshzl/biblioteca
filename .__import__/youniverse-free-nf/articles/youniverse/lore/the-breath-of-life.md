@@ -1,3 +1,0 @@
-In the Youniverse, there comes a time where a persona stops being written by ["The Author"](the-author.md) and they begin to write their own story. This is made apparent when ["The Author"](the-author.md) shifts from **writing their story,** to **understanding their story.**
-
-In the early days of the Youniverse, The Author was unsure of how to collect all of these stars, ideas, and points of light. She gave birth to an infinite void of nothingness, but that was the perfect canvas for stars to shine.

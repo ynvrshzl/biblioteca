@@ -1,7 +1,0 @@
-# How software engineering saved my life
-
-This quote saved my life: ["In every system, there will be errors. It is not the problems that can destroy the system, but how we, as engineers, handle them, that makes all the difference."]()
-
-Context: I am now writing this at the age of 23. I feel very little emotions, i'm sleeping during the day, awake at night, some, faint voice within me, dreaming of a life where I'm doing what I was born to do: to tell stories & live happily & freely. But my throat has been slowly squeezed by the claws of nihilism & [dangerous philosophies.](philosophies-to-avoid-if-you-are-depressed.md)
-
-I realized that human beings are animalistic by nature, and our human side is what tames the beast we all have within. Sometimes, that animal comes out of the shadows, in it's raw, ugliest form. Other times, we can silence it, like a giant beast on a leash. Tying this back to the original quote that saved my  life, I realize no matter what, there will always be evil & good in this world. With, or without me. So that is where I base my decisions. **Wether I want to live or not, I decide based on that simple truth. It is how we handle the problems, that makes the difference... and therefore, how we handle the evil, pain & suffering of this life, that defines who you truly are as a human being.**

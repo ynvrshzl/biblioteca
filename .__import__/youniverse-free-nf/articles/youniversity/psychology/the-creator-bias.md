@@ -1,1 +1,0 @@
-When a painter is painting, or an engineer is constructing a system, they are deeply immersed in the craft. But the sacrifice is you can't see things the way they are for the first time.

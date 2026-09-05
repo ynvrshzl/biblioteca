@@ -1,3 +1,0 @@
-"Shadow tells me to jump off the bridge. I hear his voice everyday. He gets really loud when I'm close to other humans... I don't like them... I don't like the other humans... and neither does my shadow."
-
-But shadow doesn't like it when i'm happy, he claws his way to me & hugs me. WHen I sleep in bed alone, with a heavy chest, he's always there for me, hugging me, having him this close makes my body feel cold, but i love him, he's my shadow.

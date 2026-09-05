@@ -1,3 +1,0 @@
-1. The rebellion members, Joey, Yami & Katerina, are introduced. Already being friends, their paths cross, on the first day of high school, which in their world, is the academy. 
-52. The mooder party
-53. The gang of LA fight against the Rebellion, to destroy the glass dome, covering the city. To their mistake, the city begins to flood, as it's underwater. All along, one person predicted all of this would happen.

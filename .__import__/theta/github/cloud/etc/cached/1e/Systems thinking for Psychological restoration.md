@@ -1,7 +1,0 @@
-the systems engineer mindset is incredibly applicable pretty much for everything in human life whatever me it's incredibly important because it helps me to stay optimistic and especially when there are inevitable problems in life, you are not immediately crushed by them and instead it's almost like your little different engine and your mind is like deeply at work and it sees a problem and it's starts alchemizing a solution. and that's really because when we design systems, whether they are computer programs, or any kind of system, we have to come into contact with the real life at some point, because a system cannot be fully perpetual and exist inside of a perfect little sandbox because, it has to make contact with the outside world with the messiness with the chaos; the problems. 
-
-I really do believe that the most complex fields in human life need to be fundamentally re-introduced as neuro tools. 
-
-Example
-
-In mathematics for example, you have problems to solve. that is incredibly important because life as a human being is very unpredictable and it can be so painful you can't even imagine it. and so I believe the systems engineer mindset might be part of the perfect battle gear and I believe this because, working with systems is not a linear straightforward mindset, like you have to fundamentally apply many domains of thinking, even if you aren't conscious of it. and so I believe it could help in real life as well because it's sort of matches the chaotic base of life.

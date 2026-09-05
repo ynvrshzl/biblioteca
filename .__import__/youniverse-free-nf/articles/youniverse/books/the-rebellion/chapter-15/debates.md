@@ -1,3 +1,0 @@
-The debates. Held in the Royal courtroom council crucible. Persona's from all sides were arguing for the right to euthanasia, and the downfall of humankind. These debates were spicy, like an intellectual battlefield, and one of the most climactic, passionate, stimulating moments in the entire story. The most intelligent personas showed their capacities in these battlegrounds.
-
-The debates were all about legalizing suicide in the city of Lost Angelis. It was more common to end one's own life, than to die of drug overdose. The city was falling apart, and The Mooders, only saw one way out: getting rid of the weak. Becuase the mentally ill, hopeless, the incapable persons, wouldn't work for the city, and to The Mooders, they were of no use.

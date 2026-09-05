@@ -1,1 +1,0 @@
-Becuase Yeongsaeong is such a large group, they had to be spit into units, each specializing in an area of sound. Dark, industrial, others operate on a higher frequency: happiness, simple joy, etc. Each unit has a mission to complete, and they achive it through their sound & message.

@@ -1,1 +1,0 @@
-We've been tracked by investigators, somehow. How did this happen?

@@ -1,1 +1,0 @@
-We actually do not know the meaning, worth, value or "x" of a thing, unless it is both; integrated in a larger system and... sufficient distance.

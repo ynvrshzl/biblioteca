@@ -1,2 +1,0 @@
-# Chronosomnia
-Exhaustion of time.

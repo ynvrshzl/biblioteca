@@ -1,1 +1,0 @@
-"It is our will to either continue or abandon, that truly determines what it means to be human. therefore, life is not merely deterministic; good actions do not always lead to expected outcomes. and the human condition to battle with seemingly illogical forces, is truly, what it means to be one of us."

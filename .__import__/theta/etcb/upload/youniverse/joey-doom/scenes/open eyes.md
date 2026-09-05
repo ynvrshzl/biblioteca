@@ -1,1 +1,0 @@
-Joey Doom opens his eyes for a rare time. body damage but no emotion. badass. fear.

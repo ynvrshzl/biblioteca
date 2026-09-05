@@ -1,5 +1,0 @@
-*"YOU want to die? H1! HAHAHA! HAHAHAHAHA!"* The crazy old man laughs at you, running out of breath, choking on his own laughter. *"You're tired already? You haven't even made it half my age! Khee khee ksch."*
-
-The old man is homeless, but [Joey Doom,]() [Yami]() & [Katerina]() befriend him. He is a important figure thorughout their lives. They give him food, despite it being against the martial law. "This is city zone, you kids shouldn't be helping an old man like me keep breathing." Yami asks the old man: "Hey old man, what is it that keeps you breathing?" The old man looks at Yami & smiles: "Girls." Yami blushes: "That's— that's it?" Katerina punches Yami teasingly
-
-"The world is the way it is becasue they try to numb you. They make you all stupid' in the head, so you're too stupid & tired to think your way out of this mess."

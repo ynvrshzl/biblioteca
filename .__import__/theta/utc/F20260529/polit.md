@@ -1,1 +1,0 @@
-https://chatgpt.com/share/6a1483ac-ea34-83ea-acadv.fileLink("query", 0, dv.pages().where(p=>p.file.folder.includes('exp')).length+ " files ready for export ->")9-dc20f6ea1205

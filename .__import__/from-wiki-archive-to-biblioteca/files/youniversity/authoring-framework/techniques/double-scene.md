@@ -1,1 +1,0 @@
-Two or more scenes in a continous narrative, are often used to establish suspense

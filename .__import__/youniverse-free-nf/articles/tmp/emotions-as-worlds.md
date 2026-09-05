@@ -1,5 +1,0 @@
-*Why are emotions as worlds so powerful?*
-
-I've fought alot with people in my life, to make myself understood. The hardest part about pain, isn't how terrible it feels in the moment, but how no one believes what you've been through, becuase it's all been inside you. This, however tragic it may be, is actually the fuel of my work. I don't want to explain, but rather, show you what goes on inside me. I also, want this to be useful for any human being, who has experienced anywhere on this spectrum of emotion.
-
-Worlds are a **huge** part of the youniverse stories. I don't really understand the world we live in sometimes. I see so much cruelty, and also healing, that I often get confused, and forget that I'm not the world, I am a living member of the world we all share. Worlds help me to detach my limited human capacities, and see the big picture. I also like to explore concepts & emotions as worlds. Lost Angelis is a great example of this. 

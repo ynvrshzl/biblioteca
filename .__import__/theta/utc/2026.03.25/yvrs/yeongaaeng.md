@@ -1,1 +1,0 @@
-What if the hip hop and dance team, each of them could be a specific sound or a layer with a music. for example, someone could be the character on the embody the rhythm on the tech drum and they use that for to fight.

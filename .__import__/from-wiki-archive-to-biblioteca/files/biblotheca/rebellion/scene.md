@@ -1,1 +1,0 @@
-Katerina cries: "(crying desperately...) so... this... (crying...) this is why my life was worth living... " Katerina screams and punches Joey Doom. He lets her explode her rage and sadness on him, for he has sculpted both his mind and his autonomy.

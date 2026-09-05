@@ -1,4 +1,0 @@
-- Chaos happens when a system has no identifiable parts.
-- This explains why the first step in solving chaos problems, involves identifying parts. 
-- Especially why. The "why" is a driver object in meaning systems, for humana beings. Once we understand "why" something "is", we act accordingly. No longer burdened by cognition theory or over-thinking. We can only act autonomously when we understand why.
-- __Hypothesis:__ We can in theory, work with infinitely complex systems, aslong as we have agency.

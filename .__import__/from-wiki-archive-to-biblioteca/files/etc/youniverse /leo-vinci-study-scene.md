@@ -1,1 +1,0 @@
-Leo Vinci studying and filling books, cinematic emphasis

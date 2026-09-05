@@ -1,1 +1,0 @@
-a framework provides 🔌 extension-ability for solving nuanced, human local problems. which must be built from factory base constraints.

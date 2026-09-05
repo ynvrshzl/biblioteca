@@ -1,1 +1,0 @@
-"Life is fleeting... we... don't have much time here... there are alot of parts of human life... and alot of things we'll never understand or experience... and the few things we do get to have... [grateful?]"

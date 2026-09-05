@@ -1,1 +1,0 @@
-"<progress max='" + length(file.tasks) + "' value = '" + length(filter(file.tasks, (t) => t.completed)) + "'></progress>" as "Progress",

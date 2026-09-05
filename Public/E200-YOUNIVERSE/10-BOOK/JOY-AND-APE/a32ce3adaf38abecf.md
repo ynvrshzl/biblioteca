@@ -1,1 +1,0 @@
-And Joy cried with all her heart "How I wish I could make you happy Oh how I wish you would just be happy!

@@ -1,1 +1,0 @@
-Lunaria has purple lavendar hair, goth lolita school girl clothing.

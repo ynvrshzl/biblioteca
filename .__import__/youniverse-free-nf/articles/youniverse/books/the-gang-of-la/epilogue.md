@@ -1,4 +1,0 @@
-"If you are tired of this ignorant world. If you are tired of being stepped on, spat on, laughed at, misunderstood, then here, in the Gang, you will not find family, but you will always have a place." Renee's talking to a crowd of children & teens from the underground. Speaking of the underground, I should probably tell you that it's the most disgusting place i've ever visited. It reaks man, it stinks. There's drunk guys trying to hit on me and my girlfriends
-[annotation: This is from Rika's perspective]
-
-This is our story. What we left behind in a world devoid of meaning. We each found our own paths in life, against our will, we were brought to this world, and we did our best to make sense of the madness. We did our best... without anyone there to guide our broken steps. I write this after a life of unbearable weight. What my eyes have seen I can never be the same.

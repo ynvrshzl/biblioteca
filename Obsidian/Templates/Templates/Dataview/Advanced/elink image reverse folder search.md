@@ -1,1 +1,0 @@
-"!" + elink(default(image, (link(reverse(split(file.folder, "/")))).image)[0]),

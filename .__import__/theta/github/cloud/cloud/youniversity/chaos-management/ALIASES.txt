@@ -1,4 +1,0 @@
-Aliases for this class
-- "Chaos Management"
-- "Complexity Management"
-- "Defragmentation Theory"

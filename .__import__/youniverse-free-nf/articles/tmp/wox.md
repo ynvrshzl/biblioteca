@@ -1,3 +1,0 @@
-One thing I struggle with when working, is the feeling of wasting my time & energy. It's not being hard on myself, when I realize i've spent the past three hours working on something that not even I will ever see again. It's that feeling of being stuck in a maze, with no way out. It's like the trashed scenes from a movie, for a movie nobody got to see in the first place.
-
-So what's going on here?

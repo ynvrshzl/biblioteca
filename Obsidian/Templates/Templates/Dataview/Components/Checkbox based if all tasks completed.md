@@ -1,1 +1,0 @@
-choice(length(filter(file.tasks, (t) => t.completed)) != length(file.tasks), "<input type='checkbox'/>", "<input type='checkbox' checked/>") as "C?"

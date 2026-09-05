@@ -1,2 +1,0 @@
-# Esperanza
-Hope personfied

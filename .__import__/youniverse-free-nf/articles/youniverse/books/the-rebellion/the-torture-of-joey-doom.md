@@ -1,3 +1,0 @@
-When Jack was assigned to torture Joey Doom, he was shocked. "How is it possible that this living creature, can look into my eyes, and enjoy this? Has he crossed the walls of insanity?"
-
-Joey Doom was the first person to challenge the world-view of Jack Mooder: that life was suffering & therefore, not worth living for. But Joey Doom showed Jack, not with words, but through his very being, that his body could endure ANYTHING he threw at him, not becuase of the muscles & tendonds, but rather, the strength of his mind. When Joey Doom was nearly dead, Jack looked him in the eyes and asked: "Why are you doing this?" Joey Doom slowly looked into Jack's eyes: "I have walked this earth for eons. Only pain is real."

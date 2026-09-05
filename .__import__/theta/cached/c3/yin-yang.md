@@ -1,1 +1,0 @@
- https://en.wikipedia.org/wiki/Yin_and_yang

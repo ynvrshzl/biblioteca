@@ -1,1 +1,0 @@
-"sit down, let grandpa tell you how the world began... light is all of existence condensed into matter. that is why fire is bright. the void is the space between the flames."

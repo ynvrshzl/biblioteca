@@ -1,1 +1,0 @@
-Science at its best, should expand your scope of understanding, appreciation, and gratitude for life. The Ethos of science should always be ethics.

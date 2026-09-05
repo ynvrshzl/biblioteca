@@ -1,3 +1,0 @@
-active healing from depression.
-
-working on meaningful things... it's not only distarcting me from crushing depression and issues in this world i cannot solve, but i get to directly confont the issues I *can* solve... and that feeling of improving and getting better and learning to do this properly and masterfully... it's like learning to sing... learning to dance... learning to make music... learning to code... these things may seem insignificant but the flow state is litearlly the most healing way to recover from depression

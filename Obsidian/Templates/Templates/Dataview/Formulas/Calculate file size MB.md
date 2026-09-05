@@ -1,1 +1,0 @@
-round(file.size / 1024) + "Mb"

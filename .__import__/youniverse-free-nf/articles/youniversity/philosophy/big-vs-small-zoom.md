@@ -1,1 +1,0 @@
-Knowing when to zoom in and went to zoom out in your life could save your life. this is a powerful subset of the perspective aspect of life. as if your life were an RPG.

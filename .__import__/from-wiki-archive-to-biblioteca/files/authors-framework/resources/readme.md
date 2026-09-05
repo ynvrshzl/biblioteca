@@ -1,1 +1,0 @@
-https://writer.thestoryshack.com/worlds/my-world/canvas

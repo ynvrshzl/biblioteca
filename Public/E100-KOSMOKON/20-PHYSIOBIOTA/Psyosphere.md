@@ -1,1 +1,0 @@
-A "Psyosphere" describes a domain, or sphere, of internal processing, psychology and general physiology.

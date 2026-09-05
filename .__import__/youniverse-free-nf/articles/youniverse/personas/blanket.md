@@ -1,3 +1,0 @@
-When blanket dies, they turn into an imaginary spirit ghost.
-
-A floating ghost with a blanket and holes for eyes. the blanket is the soul of a child. The blanket is always depressed, but in a cute way. *"Why did I even bother waking up today nothing changed. nothing ever changes. the sunlight burns my eyes. I'm tired but I can't fall asleep. I just survival everyone around me is living. has it always been like this? am I going to die alone? nobody cares. I'll be happy when I don't wake up anymore. don't bother ending your life, that's what sleeping is for. being alive is exhausting. but I like puppies. puppies are good. puppies are cute. and so are orangutans. and so are parrots. and so are squirrels. animals are good. human bad."*

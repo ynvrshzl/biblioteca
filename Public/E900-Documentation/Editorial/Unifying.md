@@ -1,1 +1,0 @@
-The editorial format requires files to be as atomically structured... and later linked together in [Literary/Story-form]() or as a [Structured-Query]() 

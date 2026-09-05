@@ -1,2 +1,0 @@
-Regiment of the Mrtial Militia includes inspirations of the Navy SEals:
-- Poolcom this is so brutal, I had a nightmare about it last night. An incredible test not only of mastery over one's biological systems or strategy, but of of the human will to survive, live and fight.

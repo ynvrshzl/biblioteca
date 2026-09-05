@@ -1,4 +1,0 @@
-Vindictus is derived from Latin, meaning "vindictive" or related to vengeance, justice, or retribution.
-
-Etymology and Latin Roots
-The name Vindictus comes from the Latin word vindicta, which signifies vengeance, reprisal, or a claim of justice. The suffix -us gives it a classical masculine nominative ending, making it a proper Latin-style name. In historical and legal contexts, vindicta could also imply righteous retribution, giving the term a sense of stern justice rather than mere spite. It is related to other Latin terms like ultor (avenger) and iustus (just), and its sound resembles virtus (virtue), which softens its connotation slightly.

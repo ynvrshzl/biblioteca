@@ -1,1 +1,0 @@
-The climax of the Rebellion, explains why Joey Doom frequently says: "There is no time left." They must stop the Youniverse from collapsing. WHich is the equivalent of "The Author" ending her own life. 

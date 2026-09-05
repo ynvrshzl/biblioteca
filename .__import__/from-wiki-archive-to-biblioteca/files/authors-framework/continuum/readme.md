@@ -1,1 +1,0 @@
-the continuum/spectrum of story types, mediums, classifications, and more, aims to structure and define various types of stories, systems, mediums, etc. as a compiled model, to make it easier to understand one story

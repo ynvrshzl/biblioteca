@@ -1,1 +1,0 @@
-**"Scavengers"** are any group of people, that illegally trespass the city of [Lost Angelis]()

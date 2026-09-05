@@ -1,3 +1,0 @@
-human imagination and dreams are possibly one of the most important underexplored parts of the human condition, and I believe, they are mediums and tools themselves, especially for today's world. 
-
-the ability to imagine different places environments, different lives, different sensory experiences, has largely contributed to my psychological healing and embodied...

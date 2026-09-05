@@ -1,1 +1,0 @@
-literature essentially compresses

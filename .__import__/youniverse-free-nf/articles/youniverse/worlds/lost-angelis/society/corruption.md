@@ -1,1 +1,0 @@
-Thousands of citizens of the city were pouring into the city council, demanding the leaders to share their immense wealth, with the starving children & barely living workers. They were all slaughtered by the militia. That, was the true purpose of such a devastating army.

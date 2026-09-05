@@ -1,3 +1,0 @@
-I'm a girlie that thinks a lot. And that's not a good thing by default It's actually destructive. If anything in isolation is destructive. 
-
-I think that's why our theory of ethics theory and action is so fundamental because it helps us to balance thinking with action but also ethics. And I'm not saying this is the answer to the universe or anything but just that it's more of the embodied balance. And that's fundamentally where we belong as human beings. 

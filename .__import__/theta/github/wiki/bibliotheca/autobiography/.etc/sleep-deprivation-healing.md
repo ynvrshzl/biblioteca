@@ -1,4 +1,0 @@
-# Sleep deprivation healing
-Could it be possible? That by purposefully depriving myself of sleep, I could feel my emotions again, and that was all I needed to want to live again? Yes. As crazy as it sounds, this works for me. It's not a magic card, but most of the time, whenever i'm not feeling alive in my life, i would plan an entire day/night, where I stood awake for one day without sleep. 
-
-The only way this would work would be to keep my mind occupied, by working on something I actually cared about. Wether it was coding my projects, or ... as long as I was actively doing something, I was keeping myself awake, and somewhere, in-between the auto-pilot, I would actually feel the most beautifully chaotic emotions, followed by vivid imagery in my imagination. Senses: smells i've forgotten, places i've been to, versions of me I could become, memories of beautiful things.

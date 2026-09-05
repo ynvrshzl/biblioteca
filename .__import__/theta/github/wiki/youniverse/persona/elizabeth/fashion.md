@@ -1,1 +1,0 @@
-Elizabeth has a fashion style and a palette very inspired by 2b from NieR:Automata 

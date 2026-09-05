@@ -1,1 +1,0 @@
-Yami is scared of fighting against his best friend, joey doom. But only Yami can show Joey Doom why killing is bad, and living is good.

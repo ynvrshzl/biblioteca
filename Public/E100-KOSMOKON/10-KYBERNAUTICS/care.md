@@ -1,1 +1,0 @@
-What makes a person care? This is perhaps the natural source of my work; I care about something, but is it necessarily me, or a system we may learn for human flourishing?

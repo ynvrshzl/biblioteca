@@ -1,1 +1,0 @@
-She was dying... in bed... she was sobbing to [Katerina](#) crying while smiling: *"Life is hard... life is very hard...[??]"*

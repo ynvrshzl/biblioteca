@@ -1,8 +1,0 @@
-- Nostalgia. Nostalgia is one of the most important emotions to me, becuase it motivates you to keep living, even when your mind want's to disintegrate it's own existence. Nostalgia seems to be a golden mix of sadness, happiness, and motivation. It's like the most beautiful intoxicating emotion, akin to love, but a form of self love, in my case. You can create your own nostalgia, your own memories, you just have to be willing to try new experiences in your life. This, is where you have to look within & ask yourself: "What is something new I could try in my life?"
-- Masturbating: this is a physiological release & burst of pleasure. Even in my most depressed days I could still feel something down there... it definitely saved my life by reminding my consciousness that life has more experiences & emotions awaiting me.
-- Education & study: 
-- Occupation:
-- Self love:
-- Mediation:
-- Music:
-- Stories:

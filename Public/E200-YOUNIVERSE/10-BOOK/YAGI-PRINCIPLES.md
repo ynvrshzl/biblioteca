@@ -1,1 +1,0 @@
-"In everything there is something to learn. Pain burns away what is not pure."

@@ -1,1 +1,0 @@
-The members of the Gang created secret codes. Handshakes, symbols, and even a secret language. Theis way, they would evade the constant surveillance of the city. Where nothing you did went unoticed.

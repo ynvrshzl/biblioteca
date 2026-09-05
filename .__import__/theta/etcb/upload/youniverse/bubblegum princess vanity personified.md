@@ -1,1 +1,0 @@
-there's like this bubble gum princess bitch and she's always like girl math. like that's her main catchphrase. She's inspired by Elizabeth but she's definitely more of her spoiled side.

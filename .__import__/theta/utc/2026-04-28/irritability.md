@@ -1,1 +1,0 @@
-irritability is one of the most demoralizing states of being.

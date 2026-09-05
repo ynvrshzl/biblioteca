@@ -1,1 +1,0 @@
-This should most likely be published direclty to github at https://github.com/ynvrshzl/cybernetica

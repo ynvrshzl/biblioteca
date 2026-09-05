@@ -1,3 +1,0 @@
-an idea for one of the goddesses/mothers of the universe. she has like a sparkly purple glitter palette. in fact this is an idea, what if color palettes fundamentally represent personas? or perhaps the palette is an attribute...
-
-<span style="background: purple; display:block; height: 1rem; width: 1rem;"> &nbsp;</span>

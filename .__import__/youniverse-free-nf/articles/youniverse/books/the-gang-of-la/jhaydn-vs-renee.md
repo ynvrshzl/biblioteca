@@ -1,1 +1,0 @@
-As he crushed his ribs, Renee wispered at Jaeydn: *"You can't help anyone if you're weak."* 

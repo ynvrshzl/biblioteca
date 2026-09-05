@@ -1,1 +1,0 @@
-If chaos and order are the co-existent forces of the youniverse, where is the actual balance between them? the answer, my dear friend, is a good laugh.

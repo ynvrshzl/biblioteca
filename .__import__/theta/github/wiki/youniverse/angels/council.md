@@ -1,1 +1,0 @@
-THe Council of the High Heavens concerns itself with Order, Justice, Balance above all things. In the most literal sense, above all things, balance is what matters most.

@@ -1,1 +1,0 @@
-The plan of the Rebellion is to enter the governing system inside the walls, so they can influence & change this world.

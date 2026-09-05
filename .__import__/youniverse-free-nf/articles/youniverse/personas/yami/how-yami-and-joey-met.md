@@ -1,1 +1,0 @@
-Yami smiles, with his eyes closed. He gives Joey half of his lunch. Joey lifelessly stares at Yami. Yami says "You're my friend!" Joey stares at him... without expression.

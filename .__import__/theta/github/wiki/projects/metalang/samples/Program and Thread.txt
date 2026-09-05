@@ -1,8 +1,0 @@
-A basic example of the Program and Thread communication
-
-```java
-Program("Main").note("This is the main program.").thread("B").thread("C")
-Thread("B").note("A thread is a sub-program. Essentially, the concept of a 'scope' in classical programming, but in human terms.")
-Thread("C").transformer("Conditon-showcase")
-Transformer("Condition-showcase").condition("if").value(x).condition("is-less-than").value(y)
-```

@@ -1,1 +1,0 @@
-The primal self is a belief on tradition of Don Zen's ancestors and essentially hey beliefs that there is a primal animalistic self that drives deep human behavior. This is where the term spirit animal comes from. for example, a panda bear can be a spirit animal for someone who is gentle in their nature but capable of immense harm if pushed.

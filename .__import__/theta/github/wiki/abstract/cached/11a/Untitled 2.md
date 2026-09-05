@@ -1,3 +1,0 @@
-The most significant idea and all of Leo Vinci's life philosophy is his belief that for every problem in life, there is a solution. There was no problem that his mind cannot solve. giving enough time and thought he can crack any code. 
-
-This is a beautiful because it's like in peniturable unbreakable faith. And that's a common theme throughout his life. to find the impossible and make it possible. This is really what his domain is all about. A place where pain literally does not exist. Where life is not down by the rules of physics or time. only pure ecstasy exists.

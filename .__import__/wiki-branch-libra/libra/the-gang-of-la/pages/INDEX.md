@@ -1,3 +1,0 @@
-- [[Projects/books/the-gang-of-la/pages/alpha]]
-- [[introduction]]
-- [[prologue]]

@@ -1,1 +1,0 @@
-black lung is such a badass when he died he left a cigar & smoke! he got tortured to death and never even blinked!

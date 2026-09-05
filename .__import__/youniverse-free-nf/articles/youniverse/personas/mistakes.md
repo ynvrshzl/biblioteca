@@ -1,1 +1,0 @@
-"How else would you learn? You better be grateful to have me! Lot's, and lot's of me!"

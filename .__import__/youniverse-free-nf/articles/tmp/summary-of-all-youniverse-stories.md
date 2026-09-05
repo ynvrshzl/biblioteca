@@ -1,4 +1,0 @@
-- The Gang of LA believe in doing the right thing, at all costs and never sacrificing that. Even if it means hurting people in power.
-- The Rebellion believe in going against everything that is not true, even if your own body tells you it is.
-- The School of Gothika believe life was ultimately a tragedy & should be obliterated so nothing ever has to suffer again.
-- The Pirates believe the physical strongest deserve life.

@@ -1,1 +1,0 @@
-This syndrome is a phenomena in which the person feels

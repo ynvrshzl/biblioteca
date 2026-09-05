@@ -1,2 +1,0 @@
-# Reason for existence
-The most important thing i have ever learned in my life is... <mark>without love, there is literally no reason for me to exist.</mark> i'm still here becuase i love. i don't love human beings... they are terrible... but i do love something beyond us...  something saved my life. something terrifying...it's not an emotion or a miracle... it's so scary it's real.

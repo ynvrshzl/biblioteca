@@ -1,1 +1,0 @@
-If you are suffering right now if you're lost if you're hopeless if you're done please read these before giving up. imagine your life like a book a story a movie a game imagine it as something that you will share with many people someday and people will remember you for it.

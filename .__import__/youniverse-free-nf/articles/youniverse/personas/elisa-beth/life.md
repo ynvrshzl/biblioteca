@@ -1,1 +1,0 @@
-Eliza Beth was about to give up on herself, but then she saw someone that changed her life forever. A little boy, without arms, doing a ballerina dance in his orphanage talent show. It smacked her back into likfe, and desperatly, she pulled herself out of death.

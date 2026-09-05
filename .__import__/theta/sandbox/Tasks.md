@@ -1,5 +1,0 @@
-- [x] researching and learning about tmux
-- [x] research and choose if get lazygit
-- [x] checkout https://zellij.dev/
-- [x] build 2 git obsidian vaults: GPT Studio and Domsurf
-- [x] add these games to arcadium megavault. these are basically "world building studies" for our youniverse projects! so we could integrate them into our [[Projects/wiki|wiki]] project...

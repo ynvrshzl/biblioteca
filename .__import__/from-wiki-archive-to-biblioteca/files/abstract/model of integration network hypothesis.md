@@ -1,1 +1,0 @@
-words themselves behave like graphs. A word cannot define itself using itself. so a word cannot be self-referential or self-evident.

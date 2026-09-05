@@ -1,1 +1,0 @@
-- naveah - which is the name of the main character in the book. they are gender-neutral, becuase gender norms are an explored topic in this book, amongst others. infact, it reveals that the author of the book [aerys](aerys.md)

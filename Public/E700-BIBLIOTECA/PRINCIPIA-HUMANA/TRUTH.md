@@ -1,1 +1,0 @@
-There is a truth, an order of the cosmos. There may be three fundamental classes of Truth: Functionally Local truth, as in "This is true from my perspective, regardless of my own bias." There is a Universal or Cosmological or Teleological Truth, which is extrinsic?

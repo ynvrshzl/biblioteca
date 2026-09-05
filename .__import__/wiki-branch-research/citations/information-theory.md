@@ -1,1 +1,0 @@
-Information Theory is a field developed by... Claude Shannon in the 1960s

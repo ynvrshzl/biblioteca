@@ -1,1 +1,0 @@
-The Gang of LA believed that humankind was cursed by nature, and so, they fought fire with fire, by violent means & at all costs.

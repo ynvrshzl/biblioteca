@@ -1,1 +1,0 @@
-the word irritability, comes from the word irritated. irritation. when described as a physical state, rather than purely emotional, irritation is inflammation. and so that's really what it feels like emotionally. **it feels like everything is so much harder.**

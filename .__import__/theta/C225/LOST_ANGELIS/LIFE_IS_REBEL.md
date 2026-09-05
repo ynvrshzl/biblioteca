@@ -1,3 +1,0 @@
-The rebel pours a hot tea at the campsite and talks to the child
-
-"life is unfair kiddo, we don't choose a lot of the stuff we got. we don't even choose our own name. where we're born. what will look like. but we do choose what we do. and life, life is unfair. but it goes both ways. some folks have things will never have, but other folks with everything to have what we have. got to choose what side you lookin'..."

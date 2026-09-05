@@ -1,6 +1,0 @@
-- non-ai
-- using pure js
-- parse pre-existing folders + filenames for topics 
-- store as set
-- async read contents of files without names (untitled/random filenames not  in topic set)
-- suggest names based on content, and set list. 

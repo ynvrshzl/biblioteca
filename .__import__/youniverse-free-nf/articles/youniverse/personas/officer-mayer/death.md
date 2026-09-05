@@ -1,3 +1,0 @@
-Officer nihil sacrificed his life for her. He willingly jumped into the fire, and was swarmed by the flames. It was hotter than anything he had ever experienced, but the love he had for his child, meant he had to protect his pregnant ex-girlfriend, no matter what. Though his heart was broken... In his mind he questioned himself: Would it be better for the child to have never been born? No! NO! NO! I have to save our child even if it costs me my very life.
-
-Officer Nihil's last worlds to her, as all that remained of him were a pile of burning bones: **"Nobody wins in the end."**

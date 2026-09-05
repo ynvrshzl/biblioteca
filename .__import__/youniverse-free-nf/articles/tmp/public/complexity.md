@@ -1,1 +1,0 @@
-**What is complexity?** Complexity characterises the behaviour of a system or model whose components interact in multiple ways and follow local rules, leading to non-linearity, randomness, collective dynamics, hierarchy, and emergence.

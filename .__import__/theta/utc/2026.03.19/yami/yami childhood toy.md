@@ -1,1 +1,0 @@
-Yami favorite childhood toy was a twig and a slingshot make shift twig. In fact he recorded adventures of Yami 

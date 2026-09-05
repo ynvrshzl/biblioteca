@@ -1,1 +1,0 @@
-https://github.com/ynvrshzl/wiki is the source repository for wiki articles for our [webvrs](../website)

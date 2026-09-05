@@ -1,3 +1,0 @@
-The "Apoculus" is a mix of words, "Apocalypsis" from the Biblibcal tradition, "Apocraphy" from gardening, and "Oculus" as in "Seeing." 
-
-The nun's of the church believed an "Apoculus" was already here; that children and man could no longer "see." By the time of witness...

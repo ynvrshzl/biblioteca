@@ -1,3 +1,0 @@
-what if in Los angeles, there are psychological training grounds in which human beings are subjected to suffering and simulations of various kinds. but it's not your stereotypical, simulating reality nonsense. it's more of like the human being voluntarily subjects themselves to unimaginable suffering and feeling, and they're extremely negative side effects like memory lost and identity distortion. 
-
-what if this is how essentially the research program, created biological human war weapons like Joey Doom.

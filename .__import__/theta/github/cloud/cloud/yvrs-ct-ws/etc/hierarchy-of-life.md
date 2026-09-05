@@ -1,3 +1,0 @@
-
-Belief
-Action -> Result

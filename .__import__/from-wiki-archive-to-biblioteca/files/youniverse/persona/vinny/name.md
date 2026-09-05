@@ -1,1 +1,0 @@
-Vincent, Vinny, Vin, Vince. A name which derives from Roman culture "Vincentius" which translates to "Victorious" or "Conqueror."

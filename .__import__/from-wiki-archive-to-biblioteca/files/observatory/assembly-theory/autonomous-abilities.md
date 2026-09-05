@@ -1,1 +1,0 @@
-Our natural autonomous abilities _(...e.g. hearing, sight, touch....)_ as primary instruments that allow us to learn and create.

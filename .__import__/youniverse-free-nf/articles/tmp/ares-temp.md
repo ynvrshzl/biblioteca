@@ -1,1 +1,0 @@
-Ares's consciousness awakened inside her. "Only a creator can create where there was destruction."

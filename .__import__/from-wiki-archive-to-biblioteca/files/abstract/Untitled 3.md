@@ -1,4 +1,0 @@
-- Youniverse itself is like smash bros 
-- Stories are the threads between things and time
-- Personas are personifications
-- Story provides (time) for a persona

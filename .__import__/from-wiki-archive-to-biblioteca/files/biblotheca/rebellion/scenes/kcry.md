@@ -1,1 +1,0 @@
-She looks at Yami and Doom, barely being able to cry anymore... "Why is there so much pain in this world..."

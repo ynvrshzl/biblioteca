@@ -1,1 +1,0 @@
-another most important parts of being A person with a deep inner world, is being your own best friend, because it is often difficult for us to socialize, and it is considerably painful to be around other beings that stress you instead

@@ -1,1 +1,0 @@
-The Mooder family were prepared, for when one day a Rebellion would turn the city over. The original Mooders even predicted that some of the members of their family would have their hearts corrupted by evil & pain. 

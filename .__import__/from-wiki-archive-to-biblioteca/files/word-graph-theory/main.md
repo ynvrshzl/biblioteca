@@ -1,1 +1,0 @@
-"Words cannot define themselves or become self-referential. meaning requires contrast, such contrast is established by contextual relationships in a network. meaning emerges from the structures of that network. the way we human beings use words, assign meaning, and interpret language, are the foundations of meaning."

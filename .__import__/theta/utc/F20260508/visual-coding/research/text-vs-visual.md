@@ -1,1 +1,0 @@
-programming visually is fundamentally different from programming with text. arguably, the power of the source code engineer, comes from the ability to type and implement ideas quickly, without ever leaving the keyboard. in this sense, the keyboard becomes the primary instrument

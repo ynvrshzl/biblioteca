@@ -1,2 +1,0 @@
-
-katarina attempted to end her life several times. the torment and trauma she endured, felt like wounds that would never turn to scars. always painful. every day was excruciating. "i don't want to be here anymore." it was only becuase of [Joey Doom]() that she lived. [Joey] and [Katerina] also found a stray dog, which became their childhood friend. "Let's name him"

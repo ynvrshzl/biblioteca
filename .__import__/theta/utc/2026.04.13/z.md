@@ -1,1 +1,0 @@
-he's really cool, has cool light facial hair like zedd!

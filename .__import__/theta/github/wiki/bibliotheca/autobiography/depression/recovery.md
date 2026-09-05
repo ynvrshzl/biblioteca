@@ -1,3 +1,0 @@
-It was the hardest thing I've ever done, and it will be that way for the rest of my life. Choosing to stay alive, when every cell in my body screamed for death. It was as if everything negative that I ever experienced in my life, was shouting at me from the bottom of the darkest cave in my mind. I was drowning, nihilism, existential crises, people who didn't listen, I was starting to get violent thoughts, but I knew this was not who I was meant to be. That one cell, that clinged onto life, stubbornly, that was my true self.
-
-My only daily pursuit now in life is I want to avoid that from ever happening again becuase it literally took everything i had to fight against slipping into death. 

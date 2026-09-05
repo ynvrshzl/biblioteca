@@ -1,1 +1,0 @@
-How can we be for certain that life is meaningless? That becuase of suffering, pain & evil, non-existence would be better than existence? How can we know this for certain? Have we interrogated these beliefs? Have we tested them? 

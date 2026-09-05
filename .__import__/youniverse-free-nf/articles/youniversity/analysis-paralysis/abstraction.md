@@ -1,1 +1,0 @@
-Abstraction helps you to avoid overwhelm. For example, abstraction in my daily life is having checkpoints rather than specific steps. If I give myself a little flag/goal that I want, I'm more likely to do all the little thing in-between, without being overwhelmed by details.

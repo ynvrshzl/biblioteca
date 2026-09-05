@@ -1,3 +1,0 @@
-what instead of classifying subjects and Fields as domain-specific disciplines, they're instead was a general question-based framework to help us model and solve problems? this may be one of the fundamental tools for problem solving in general, which may be a pragmatic definition for Fields themselves; solving domain specific problems. 
-
-questions are powerful because they are a form of language engineering. the question beckons an answer. the question provides orientation, and constraint. those are [[foundations|the foundations of a framework model]]

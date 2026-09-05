@@ -1,1 +1,0 @@
-In this game, you get to talk to a therapist who asks you questions. Similar to Es from Alter Ego.

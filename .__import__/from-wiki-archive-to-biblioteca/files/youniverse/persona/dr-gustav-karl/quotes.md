@@ -1,1 +1,0 @@
-- Perfection is impossible. The only stable effort, is balance, evolution, and adaptation.

@@ -1,1 +1,0 @@
-I believe it is necessary; we must accept that modern life is complex. While thre are very real detriments to our ability to focus, we also, for the first itme inm human history; are focusing on focus.

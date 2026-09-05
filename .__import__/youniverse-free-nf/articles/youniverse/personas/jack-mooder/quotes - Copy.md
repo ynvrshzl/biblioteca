@@ -1,1 +1,0 @@
-"Existence was the fault for suffering. Consciousness... man... existence itself... *must be obliterated."*

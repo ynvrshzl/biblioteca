@@ -1,1 +1,0 @@
-when designing systems in life, we must understand that fundamentally, systems are only useful, as much as they can connect with the world outside themselves. if a system is self enclosed... (?)

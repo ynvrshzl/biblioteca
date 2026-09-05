@@ -1,3 +1,0 @@
-![](etc/youniverse-free-nf/media/img/shadow/image.jpg)
-
-"I have a shadow... my shadow follows me everywhere I go... I can't get rid of him... I wish they could hear the screams from inside my body... they'll never understand how I feel. And I hate the way they look at me. I hate having their eyes on me. Isolate myself? That's the only freedom i've ever felt. In a cage? More like protected from you insane creatures. Here in the dark, they welcome me... my shadow... likes it here. Me and my shadow speak & play together. My only friend... is the monster that makes me feel insignificant. Atleast to him, I am somebody."

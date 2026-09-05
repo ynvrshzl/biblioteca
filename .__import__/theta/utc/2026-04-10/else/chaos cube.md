@@ -1,1 +1,0 @@
-a machine that could compute the solution to any problem. using mathematics. in fact the ancient civilization treated mathematics as a secret to the youniverse.

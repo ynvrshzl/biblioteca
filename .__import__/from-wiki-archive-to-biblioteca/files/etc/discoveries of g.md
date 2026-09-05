@@ -1,3 +1,0 @@
-- Visual field is the cone of focus & attention.
-- Brain fog visual field
-- ME/CFS before from movement and direction 

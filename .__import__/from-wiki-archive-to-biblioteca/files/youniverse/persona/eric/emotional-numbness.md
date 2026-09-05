@@ -1,1 +1,0 @@
-The inability to access your own feelings feels like punishment for even having existed. Atleast, I should feel my own pain.

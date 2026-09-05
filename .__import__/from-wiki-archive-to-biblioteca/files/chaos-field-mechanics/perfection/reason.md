@@ -1,1 +1,0 @@
-This is why the perfect system, literally cannot physically exist. __If it were perfect, it would not be alive.__

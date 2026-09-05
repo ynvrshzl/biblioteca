@@ -1,1 +1,0 @@
-Topics are structured per-folder.

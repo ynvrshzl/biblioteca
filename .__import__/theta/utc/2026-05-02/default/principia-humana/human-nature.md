@@ -1,1 +1,0 @@
-We must remember we are not machine, we have an organic autonomy, with a difference engine, but also a beating heart, and a hungry belly. The human being, is a creature of polar paradoxes that somehow, co-exist. It is our duty, to maintain the equillibrium.

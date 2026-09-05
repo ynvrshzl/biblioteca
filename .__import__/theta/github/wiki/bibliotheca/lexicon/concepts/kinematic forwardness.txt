@@ -1,1 +1,0 @@
-This is the concept of moving forward. The name "Kinematic Forwardness" is taken from the CGI animation technique "Forward Kinematics."

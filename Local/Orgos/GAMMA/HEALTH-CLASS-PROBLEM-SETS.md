@@ -1,3 +1,0 @@
-According to the human model proposed earlier... health is the strata of life. Without health, there is no bedrock for the psyche... 
-
-Precisely, if health is the fundamental... then perhaps the class of problems must also, in some way, lead back to a proelbm of health, and how we may go about lessening or reducing suffering, through ethical means.

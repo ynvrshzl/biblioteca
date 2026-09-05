@@ -1,5 +1,0 @@
-The first survivors developed a secret language to avoid being discovered by the mooders. This language was designed to be spoken in tiny sounds, and no words. It compressed thousands of concepts into small sounds, and as such, the exchange of information & ideas was no longer limited by time.
-
-the mooders had an ancient language called "angel speak." it was designed to compress meaning & save time. ironically, it was lost to time. few could understand it's cryptic nature, having only two vowels and more than a million words. it was usually a sign of danger, whenever a person could speak this language, in the modern, new-world, as this language had been completely replaced by uni-speak.
-
-once a mooder boy heard a robot beginning to malfunction, he recognized the sounds of the ancient language, due to his parents being able to speak it. his eyes opened wide, he quickly took his sister by her hands & ran as fast as they could to safety. he screamed: "RUN." as confused as she was, she could barely mutter: "Why? What are you doing?" He could barely catch his breath: "That thing was talking in the forbidden code."

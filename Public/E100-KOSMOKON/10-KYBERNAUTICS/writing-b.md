@@ -1,3 +1,0 @@
-Writing however, has made it quite clear; the main work should not be extensive writing, **as writing is endless!** Writing so much, has made it quite clear; the main work should not be extensive writing, as writing is endless! The main work should be a tangible space of work and education.
-
-Writing is itself not sufficient for orientation; it is a medium of orientation; but not the means by one becomes aligned toward the trajectory of a Telos; especially that of an ethical.

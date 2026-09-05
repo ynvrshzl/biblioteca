@@ -1,3 +1,0 @@
-so basically absurdity to me, is represented by like a attractive middle-aged man probably in his 50s And basically, what I've discovered as far as dealing with irritability and exhaustion and, mild forms of injustice, is to not become cynical and rather just to like sort of laugh or find a comedy if you can. And so I'm assuming he would be like a comedian with a really dry humor and see what it basically be like, when something bad happens, he just laughs. recognize woman representing basically how I feel lately. which is exhausted irritable and the only real answer I found, is to, just try and find absurd comedy or something.
-
-basically the father of ... He's inspired by Albert kamu which is the philosopher who is most well known for the ideas of a

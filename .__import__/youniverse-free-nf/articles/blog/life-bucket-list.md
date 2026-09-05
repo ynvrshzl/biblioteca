@@ -1,2 +1,0 @@
-- [x] Survive suicide
-- [ ] Learn to sing

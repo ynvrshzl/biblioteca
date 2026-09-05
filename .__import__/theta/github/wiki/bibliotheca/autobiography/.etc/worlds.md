@@ -1,3 +1,0 @@
-We are all living in our own worlds... sometimes, we build bridges to others (when we have empathy for other human beings.)
-
-Doesn't it feel that way? When you've been living for quite a while feeling tired, depressed, or perhaps, the complete opposite: happy, excited about life, energized. It seems like they're living in a completely different world from you, and trust me, inside, they, you and me... we all are living in our own inner worlds.

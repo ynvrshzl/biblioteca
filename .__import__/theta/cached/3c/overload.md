@@ -1,1 +1,0 @@
-_Why is it that we have so many ideas, but such little agency to make them real?_

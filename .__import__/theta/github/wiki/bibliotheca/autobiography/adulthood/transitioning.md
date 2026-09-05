@@ -1,6 +1,0 @@
-# The most beautiful part about transitioning
-The most beautiful part about transitioning genders, to the one you're happiest in, extends to anybody out there, who's reading this, by accepting who you are. Wether you transitioned, or choosing a new life. The most beautiful part of transitioning to me, is truth. You finally get to see yourself, who you've always been. You get to see who really loves you, and who was there for you. You get to see behind the curtains, and remember that when we die, that's the only thing that can reveal what matters most to us. 
-
-Are you going to die with regrets? Are you going to accept the lies people tell you? Are you going to watch your happiest self, fade away like they never got a chance to exist? Or are you going to fight, to live as the truest version of you? Freedom, is a gift, and the only reason for life. Without freedom, there is no life. **If I cannot be free to choose who I am, then I am already dead.**
-
-"Someday, you're going to be so happy, that you chose to be your true self."

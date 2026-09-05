@@ -1,1 +1,0 @@
-where contains(file.inlinks, this.file.link)

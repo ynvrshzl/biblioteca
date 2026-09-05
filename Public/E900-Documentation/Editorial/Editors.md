@@ -1,1 +1,0 @@
-The primary editor for this project, as of 2026, is [Obsidian]() for it's unrivaled suite of tools and ergonomics, however, the information itself is substrate-independent; you may use any text-editor capable of reading, writing, and editing plain-text files.

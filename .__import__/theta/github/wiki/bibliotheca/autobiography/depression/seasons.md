@@ -1,3 +1,0 @@
-Depression could possibly seasononal, not in the winter sense, but rather, in a cycical, repeating motion. Sometimes, I just don't want to be here, and other times, I love my life so much I'm terrified of dying someday. 
-
-Rather than fighting against the tides or storms inside my Youniverse, I choose to listen to myself, and do whatever I need in the moment. Sometimes that's fighting with all i've got, and other times, it's being as still as a butterfly cocoon. In nature, seasons regulate the ecosystem, and keep everything in balance. From my perspective, the seasons inside me are signals from my body. Either living too much on auto-pilot, or not creating anything

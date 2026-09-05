@@ -1,1 +1,0 @@
-Despite rarely speaking  *(in the true spirit of a librarian)...* Archael's voice is incredibly powerful. Glorious, holy, deeply commanding and resplendent, yet fatherly and wise in nature. He is seen as a keeper of time, for many.

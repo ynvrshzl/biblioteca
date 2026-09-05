@@ -1,1 +1,0 @@
-a therapist working alongside Dr Vira. he has his lab coat and is inspired by Dr. Gabor Mate.
