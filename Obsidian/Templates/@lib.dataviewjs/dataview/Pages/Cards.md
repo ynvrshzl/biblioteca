@@ -1,7 +1,7 @@
 ---
 icon: ":LiTrafficCone:"
 links:
-  - "[[mock|mock]]"
+  - "[[Obsidian/Templates/Templates/mock|mock]]"
 cssclasses:
   - cards
 ---

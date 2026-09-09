@@ -3,7 +3,7 @@ Super intendent anne-marie
 "A task is at hand! It is time to sieze the day!"
 
 Did you know? Trivia:
-- Annemarie's best-friend is [Elisa-beth](Public/E200-YOUNIVERSE/05-PERSONA/ELISABETH/README.md)
+- Annemarie's best-friend is [Elisa-beth](Public/100A-YOUNIVERSE/05-PERSONA/ELISABETH/README.md)
 
 Annemarie is a young woman striving for excellence in the city of Lost Angelis. 
 

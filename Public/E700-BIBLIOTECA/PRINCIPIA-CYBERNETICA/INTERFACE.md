@@ -1,0 +1,3 @@
+Interfaces, Queries and Search are all methods of Filtering. 
+
+An interface is a static layout of a dynamic stream of information. However, the interface itself can be conceptualized as a distribution of dynamic views of source-data. This Cybernetic model ... hard...

@@ -1,0 +1,3 @@
+What makes a human being Interested in certain things and not others? This is deeply co-related with the Domain of Value; what we Value as Important, Meaningful, Significant, Interesting
+
+The Etymology of "Interest" if fascinating and revealing; in Economics, Interest is added value by a seller. In Psychology, Interest is the gravity which governs or influences one's Attention; the most finite resource in our Faculty.

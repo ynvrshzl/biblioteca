@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[mock]]"
+  - "[[Obsidian/Templates/Templates/mock]]"
 cssclasses:
   - cardsx
 ---

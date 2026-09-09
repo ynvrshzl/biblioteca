@@ -1,3 +1,3 @@
-- [Definition](./definition.md)
-- [Sources](./sources.md)
-- [Synopsis](./synopsis.md)
+- [Definition](Public/E100-KOSMOKON/09-INCYCLOPEDIA/wysteria/definition.md)
+- [Sources](Public/E100-KOSMOKON/09-INCYCLOPEDIA/wysteria/sources.md)
+- [Synopsis](Public/E100-KOSMOKON/09-INCYCLOPEDIA/wysteria/synopsis.md)
