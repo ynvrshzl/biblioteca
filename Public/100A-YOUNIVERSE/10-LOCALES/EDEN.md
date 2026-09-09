@@ -1,1 +1,1 @@
-Post-Eden, a location within Lost-Angelis, a city of Edenism, or "Post-Hednomism." An attempted recreation of the Genesis Eden.
+Post-Eden, a location within Lost-Angelis, a city of Edenism, or "Post-Hednomism." An attempted recreation of the "Eden" in the Hebrew "Genesis."
