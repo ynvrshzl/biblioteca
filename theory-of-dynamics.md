@@ -1,0 +1,3 @@
+What if we only know a thing, by it's opposite, or point of reference? WHat if this is directly how meaning and context form what guides us in an endless expanse? Ethos?
+
+Proposition: "Semantic-Satiation" is far more pervasive than the sheltered anomaly in Semiotics; it appears in order to maintain balance, one must maintain an Equillibria of stable base; in other words, a constant baseline of dynamic motion.
