@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c66846621832896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3730f42ba526202d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dab4cc69db34afb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f73555b874689a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c38ef980e95c841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1909873564b6b678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d150ff11129e541",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pono",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 430.5
+  },
+  "right": {
+    "id": "a1e253da63118795",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb5a24ec9a25350d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971a1382e94363b5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "public/kosmokon/kybernautics/summarios.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0188a27f724dddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b1c0a66e2005f25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "public/kosmokon/kybernautics/summarios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cb309289bd8acb99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "baca70b8afc8c313",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0862a3ea0e3c2b28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "2c66846621832896",
+  "lastOpenFiles": [
+    "1.md",
+    "public/1.103.md",
+    "README.md",
+    "public/kosmokon/kybernautics/summarios.md",
+    "obsidian/Templates/Templates/mock.md",
+    "public/kosmokon/kybernautics/complex/systemata.md",
+    "public/youniverse/05-PERSONA/DR-VIRA/BIOGRAPHY.md",
+    "local/abstract/95-LOGOAGRAPHY/PROPSOTION.md",
+    "Pasted image 20260911134617.png",
+    "public/kosmokon/kybernautics/structures/continuum.md",
+    "public/kosmokon/kybernautics/structures/Continuum.md",
+    "public/kosmokon/kybernautics/structures",
+    "public/kosmokon/kybernautics/Continuum.md",
+    "local/abstract/53-CHRONOBIOTICS.md",
+    "local/abstract/99-ASSEMBLY-SYNTHESIS/README.md",
+    "local/abstract/99-ASSEMBLY-SYNTHESIS/GPT.md",
+    "local/abstract/99-ASSEMBLY-SYNTHESIS",
+    "local/abstract/95-LOGOAGRAPHY/variables/Continuity.md",
+    "local/abstract/95-LOGOAGRAPHY/variables/Context.md",
+    "local/abstract/95-LOGOAGRAPHY/variables/Complexity.md",
+    "local/abstract/95-LOGOAGRAPHY/draft/Theory.thesis.md",
+    "local/abstract/95-LOGOAGRAPHY/draft/Main.thesis.md",
+    "local/abstract/95-LOGOAGRAPHY/definitions/phenoms.md",
+    "local/abstract/95-LOGOAGRAPHY/definitions/i-types.md",
+    "local/abstract/95-LOGOAGRAPHY/CRAFT/WORK.md",
+    "local/abstract/95-LOGOAGRAPHY/variables",
+    "local/abstract/95-LOGOAGRAPHY/schematic.md",
+    "local/abstract/95-LOGOAGRAPHY/draft",
+    "local/abstract/95-LOGOAGRAPHY/definitions",
+    "local/abstract/95-LOGOAGRAPHY/Transformations.md",
+    "local/abstract/95-LOGOAGRAPHY/README.md",
+    "local/abstract/95-LOGOAGRAPHY/PSYCHESCHEMATICS.md",
+    "local/abstract/95-LOGOAGRAPHY/CRAFT",
+    "local/abstract/95-LOGOAGRAPHY",
+    "local/abstract/90-METRONOMICS/RESEARCH/FIELDNAME",
+    "local/abstract/90-METRONOMICS/RESEARCH",
+    "local/abstract/90-METRONOMICS/Calculants"
+  ]
+}
