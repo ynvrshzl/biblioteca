@@ -1,0 +1,1 @@
+It is a kind of suffering that shapes a person; even if in the moment it was as a shapeless storm of pointlessness; where the primordial self is pushing against the conscious self; with stress and shallow breath, as if swimming without sight of a promising horizon. It is as forcing my own body through a forest of quicksand; where does this force come from?
