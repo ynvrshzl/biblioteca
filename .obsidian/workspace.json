@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c66846621832896",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.md",
-                "mode": "source",
-                "source": false,
+                "file": "README.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "README"
             }
           }
         ]
@@ -28,15 +28,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3730f42ba526202d",
+    "id": "1655064e35f8ef39",
     "type": "split",
     "children": [
       {
-        "id": "7dab4cc69db34afb",
+        "id": "d44db76fde651cde",
         "type": "tabs",
+        "dimension": 48.28767123287671,
         "children": [
           {
-            "id": "5f73555b874689a6",
+            "id": "847869f476bbeaeb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -48,132 +49,12 @@
         ]
       },
       {
-        "id": "0c38ef980e95c841",
+        "id": "a19e782a5493b328",
         "type": "tabs",
+        "dimension": 51.71232876712328,
         "children": [
           {
-            "id": "1909873564b6b678",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "3d150ff11129e541",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "pono",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 430.5
-  },
-  "right": {
-    "id": "a1e253da63118795",
-    "type": "split",
-    "children": [
-      {
-        "id": "bb5a24ec9a25350d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "971a1382e94363b5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "public/kosmokon/kybernautics/summarios.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6666666666666666,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Local graph"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f0188a27f724dddd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b1c0a66e2005f25",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "public/kosmokon/kybernautics/summarios.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "cb309289bd8acb99",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "baca70b8afc8c313",
+            "id": "a1f5bf948dce465e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -187,76 +68,245 @@
             }
           },
           {
-            "id": "0862a3ea0e3c2b28",
+            "id": "6378eb4ce68b1a09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "abstract",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1fa388f5ca1ffecf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "README.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "697ca7d77a63d180",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 309.5
+  },
+  "right": {
+    "id": "fee25f49fce5690b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcf246339b20a18c",
+        "type": "tabs",
+        "dimension": 37.270341207349084,
+        "children": [
+          {
+            "id": "7a22214bb5ad05f5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 2.90040752959441,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.5036812714846641,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a102a7f44dad4ee",
+        "type": "tabs",
+        "dimension": 62.72965879265092,
+        "children": [
+          {
+            "id": "b65b5182f6c49c86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7f2183a77731c456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c01bb52d44ee8ac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "src/2.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "ce4c0965ff98c24a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "src/2.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "2c66846621832896",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1.md",
-    "public/1.103.md",
+    "cache/1.md",
+    "cache/36.md",
+    "cache/2.md",
+    "cache/0.md",
+    "cache/147.md",
     "README.md",
-    "public/kosmokon/kybernautics/summarios.md",
-    "obsidian/Templates/Templates/mock.md",
-    "public/kosmokon/kybernautics/complex/systemata.md",
-    "public/youniverse/05-PERSONA/DR-VIRA/BIOGRAPHY.md",
-    "local/abstract/95-LOGOAGRAPHY/PROPSOTION.md",
-    "Pasted image 20260911134617.png",
-    "public/kosmokon/kybernautics/structures/continuum.md",
-    "public/kosmokon/kybernautics/structures/Continuum.md",
-    "public/kosmokon/kybernautics/structures",
-    "public/kosmokon/kybernautics/Continuum.md",
-    "local/abstract/53-CHRONOBIOTICS.md",
-    "local/abstract/99-ASSEMBLY-SYNTHESIS/README.md",
-    "local/abstract/99-ASSEMBLY-SYNTHESIS/GPT.md",
-    "local/abstract/99-ASSEMBLY-SYNTHESIS",
-    "local/abstract/95-LOGOAGRAPHY/variables/Continuity.md",
-    "local/abstract/95-LOGOAGRAPHY/variables/Context.md",
-    "local/abstract/95-LOGOAGRAPHY/variables/Complexity.md",
-    "local/abstract/95-LOGOAGRAPHY/draft/Theory.thesis.md",
-    "local/abstract/95-LOGOAGRAPHY/draft/Main.thesis.md",
-    "local/abstract/95-LOGOAGRAPHY/definitions/phenoms.md",
-    "local/abstract/95-LOGOAGRAPHY/definitions/i-types.md",
-    "local/abstract/95-LOGOAGRAPHY/CRAFT/WORK.md",
-    "local/abstract/95-LOGOAGRAPHY/variables",
-    "local/abstract/95-LOGOAGRAPHY/schematic.md",
-    "local/abstract/95-LOGOAGRAPHY/draft",
-    "local/abstract/95-LOGOAGRAPHY/definitions",
-    "local/abstract/95-LOGOAGRAPHY/Transformations.md",
-    "local/abstract/95-LOGOAGRAPHY/README.md",
-    "local/abstract/95-LOGOAGRAPHY/PSYCHESCHEMATICS.md",
-    "local/abstract/95-LOGOAGRAPHY/CRAFT",
-    "local/abstract/95-LOGOAGRAPHY",
-    "local/abstract/90-METRONOMICS/RESEARCH/FIELDNAME",
-    "local/abstract/90-METRONOMICS/RESEARCH",
-    "local/abstract/90-METRONOMICS/Calculants"
+    "cache/183.md",
+    "cache/19.md",
+    "cache/176.md",
+    "cache/63.md",
+    "cache/180.md",
+    "cache/106.md",
+    "cache/182.md",
+    "cache/181.md",
+    "cache/100.md",
+    "cache/157.md",
+    "cache/158.md",
+    "cache/163.md",
+    "cache/164.md",
+    "cache/15.md",
+    "cache/165.md",
+    "cache/166.md",
+    "cache/168.md",
+    "cache/179.md",
+    "cache/().md",
+    "cache/6.md",
+    "cache/100-199",
+    "cache/0-99",
+    "caches",
+    "Pasted image 20260915142539.png",
+    "cache",
+    "2026/09/12",
+    "Pasted image 20260911153502.png",
+    "Writing/Tour",
+    "Projects/information-mgmt/tasks",
+    "Office/Claude.ai/data/research/taxonomy",
+    "Office/Claude.ai/data/research",
+    "Office/Claude.ai/data/editorial",
+    "Pasted image 20260909184131.png",
+    "Logs/2026/02/13/Screenshot from 2026-02-13 21-12-38.png",
+    "Logs/2026/02/13/imgs/Screenshot from 2026-02-13 11-54-50.png",
+    "Pasted image 20260909172600.png",
+    "Pasted image 20260909120937.png",
+    "Pasted image 20260909120927.png",
+    "000a/atlases/Mindmap.canvas",
+    "000a/atlases/Workatlas.canvas",
+    "000a/atlases/Psychoatlas.canvas",
+    "000A/Workatlas.canvas",
+    "000A/Psychoatlas.canvas",
+    "Mindmap.canvas",
+    "Pasted image 20260906225638.png",
+    "001/Workatlas.canvas",
+    "001/Psychoatlas.canvas",
+    "Pasted image 20260903183756.png",
+    "Organizing/Psychoatlas.canvas",
+    "Stress-Test.canvas"
   ]
 }

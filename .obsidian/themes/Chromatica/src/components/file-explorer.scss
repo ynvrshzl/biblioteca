@@ -1,0 +1,206 @@
+.tree-item-self.is-being-renamed:focus-within {
+    color: inherit;
+    --nav-item-color-active: inherit;
+    --nav-item-background-active: transparent;
+    --nav-icon-color-active: inherit;
+    --nav-item-icon-color-active: inherit;
+}
+
+body:not(.is-grabbing) .tree-item:has(.is-active) {
+    color: var(--nav-item-color-hover);
+    background-color: color-mix(in srgb, var(--text-selection) 15%, transparent);
+}
+
+body:not(.is-grabbing) .tree-item-self.is-active {
+    --nav-item-icon-color: var(--color-accent-3);
+}
+
+
+/* folder/file hover effect explorer panel */
+body {
+    --folder-hover-color: color-mix(in srgb, var(--color-accent) 10%, transparent);
+}
+
+.tree-item.nav-folder:not(.is-collapsed) {
+    // transition: outline-color .3s linear, background .3s linear;
+}
+
+.tree-item.nav-folder:not(.is-collapsed):hover {
+    /* background: var(--folder-hover-color); */
+    // outline: 1px solid var(--color-accent);
+    outline: 2px solid var(--color-accent-2);
+    box-shadow: 0 0 0 8px var(--folder-hover-color);
+    border-radius: 15px;
+}
+
+.nav-files-container:hover * .tree-item-self:not(:hover) {
+    /* opacity: 0.4; */
+}
+
+
+
+
+
+
+
+.tree-item-self.nav-folder-title::after {
+    display: block;
+    content: counter(tree-items);
+    align-self: center;
+    margin-left: auto;
+    color: var(--color-accent);
+}
+
+.tree-item.is-collapsed .nav-folder-title::after {
+    color: var(--text-faint);
+}
+
+.tree-item {
+    counter-increment: tree-items;
+}
+
+/* @experimental - show folder path */
+/* these selectors are too aggressive + greedy */
+/*
+.tree-item:not(.is-collapsed):hover > .nav-folder-title::after, 
+.tree-item:not(.is-collapsed) > .nav-folder-title::after,  
+.tree-item:hover > .nav-folder-title::after
+
+.nav-folder:hover> :not(:hover).nav-folder-title::after {
+    content: attr(data-path);
+    display: block;
+    margin-left: auto;
+    color: var(--color-accent-2);
+}
+*/
+
+
+
+/*
+.nav-folder-title::after {
+    content: attr(data-path);
+    display: block;
+    margin-left: auto;
+    color: var(--color-accent-1);
+}
+.nav-folder-title {
+    display: inline-flex;
+    flex-direction: row;
+}
+*/
+
+
+.tree-item-self.nav-folder-title::before {
+    /* display: block; */
+    content: " ";
+    height: 1rem;
+    width: 1rem;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    align-self: center;
+    vertical-align: text-top;
+    margin-right: .5em;
+    background-color: var(--nav-item-icon-color);
+    mask-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWZvbGRlci1pY29uIGx1Y2lkZS1mb2xkZXIiPjxwYXRoIGQ9Ik0yMCAyMGEyIDIgMCAwIDAgMi0yVjhhMiAyIDAgMCAwLTItMmgtNy45YTIgMiAwIDAgMS0xLjY5LS45TDkuNiAzLjlBMiAyIDAgMCAwIDcuOTMgM0g0YTIgMiAwIDAgMC0yIDJ2MTNhMiAyIDAgMCAwIDIgMloiLz48L3N2Zz4=");
+}
+
+.nav-folder:not(.is-collapsed)>.tree-item-self.nav-folder-title::before {
+    background-color: var(--color-accent);
+    mask-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWZvbGRlci1vcGVuLWljb24gbHVjaWRlLWZvbGRlci1vcGVuIj48cGF0aCBkPSJtNiAxNCAxLjUtMi45QTIgMiAwIDAgMSA5LjI0IDEwSDIwYTIgMiAwIDAgMSAxLjk0IDIuNWwtMS41NCA2YTIgMiAwIDAgMS0xLjk1IDEuNUg0YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDMuOWEyIDIgMCAwIDEgMS42OS45bC44MSAxLjJhMiAyIDAgMCAwIDEuNjcuOUgxOGEyIDIgMCAwIDEgMiAydjIiLz48L3N2Zz4=");
+}
+
+/* .nav-folder:not(.is-collapsed) > :last-child {
+    border-bottom: 1px solid var(--color-base-30);
+} */
+.tree-item-self.nav-file-title::before {
+    display: block;
+    position: absolute;
+    content: " ";
+    height: 1rem;
+    width: 1em;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    // align-self: center;
+    margin-right: .3em;
+    background-color: var(--nav-item-icon-color);
+    mask-image: var(--nav-file-icon);
+}
+.tree-item-self.nav-file-title.is-active::before {
+    background-color: var(--nav-item-icon-color-active);
+}
+.tree-item-self .nav-file-title-content {
+    margin-inline-start: 1rem;
+}
+:root {
+    --nav-file-icon: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWZpbGUtaWNvbiBsdWNpZGUtZmlsZSI+PHBhdGggZD0iTTE1IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY3WiIvPjxwYXRoIGQ9Ik0xNCAydjRhMiAyIDAgMCAwIDIgMmg0Ii8+PC9zdmc+");
+}
+.tree-item-self.nav-file-title[data-path*='readme' i],
+.tree-item-self.nav-file-title[data-path*="main.md" i],
+.tree-item-self.nav-file-title[data-path*='core' i],
+.tree-item-self.nav-file-title[data-path*='index' i] {
+    /* */
+    --nav-file-icon: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2stbWFya2VkLWljb24gbHVjaWRlLWJvb2stbWFya2VkIj48cGF0aCBkPSJNMTAgMnY4bDMtMyAzIDNWMiIvPjxwYXRoIGQ9Ik00IDE5LjV2LTE1QTIuNSAyLjUgMCAwIDEgNi41IDJIMTlhMSAxIDAgMCAxIDEgMXYxOGExIDEgMCAwIDEtMSAxSDYuNWExIDEgMCAwIDEgMC01SDIwIi8+PC9zdmc+");
+}
+
+body {
+    --nav-item-background-active: var(--color-accent-2);
+    --nav-item-background-hover: transparent;
+    --nav-item-color-hover: var(--color-accent-2);
+    --nav-item-icon-color: var(--text-faint);
+    --nav-item-color-active: var(--text-on-accent);
+    --nav-item-icon-color-active: var(--text-on-accent);
+}
+// color dots
+// .tree-item-self.nav-file-title::after {
+// 	display: block;
+// 	content: " ";
+// 	height: .5em;
+// 	width: .5em;
+//     border-radius: 50%;
+//     align-self: center;
+//     margin-left: auto;
+//     background-color: var(--text-faint);
+// } 
+// .nav-file-title::after
+// {
+//     background-color: var(--color-base-30);
+// }   
+// .tree-item-self.nav-file-title:hover::after {
+    
+//     background-color: var(--color-accent);
+// } 
+// color dots end
+
+
+.tree-item-children .tree-item:last-child {
+    border-bottom: 2px solid var(--color-base-10);
+}
+
+
+
+// data path under files?
+.tree-item-self.nav-file-title.tappable.is-clickable {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.tree-item-self.nav-file-title.tappable.is-clickable::after {
+    content: attr(data-path);
+    display: block; 
+    font-size: 0.9em;
+    // left: 0;
+    // position: absolute;
+    // bottom: -1em;
+    opacity: .3;
+    margin: 0;
+    margin-inline-start: 1rem;
+}
+// very hard to do data paths with folders!
+// .nav-folder-title::after {
+//     content: attr(data-path);
+//     display: block; 
+//     opacity: .3;
+//     margin: 0;
+// }

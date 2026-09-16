@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/07/30/Events.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Events"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "821647a1e69f4329",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7b80e0278f205d1a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5f08cbbbbbed224f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8907198a6569fbd7",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9186851599f0aeb5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "468d3c4a582241f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "linux/locations/code.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "11e263f21a1e4c73",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "linux/locations/code.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8a25515095f79dc9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "E500 Env/200 Erotica/SRC/elsbeth/index.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "c7196e64c673701e",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "Obsidian/Query/Recent files.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Vault.md",
+    "Obsidian/Query/Recent files.md",
+    "Export/A2026-B-07-29-E1902-B13.md",
+    "Obsidian/Commands/Create new sandbox file.md",
+    "Export/A2026-B-07-29-E1834-B40.md",
+    "Export/A2026-B-07-29-E1834-B27.md",
+    "Cart/App.js.md",
+    "Apps/Cart.md",
+    "Vault/create-file.widget.md",
+    "Export/A2026-B-07-29-E1610-B46.md",
+    "Projects/io-cli/prototype.md",
+    "Export/A2026-B-07-29-E1430-B42.md",
+    "Export/A2026-B-07-29-E1412-B42.md",
+    "Export/A2026-B-07-29-E1422-B36.md",
+    "2026/06/11/T111.md",
+    "Export/A2026-B-07-29-E952-B32.md",
+    "Export/kid and the ape.md",
+    "Projects/io-cli/docs/README.md",
+    "2026/07/29/Shoplist.md",
+    "2026/07/29/Events.md",
+    "2026/07/24/Shoplist.md",
+    "Arcana/Games.md",
+    "Vault/Browse.md",
+    "Export/Abstraction.md",
+    "Arcana/Characters.md",
+    "2026/07/27/Events.md",
+    "2026/07/26",
+    "Calendar/2026/07",
+    "Calendar/2026",
+    "Disambiguation",
+    "E300 Tools/Calendar/2026/07/20",
+    "2026/07",
+    "2026",
+    "E500 Envs/200 Erotica/srcc/sergio/index",
+    "E500 Envs/200 Erotica/srcc/sergio",
+    "E500 Envs/200 Erotica/srcc/Nicole",
+    "org/Abstract/Test.canvas"
+  ]
+}

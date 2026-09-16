@@ -1,0 +1,127 @@
+.callout {
+	background-color: transparent;
+}
+
+.callout.is-collapsed:not(:hover) .callout-title {
+	color: var(--text-faint);
+}
+
+.callout-content {
+	min-height: 100px;
+	max-height: 300px;
+	overflow-y: auto;
+	resize: vertical;
+
+}
+
+.callout-content::-webkit-scrollbar {
+	// display: none;
+}
+
+.callout {
+
+	border-inline-start: 0;
+	// border-radius: 15px;
+	padding: 0px;
+	// margin: 0;
+	outline: 0px solid black;
+	// outline: 3px solid rgba(var(--callout-color), .3);
+	// transition: outline .1s linear;
+}
+
+.callout:not(.is-collapsed) {
+	// background: rgba(var(--callout-color), .08);
+	// background: rgba(var(--mono-rgb-100), .025);
+
+}
+
+.callout {
+	mix-blend-mode: unset;
+}
+
+.el-div:has(> .callout:not(.is-collapsed)) {
+	// box-shadow: 0 0 10px hsl(0, 0%, 0%, 10%);
+	// border-radius: 15px;
+}
+
+.callout:not(.is-collapsed) .callout-title {
+	// background-color: var(--color-base-30);
+	// box-shadow: 0 0 10px var(--shadow);
+
+}
+
+// .callout:not(.is-collapsed) .callout-title {
+// 	background-color: var(--color-base-30);
+// }
+
+.callout:not(.is-collapsed):has(.callout-title:hover) {
+	background: rgba(var(--callout-color), .08);
+	outline: 2px solid var(--text-faint);
+	outline: 2px solid rgba(var(--callout-color), 3);
+	outline-offset: -3px;
+	border-radius: 15px;
+	// box-shadow:  0 0 0 1px rgba(var(--callout-color), .8);
+}
+
+.callout:not(.is-collapsed) .callout-title {
+	// background: rgba(var(--callout-color), .1);
+	// box-shadow:  0 0 0 1px rgba(var(--callout-color), .8);
+}
+
+.callout {
+	animation: none;
+}
+
+.callout-fold.is-collapsed .svg-icon {
+	//   transform: none;
+}
+
+.callout:hover {
+	// background-color: color-mix(in srgb, var(--background-modifier-hover) 35%, transparent);
+	// background: rgba(var(--callout-color), .1);
+	// outline: 3px solid rgba(var(--callout-color), .2);
+}
+
+.callout:not(.is-collapsed) {
+	// outline: 2px solid rgba(var(--mono-rgb-100), .1);
+}
+
+.callout-content {
+	--embed-padding: 15px;
+	padding: 15px;
+	// margin: 15px;
+	background-color: color-mix(in srgb, var(--text-normal) 5%, transparent);
+}
+
+.callout-title {
+	padding: 5px 10px;
+	padding-right: 0;
+}
+
+.callout:not(.is-collapsed) .callout-title {
+	// background-color: rgba(var(--callout-color), .1);
+	// background: rgba(var(--callout-color), .08);
+	// border-bottom: 1px solid var(--text-faint);
+	// background: var(--color-base-25);
+
+}
+
+.callout:not(.is-collapsed):hover {
+	// background-color: rgba(var(--callout-color), .1);
+	// background: rgba(var(--callout-color), .08);
+	// background: var(--background-primary-alt);
+}
+
+
+.workspace-split.mod-sidedock :has(.callout) {
+	--file-margins: 0;
+}
+
+.workspace-split.mod-sidedock :has(.callout)::-webkit-scrollbar {
+	display: none;
+}
+
+.callout.is-collapsible .callout-title {
+    box-shadow: 0 0 10px var(--shadow);
+    
+}

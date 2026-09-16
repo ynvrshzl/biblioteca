@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sass": "^1.97.2"
+  },
+  "name": "flat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "compile": "npx sass src/index.scss:theme.css --style=compressed",
+    "watch": "npx sass --watch src/index.scss:theme.css --style=compressed",
+    "start": "npm run watch"
+  },
+  "author": "",
+  "license": "ISC"
+}

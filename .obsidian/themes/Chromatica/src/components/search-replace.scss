@@ -1,0 +1,98 @@
+.document-search-container.mod-replace-mode,
+.document-search-container {
+    position: absolute;
+	top: 50px;
+    right: 0;
+    // min-width: 40%;
+	// padding: 15px;
+	box-shadow: 0 15px 25px  var(--color-base-10);
+}
+
+.search-input-container input {
+    padding: var(--input-padding);
+}
+
+.document-search-container  input[type='text']::placeholder {
+    // color: var(--color-red);
+    // opacity: 0.3;
+}
+.document-replace-input[type='text']::placeholder {
+    // color: var(--color-red);
+    // opacity: 0.3;
+}
+.document-search-input [type='text'] {
+    caret-color: currentColor;
+	--text-normal: var(--color-base-50);
+	// border-left: 3px solid var(--color-green) !important;
+}
+.document-replace-input[type='text'] {
+	caret-color: currentColor;
+	--text-normal: var(--color-red);
+	--text-normal: var(--color-green);
+	// border-left: 3px solid var(--color-red) !important;
+}
+
+.search-input-container:before {
+    display: none;
+    inset-inline-start: 0;
+}
+
+
+.search-input-container input:not(:placeholder-shown)
+{
+	// padding: var(--input-padding);
+}
+.document-search-count
+{
+	// color: var(--color-green);
+}
+@keyframes drop-in-top {
+	from {
+		transform: translateY(-100%);
+	}
+	to {
+		transform: translateY(0%);
+	}
+}
+.document-search-container.mod-replace-mode,
+.document-search-container
+{
+	// font-family: var(--font-monospace);
+	background-color: var(--color-base-30);
+	border-radius: 20px;
+	animation: drop-in-top .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+// .document-search-input [type=text]
+// {
+// 	background-color: color-mix(in srgb, var(--color-red) 0%, transparent);
+// 	--background-modifier-border-focus: color-mix(in srgb, var(--color-red) 15%, transparent);
+// 	--background-modifier-border-focus: transparent;
+// 	--background-modifier-form-field-hover:  color-mix(in srgb, var(--color-red) 5%, transparent);
+// 	font-size: 0.7em;
+//     --text-selection: var(--color-red);
+// }
+// .document-replace-input[type=text]
+// {
+// 	background-color: color-mix(in srgb, var(--color-green) 0%, transparent);
+// 	--background-modifier-border-focus: color-mix(in srgb, var(--color-green) 15%, transparent);
+// 	--background-modifier-border-focus: transparent;
+// 	--background-modifier-form-field-hover:  color-mix(in srgb, var(--color-green) 5%, transparent);;
+// 	font-size: 0.7em;
+//     --text-selection: var(--color-green);
+// }
+
+.document-search-input  [type=text],
+.document-replace-input[type=text] {
+	background: transparent;
+	border-radius: 25px;
+	// box-shadow: 0 0px 10px inset var(--color-base-10);
+}
+
+.document-replace-input[type=text]::placeholder,
+.document-search-input[type=text]::placeholder{
+	// color: inherit;
+}
+.clickable-icon.document-search-close-button
+{
+	color: var(--color-red);
+}
