@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imported/wiki-branch-youniverse/persona/father-angelo-mythos.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "father-angelo-mythos"
+              "title": "README"
             }
           }
         ]
@@ -187,8 +187,13 @@
   },
   "active": "02dcfb1e0ccf25fa",
   "lastOpenFiles": [
-    "imported/wiki-branch-youniverse/books/and-justice-for-all/a8febae8b.md",
+    "imported/youniverse-free-nf/articles/hierarchy-of-life/recovering-your-life-from-depression.md",
+    "imported/youniverse-free-nf/articles/hierarchy-of-life/action/too-much-liberty.md",
+    "imported/youniverse-free-nf/articles/hierarchy-of-life/action/dealing-with-distractions-in-todays-world.md",
+    "imported/youniverse-free-nf/articles/hierarchy-of-life/action/barber-pole-effect.md",
+    "README.md",
     "imported/wiki-branch-youniverse/persona/father-angelo-mythos.md",
+    "imported/wiki-branch-youniverse/books/and-justice-for-all/a8febae8b.md",
     "imported/wiki-branch-youniverse/books/and-justice-for-all"
   ]
 }
