@@ -13,7 +13,7 @@
   "trashOption": "system",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "mobileToolbarCommands": [
     "editor:configure-toolbar",
     "editor:toggle-keyboard",
