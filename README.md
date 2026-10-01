@@ -4,7 +4,7 @@
 
 ###### Title
 "BIBLIOTECA, UNIVERSITA" [^2] 
-<br><sup>"LOGOS, ETHICA, SUPRA."</sup>
+<br><sup>"LOGOS, ETHOS, SUPRA."</sup>
 
 
 ###### Description
