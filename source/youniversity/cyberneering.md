@@ -1,3 +1,8 @@
+---
+image: 
+status: 0
+---
+
 Cyberneering
 
 Principles of Systems Design and Construction (Cyberneering):
