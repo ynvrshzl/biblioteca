@@ -1,5 +1,5 @@
 {
-  "showRibbon": true,
+  "showRibbon": false,
   "accentColor": "#038c45",
   "cssTheme": "Chromatica",
   "baseFontSizeAction": false,

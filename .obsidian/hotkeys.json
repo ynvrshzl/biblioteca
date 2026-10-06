@@ -318,5 +318,19 @@
       ],
       "key": "F12"
     }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
   ]
 }
