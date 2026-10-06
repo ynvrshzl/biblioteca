@@ -1,0 +1,1 @@
+The concept of Imagineering is of one's responsibility to use the proposeterously entropic power of the Human brain <u>properly.</u>
