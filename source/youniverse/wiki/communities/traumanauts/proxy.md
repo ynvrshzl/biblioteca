@@ -1,0 +1,1 @@
+For Traumanauts, a "Proxy" is an Imagined Persona

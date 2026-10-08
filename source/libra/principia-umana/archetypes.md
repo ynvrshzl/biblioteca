@@ -1,0 +1,25 @@
+Something fascinating about philosophy is that it is stereotypically associated with the armchair philosopher, this idea of a person who spends all of their time pondering about the seemingly mundane or self-evident qualities of life. I think that image of a philosopher is almost equivalent to the mathematician analyzing theorems endlessly and deeply without superficial implementability. But what most people don't understand about deep mathematical theorems is that when our foundations deepen, our understanding strengthens, just as the foundation of a structure. Of course, this has its intellectual analytical limits, and that's where philosophy and mathematics and even science need to gauge the depth of analysis via something that is inherently non-intellectual, and this is essentially ethics, morality, and the governing domains of how a person should conduct themselves in society. Now, what's fascinating about philosophy is that it's not exclusive to the gifted, isolated genius. In fact, philosophy is perhaps one of the only things that sustains a person through unexplainable metaphysical phenomena, or the very tragedies which present themselves in everyday life, such as the death of a loved one, or rejection, or trauma. This is where philosophy and religion and mythology intersect, in which the intellectual ability simply cannot calculate. And what's fascinating is that it appears that we experience most of daily life through a facade, and necessarily so because philosophy drills to the very depths of the human soul, so to speak, and much of its realities are painful or overwhelmingly powerful. It's almost as if it's more real, and that's essentially what metaphysics is. But what's fascinating about philosophy is that it's not exclusive to the armchair philosopher who spends hours a day pondering endlessly; once we are inevitably forced to pay attention to life, that is when we come to terms with the depths of our foundations and what we truly believe and regard as real and true and worth pursuing.
+
+
+
+The philosophers job, in that sense; is to pay attention where others do not. To question not merely "what is reality or what is truth" but to ask the right questions; "Where do we belong in the world, and what is true?" One must observe to pay attention; and to ask the right questions is to descend into the madness (Carl Jung is an exceptional example.) However, this essence of truth and order is often intangible and dangerous for the Psyche to hold (Seriously, Jung is a great example here, especially Nietzsche, whom ended terminally ill, and his life's work had an influence on his Deteriorating Psychological state.). 
+
+
+
+That is where The artist enters the stage; where the Philospher has excavated and found bedrock, the artist ascends to the surface and brings back images and the tangible. Whom captures that Philosphical observation and attention to the Mundane, and presents it into Tangible medium. 
+
+
+
+Where the Artist cannot understand the Theory or Logic behind the Art, the Theorist crafts understanding out of patterns and observation; a Philosopher of the Craft.
+
+
+
+Where the Theorist falls into Analaysis, The engineer establishes the Intellectual Analytica (Aristotle's Sophia) and Techne (craft, ability, skill) as Tools, Systems and Technologies. The Scientist develops improved methods for craft. The ethics halt the Scientist from destroying the world. Ethics coming from the Ancient Traditions; Not Science itself; The Theologian therefore argues for the existence beyond the Physical order of the Universe; of the Divine; the order of the Logos and of Moral Code. The skeptic questions these ideas or rules and argues logically and rationally. The cynic sees the harsh truth; the nihilist stops at the abyss; the soldier finds the fire beneath the sea; the Polymath finds the connections; the Synesthete (a person with Synesthesia) experiences interconnected Sensoria and crafts works of world-scale (many artists throughout history exhibited synesthetic or lucid-dreaming abilities. they fit roughly the same catogory of "abnormally sharp inner vividness."); and the Storyteller crafts scrolls of wisdom and experience for the next generation to continue onward. 
+
+
+
+It forms a beautiful continuity; a lifecycle of continous purpose and exchange; each archetype belongs serving a specific slice of the whole. I think this is a large part of what it means to be Human, and... I propose that the proper, ethical, worthwhile use of the Volatile Human Intellect begins with the Philosophical questions.
+
+
+
+The Human Intellect seriously is a Volatile space, and some are more Neurotic (tilting towards negative emotion) and prone to Isolation. That makes finding one's Archetypal Domain and Area of Expertise, all the more Integral to Eudaimonia.

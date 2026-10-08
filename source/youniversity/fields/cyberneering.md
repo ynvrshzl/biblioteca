@@ -1,12 +1,13 @@
 ---
 image: 
 status: 0
+icon: "hub"
+description: "Principles of Systems Design and Construction (Cyberneering)"
+title: "Cyberneering"
 ---
 
-Cyberneering
 
 Principles of Systems Design and Construction (Cyberneering):
-
 
 Principle 1: Structure
 

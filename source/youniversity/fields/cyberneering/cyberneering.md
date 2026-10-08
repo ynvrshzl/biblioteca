@@ -1,0 +1,1 @@
+When a project (cybernering,systmsss constructon) becomes so complex that is begins to fall apart, it needs a source of control (controller) a center of communication management such that the abstract elements of each system can be individually or partially studied and manipulated outside of their noise enviornment.
