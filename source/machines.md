@@ -1,0 +1,1 @@
+There are certain classes of problems that cannot be solved unless one explicitly develops the education machines necessary. In other words, if one does not learn "a + b = c", then the separate components will not unify into a transformation.
