@@ -1,0 +1,25 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+
+1, Not only is it difficult to focus on work, but it is difficult to manage time. And balance work with the rest of one's life. And focus on prioritized things, and know what is priotized. It is difficult to synchronize one's energy. A computer doesn't seem to make this issue any easier to solve either. Our Time management is dependent on Human-Energy management, and Energy management is dependent on . Ultradian-Cycles, Circadian-Rythym and Workload. This is essentially where "Ethoetics" attacks the problem from the central proposition of "Significance."
+
+2, Categorizing, specifically category theory, provides pragmatic, semantic links, which is effectively organizing information into categories and types, which is how we establish relevance; through the use of abstractionss (affordance?). Category theory is an example of abstraction as summation.
+
+3, Etheotics, "Σ", the study of quantifying and qualifying Significance. Significance is proposed as the central source of gravity in the Human-Being, The System, The Animal and the Machine. In this case, significance integrates several intersections of pragmatics: Meaning, function, use, context, purpose, priority and importance, as characteristics of a common prototype; "Significance." In the case of human life, Significance is qualified through inquiry of fundamental Domains: "What is it that I want to leave behind in this world, of value, that would make it a better place to exist in? Such that in the pursuit of this vision, the circumstances that may beset me, are justified?" 
+
+4, "Four essential Domains": Internal, External, Analytical, Practical. In essence, knowledge begins by an external phenomena or source in the natural world. We process this internally, via thought, imagination, memory or consilidation. This internal process is ideally either externalized, and processed as external practice again, and lastly, observed, analyzed or integrated into the lifecycle. 
+
+5, 
+
+6, The effectiveness of 'Archimedean Memory' is dependent on 'Association Bonds', at the time of consolidation. This is integral for the strategy, otherwise, numbers risk occupying the object of focus; when instead, the function of the number is as to provide a form of abstract aparatus for the real function; "Active Association", not typically built-into Human-working-memory. When an important memory is to be consolidated into these "Archimedean Plots", both the memory and the digit must be associated in Working-Memory to strengthen it's "Association Bond." The theory here, is that there are many more strategies we have yet to discover, to make the most of our natural Human abilities, even outside of any externalization or instrument.
+
+7, "Context Hops/Leaps/Jumps" are orthogonal to "Teleportation" in Thought-space. This is why the numbers in 'Archimedian Memory' are significant; they keep track of when and where thoughts or memory 'hops' into a new object. This is often where memories are inter-related somehow, and when backtracing; we can infer memories at consolidation time, via their orthogonal association leaps, otherwise known as 'Archimedian Hops.'
+
+8, Enviornments and Physiobiota are structually coherent and essential mirrors of one-another. This may explain why one often "forgets" seemingly important things outside of their associated enviornemnt. Emotions and memories do not inherently follow conscious biota change; internally or externally cued.
+
+9, Knowledge is as externalized Human-Memory. Knowledge that was once processed in Human-working-memory and Imagination. This suggests Knowledge and Human-Memory serve a larger function or purpose. So why do we externalize knowledge?
+
+10, Why is Science trusted? It is studying the natural world, but it is also studying it via empirical means; non-biased and rational. Still, Science often oversteps it's Domain into the Existential and Philosophical, most especially due to the irresponsible work of Scientists and public figures such as "Carl Sagan" and "Richard Dawkins", to name a few. Science at it's best, finds the cure of cancer in a little child, while Science at it's worst is nothing short of psycho...
+
+11, the same source can be represented and mapped in different forms. Language is one such example, while a map is another. They describe the same spatial setting, through completely perpendicular dimension and structural design. While a map provides visual but no narrative guidance, Language provides no tangible visual. This suggests that form is not the fundamental source of things; there is a kind of essence that is not possible to capture in any given form; only perspectives which sacrifice the whole for a fidelity. What's fascinating is that code is read as language, but is re-assembled in nonfinite forms; and those forms are programmable.
+
+12, Why is it so difficult to focus at the computer?

@@ -1,0 +1,3 @@
+It is precisely in the things we do not want to face that... we transform the most. This is true for most, if not, all conditions of life. 
+
+However, one may naturally ask 'if the structural nature of transformation requires pushing outside the known territory; should there not be a limit to what a Human being should withstand, whereas the religious implies we can indeed withstand?' I think that's the terminus argument; this is where the philosophies of nihilism and altruism emerge; as a question of limits of suffering and endurance.

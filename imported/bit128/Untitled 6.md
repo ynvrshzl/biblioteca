@@ -1,0 +1,3 @@
+Propostiion: we can do extraodrinarily difficult things; but there is a PHysiological languae, especially at teh Neurological level; which makes this ability sustainable and even propogate and improveable.
+
+The idea is that; a slow confrontation with te....

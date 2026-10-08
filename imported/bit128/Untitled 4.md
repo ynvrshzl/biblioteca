@@ -1,0 +1,1 @@
+Crisises are often unbearable in isolation; yet meaningful in community.

@@ -1,0 +1,1 @@
+Beliefs architecture... instrinsic/subconscious (what we do not actively think of, but influences) extrisncic, and tangential (what we actively ohold in conscious working memory as an object...)

@@ -1,0 +1,1 @@
+A hypothesis or theory; for the Human being, everything is atleast partially incomplete; and by design. We must derive context clues to know a thing.

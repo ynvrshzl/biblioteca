@@ -1,0 +1,1 @@
+Dr. Karl Tobias Engelbart, once a Scientist, reclused by the illness of his granddaughter, constructed "The Telekinetica" a mathematical-computation-machine which allowed him to perform "Telekinesis" to study the Literature in the great "Biblioteca Babel", Youniverse and find a cure for Elaine, his grand-daughter.

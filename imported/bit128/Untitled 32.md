@@ -1,0 +1,3 @@
+Often, I think in highly abstract terms; not for intellectual sake, but to understand the essential invariants of thought-objects (problems, ideas, memories, work, etc.) Yet, abstraction is a deceptive function of summation; simplicity. Abstraction requires Prototype-theory; identifying common characteristics in classes of phenomena.
+
+This is often incredibly complex, since we are operating at high levels of active working memory brain power. However, this high-level power, 

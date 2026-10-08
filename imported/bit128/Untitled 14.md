@@ -1,0 +1,1 @@
+"If you truly desire to ascend beyond our human form; you will go through a passage of time; where even time itself will halt. An emptiness; a void of suffering. For in isolation, we become formed, as gems formed from immense heat and pressure; and time. For the glory of the Logos."

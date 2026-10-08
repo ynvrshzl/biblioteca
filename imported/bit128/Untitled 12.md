@@ -1,0 +1,3 @@
+God shapes us through three languages; endurance, faith and pressure. A tree needs strong roots to grow; those roots must be deep beneath the earth before the tree can grow heavenwards. A diamond needs pressure or it won't be everything it could be, and a desert; isolation, is what reveals the true invariants; what truly matters when all is burned away.
+
+Even if one does not believe in the Benevolent Designer; the ideas remain true at structural level.

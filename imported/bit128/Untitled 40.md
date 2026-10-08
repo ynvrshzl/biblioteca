@@ -1,0 +1,1 @@
+"There is always an eye in the storm/the storm always has an eye." - Lawrence.

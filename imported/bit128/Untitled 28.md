@@ -1,0 +1,1 @@
+Lawrence warned Jacquees, "You are doing something terrible to the students at campus. Who are you to define what reality is?" Jacquees' soft-spoken, melancholic whisper: "I believe you have suffered a great deal in your life, yes?"

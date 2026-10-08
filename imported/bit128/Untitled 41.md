@@ -1,0 +1,1 @@
+"They think I am merely a philosopher... they have not seen what I have seen." - Lawrence.

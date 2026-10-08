@@ -1,0 +1,1 @@
+Phenomenology is missing the Empirical grounding of the Sciences and Psychology, while Unifying the epics of Mythology, Philsoophy and Faith. Phenomenology may benefit from the following: a general template to gauge, not one's personality (this is exhaustive and often non-conclusive in psychology), but how one 'experiences' the life through one's eyes.

@@ -1,0 +1,3 @@
+Cryptocosm
+
+The belief that the Universe has been designed by a designer or intelligent force, and all of it's issues are as cryptic puzzles to solve. The closer we get to source, the more real increases, and the more sterngth we nmeed...

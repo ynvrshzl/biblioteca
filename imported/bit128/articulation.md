@@ -1,0 +1,1 @@
+The power of articulation in speech is the power to express the Phenomenological essence; the essence or the 'substance' is most especially true to Phenomenology; how we experience, interpret and process life as we see it.

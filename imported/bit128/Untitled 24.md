@@ -1,0 +1,1 @@
+She asks "where do the voices in my head come from?... if they aren't me... who are they?" Dr. Vira looks at the floor.

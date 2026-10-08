@@ -1,0 +1,1 @@
+I'm realizing; There is a huge gap between experience, and recording. Between ideas and processing. 

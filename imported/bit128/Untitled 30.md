@@ -1,0 +1,1 @@
+The Youniverse stories are largely assembled as lore; inspired by the Mythos of Diablo 3. Steering away from, while respecting; the Sacred, Divine and Religion, minus Dogma.

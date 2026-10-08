@@ -1,0 +1,1 @@
+Imagine the thing you explicitly do not want to happen; ends up happening. One may eventually associate learned helplessness

@@ -1,0 +1,1 @@
+all systems are in a war to  escape or strategize the storms of entropy.

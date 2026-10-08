@@ -1,0 +1,1 @@
+Combinatorial explosions and Potentiality is symbolized in the Youniverse via manifold forms; From celestial storms to headaches.

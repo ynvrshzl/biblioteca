@@ -1,0 +1,1 @@
+There is an order (logos) to the Universe; and if one conducts themself properly; it will reveal itself to you.

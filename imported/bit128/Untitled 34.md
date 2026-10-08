@@ -1,0 +1,1 @@
+each gpt/claude/llm discussion is an artifact. each artifact requires relevance/context in order to be useful. one cannot re-read or integrate every conversation into public work.

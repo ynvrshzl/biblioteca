@@ -1,0 +1,1 @@
+"Good is the entity, Evil is only existent in as far as it is a defect... a derivation of the Divine Law. It is our moral duty to reconcile what has been disobeyed... what has been sacriledged", Lawrence.

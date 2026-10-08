@@ -1,0 +1,1 @@
+A Zettelkasten presents knowledge as-is; as it is concieved. While categorization and hierarchies are important for orientation; the narrative is what walks through the nonfinite. Both systems must work together sycnrhonously.

@@ -1,0 +1,1 @@
+"Shgua" n. "A Physiological state of extreme irritability with the inability to make decisions, nearing the edge of unbearable. Often only cureable via outside."
