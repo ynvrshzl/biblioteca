@@ -299,7 +299,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "H"
+      "key": "F10"
     }
   ],
   "editor:open-search-replace": [
@@ -316,21 +316,61 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "F12"
+      "key": "S"
     }
   ],
-  "editor:set-heading-6": [
+  "app:open-another-vault": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "6"
+      "key": "."
     },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:set-heading-6": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "6"
     }
-  ]
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "\\"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:save-file": []
 }

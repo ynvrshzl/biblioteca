@@ -7,30 +7,35 @@
     --cards-padding: 5px;
     --cards-margins: 3px;
     --cards-image-fit: cover;
-    --cards-shadow: 0 0px 5px rgba(0, 0, 0, 0.1);
+    --cards-shadow: 0 5px 15px -2px rgba(0, 0, 0, 0.1);
 }
 
 .theme-dark {
     --cards-background-color: var(--color-base-30);
     --cards-outline: 1px solid var(--color-base-20);
 }
+
 .theme-light {
     --cards-background-color: var(--background-primary);
     // --cards-background-color-hover: var(--background-primary);
     // --cards-outline: 1px solid var(--text-faint);
 }
 
+.cards.cards-1-1 {}
+
 .cards.cards-1-1 table.dataview tbody tr td,
 .cards.cards-square table.dataview tbody tr td {
     vertical-align: middle;
     align-items: center;
     align-self: center;
-    
+
 }
+
 .cards table.dataview tbody tr td {
     // line-height: 1;
     // margin-block: 0 !important;
 }
+
 .cards table.dataview tbody tr td .cm-iconize-icon {
     // opacity: .5
     color: var(--text-muted);
@@ -74,7 +79,7 @@
 
 .cards.cards-square table.dataview tbody,
 .cards.cards-1-1 table.dataview tbody {
-    --cards-min-width: 220px;
+    --cards-min-width: 150px !important;
     grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
 }
 
@@ -94,9 +99,9 @@
 // so it's easier to tell which card is active
 // especially when selecting another window on the os
 .cards table.dataview>tbody>tr:has(:focus) {
-    outline: 1px dashed blue;
-    outline-color: var(--color-orange);
-    outline-offset: -1px;
+    // outline: 3px dashed blue;
+    // outline-color: var(--color-orange);
+    // outline-offset: -1px;
 }
 
 .cards table.dataview>tbody>tr {
@@ -105,10 +110,16 @@
     flex-direction: column;
     margin: var(--cards-margins);
     padding: var(--cards-padding);
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: var(--cards-background-color);
     box-shadow: var(--cards-shadow);
+    overflow: hidden;
     outline: var(--cards-outline);
+    // border: 1px solid var(--color-base-00)
+}
+
+.cards table.dataview tbody>tr:has(a:hover) {
+    outline: 3px solid currentColor;
 }
 
 .cards table.dataview tbody>tr:has(img) a:only-of-type {
@@ -141,17 +152,21 @@
     // background-color: var(--background-secondary);
 }
 
-
 // only show a background color for the a table with a single card
 // .cards table.dataview tr:only-of-type,
 .cards table.dataview tr:hover {
     background-color: var(--cards-background-color);
-    transform: scale(1.03);
+    transform: translateY(-5px);
+    --cards-shadow: 0 15px 25px  rgba(0, 0, 0, 0.25);
+    outline: 1px solid #ffffff22;
+    z-index: 9;
     // --cards-outline: 3px solid var(--color-base-25);
 }
+
 .cards table.dataview tr {
-    transition: transform .3s ease;
+    transition: transform .3s ease, box-shadow .2s linear;
 }
+
 .cards table.dataview thead {
     display: none;
 }
@@ -247,12 +262,37 @@
     grid-template-columns: repeat(auto-fit, minmax(var(--cards-min-width), 1fr));
     grid-column-gap: var(--cards-margins);
     grid-row-gap: var(--cards-margins);
-    
-    grid-auto-flow: column;    /* Force items to flow left to right in a single row */
+
+    grid-auto-flow: column;
+    /* Force items to flow left to right in a single row */
     grid-auto-columns: minmax(var(--cards-min-width), 1fr);
-    
+
+}
+
+.cards.grid table.dataview tbody:has(tr:nth-child(2)) {
+    grid-auto-flow: unset;
+    --cards-min-width: 250px;
 }
 
 // .cards table.dataview tbody:has(tr:nth-child(2)) ::-webkit-scrollbar {
 //     background: red !important;
 // }    
+.cm-html-embed td:has(img),
+.markdown-rendered td:has(img),
+.cm-html-embed th:has(img),
+.markdown-rendered th:has(img) {
+    padding: 0;
+}
+
+.cards table.dataview tbody>tr td:not(:has(img)):nth-child(2) {
+    margin-top: 1em
+}
+
+.cards table.dataview tbody>tr td:not(:has(img)) {
+    padding: 2px 15px;
+    // background-color: red;
+}
+
+.cards table.dataview tbody>tr:has(img) {
+    --cards-padding: 0;
+}
