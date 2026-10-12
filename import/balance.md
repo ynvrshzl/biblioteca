@@ -1,0 +1,3 @@
+If there is anything Dawn Zen's story should teach, atleast agnostically, not atheistically, is that everything in the Universe exists in accordance to or against a balance. Balacne itself is what keeps things from decaying, and the natural order of all things is chaos and disorder.
+
+"Why does the rational being think like a machine? Yet without rationale, we would be as the animals... so what separates us? My friend..."
