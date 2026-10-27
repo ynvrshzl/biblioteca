@@ -1,0 +1,1 @@
+The phrase "you can create your own reality" or "perception is reality" is not entirely fallible; this is one half of the basis of Physiobiota; the study of Human-active-internal-enviornments and the Phenomenology of Biology, Psychology and Neuroscience
