@@ -1,3 +1,3 @@
-Credits
+$$\sum \rightarrow \infty$$
 
-"Bibliotheca" project source markdown repository files for the "Bibliotheca" project, authored by "Hazl, Lzah."
+Context: "Bibliotheca" project source markdown repository files for the "Bibliotheca" project, authored by "Hazl, Lzah."

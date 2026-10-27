@@ -40,7 +40,7 @@
     "editor:indent-list"
   ],
   "mobileQuickRibbonItem": "homepage:Open homepage",
-  "openBehavior": "",
+  "openBehavior": "file:README.md",
   "settingsPopoutWindow": false,
   "focusNewTab": false,
   "pdfExportSettings": {
