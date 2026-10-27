@@ -1,1 +1,0 @@
-This leads us to a fascinating belief; minimalism. We see more with less.

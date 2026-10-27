@@ -1,1 +1,0 @@
-The traumanaut was exhausted of depression... "this... this is what it feels like to be one of them? Those poor kids" finally said "I want to feel alive... give me it..." person-b says "are you sure?..." 

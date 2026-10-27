@@ -1,1 +1,0 @@
-In the Youniverse, Hell is represented as an endless world of death. Tombstones or carcasses or corposes (perhaps this is too extreme) atleast shell of the life that could have been (this is far more tragic and less explicit, much more imaginative and aligned with Youniverse values.)

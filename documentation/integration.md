@@ -1,1 +1,0 @@
-Integration to adjacent projects, (web-project coming soon...)

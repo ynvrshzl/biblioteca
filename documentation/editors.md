@@ -1,1 +1,0 @@
-Reccommended editors for this project include: Obsidian, Visual-Studio-Code and Neovim.

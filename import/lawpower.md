@@ -1,1 +1,0 @@
-The superpower of Lawrence is "Chaos (inspired by lorenz-attractor-chaos, life-is-strange time-travel mechanics, detective aesthetics...)" where he can "synesthetically see" time and space and events as paralells. When he was a little boy he believed he was cursed, but only after finding his Ikigai, he discovered where his curse was needed most; it was truly a blessing.

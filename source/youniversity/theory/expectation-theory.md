@@ -1,1 +1,0 @@
-Models of Expectation are incredibly powerful Phenomenologically. Perpaps, formalized as a subset of predictive-processsing Human Neurology. An Expectant can be either of + postiively-charge or - negatively charged.

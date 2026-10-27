@@ -1,3 +1,0 @@
-I believe there should be a holiday, or a daily practice, of simply acknowledging just how difficult it is to be alive, and to be Human. Our body and brain goes through so much unbelievable complexity; more than we will ever know... just to keep us alive. Atop the very surface, is our ability to experience, perform and process; Consciousness. Beneath the surface, is the Conscience; from within the innermost depths of the Sub-conscious and the Unconscious.
-
-I believe this is extraordinarily important because when we suffer, there is a sour recognition of our Facade and daily hustle; we often live as if we need to...(best?)

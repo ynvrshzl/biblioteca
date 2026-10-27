@@ -1,5 +1,0 @@
-In continuation to Scientific Atheism; Philosophy and Science merging is precisely why Isolated Intellectualism is not only harmful; but implies self-defeating circular illogical dead-end arguments; leading nowhere. A 'cul-de-sac' in intellectual packaging.
-
-The final argument to Sollipsism; The fatal flaw of Sollipsism: "Sollipsism assumes only the mind is known and nothing outside is evident." Interesting, we have 4 variables; nothingness, mind, outside, and evidence. This is actually formalizable into Philosophy; Epistemology, the philosophy of Knowledge,
-
-"Nothing is fundamentally known. Everything is in some sense, unknown or partially known. There is no evidence that the mind itself is real... (or) there is no evidence the mind is self-complete; nor that we live in a simulation; nor that multiverses are real "

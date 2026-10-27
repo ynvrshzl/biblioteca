@@ -1,1 +1,0 @@
-"We confuse voracity for the world, with love... not realizing that the smallest things are often the most precious in their weight, not volume."

@@ -1,6 +1,0 @@
-In Lawrence's age of Law, "The Final Argument" became known as "The Terminus: The Final Argument." Discussing all the mysteries of life, eventually converging onto the same set of suppositions: Designed or Not Designed. By Whom? This is when Law must make a decision: In lack of evidence and support for faith, how may he present his arguments clearly without overstepping either-or?
-
-
-This is where he ingenuionsly adopts a superposition: neither black, white nor grey; something else entirely: and something entirely undeniable: Duty. 
-
-*"Whether the Sollipsists are correct, or whether there is such a thing as purpose, I know of but one thing; Man has duty to those his life rests on the hands theirof. The undeniable truth, is the that of cause-and-effect. Neither mind, nor soul, nor body nor machine can escape the Law, the Law of Physics, and of this Youniverse. The Law of Ethics. The Law of Morality. The Law of Duty. It is there where one will find reason, or purpose, if there is such a thing, it will make itself apparent in such a way no lexeme of any length, can quite capture. Whether the metaphysical or material is not nearly as relevant as that which appears forth; Phainos, 'Phenomena.'" &mdash; Lawrence*

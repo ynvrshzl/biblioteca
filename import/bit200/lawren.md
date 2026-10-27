@@ -1,2 +1,0 @@
-
-"May I concur, rather candidly... that if we were to somehow know God is real... Our very Psyche would collapse. The same is to be said for "Satan", the Adversary of God and of Humankind. Within the heart of Man however... is the Timeless War... between what we know and what we do not (Episteme)... between what we know is good, and what is wrong... "
