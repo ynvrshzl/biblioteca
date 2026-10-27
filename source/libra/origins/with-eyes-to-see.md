@@ -1,0 +1,1 @@
+Lex opens his eyes and the first thing that draws his attention is his hands. He had never seen his hands before... (he does not cry) "This... body... can experience so much pain... why does this body go through so much pain?"

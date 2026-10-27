@@ -1,0 +1,1 @@
+Source-query-and-interface (SQI)... A query presents an affordance of information-type. This means, we are not wrestling with combinatorial aeshtetics; but solving problems of retrieval and navigation in information space.

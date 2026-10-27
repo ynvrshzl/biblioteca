@@ -1,0 +1,1 @@
+Just like there are parts of us that only awaken when tested; there are parts of systems that only reveal themselves when they are implemented on-field. This is a core theory in Grammatica's lexical development

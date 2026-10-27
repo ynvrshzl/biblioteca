@@ -1,0 +1,1 @@
+2, The reason I am fascinated by the development of calculus and mathematics, is becuase I realize if one understands how subjects, languages and fields develop, one can understand how to construct their own such materials, which is incredibly useful for solving specific classes of problems. This should be formalized as a field of study itself.
