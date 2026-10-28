@@ -1,6 +1,12 @@
+---
+title: "Asset Theory"
+---
+
+## Applications in Programming (Principia Cybernetica)
+
 If programming languages would eventually (invariantly/inevitably) evolve into higher level "asset interfaces"... i think technology today would be far more robust and maintainable into the future... (however, that is a thread for another discussion)
 
-Why aren't templates emphasized enough in software today?
+**Why aren't templates emphasized enough in software today?**
 
 For example, implementing basic sort algorithms (computer-science), pan-zoom (gui), and basic search engines (which would impelment lower-lever primitive templates...) are all common systems... and yet, we are often re-creating them. The strangest part of this phenomenon; is how other areas of software technology have already implementing "shared source" (github/npm packages distribution and versioning, for example) and "template" systems (github templates, code snippets, even boilerplate)
 

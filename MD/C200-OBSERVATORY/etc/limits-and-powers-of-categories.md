@@ -7,7 +7,7 @@ Language exhibits two fundamnetal architectural ideas: Categories and Hierarchie
 
 ### 1.1 - What is a Category?
 
-What are Categories? This is explored further in [Category](md/extern/Category.md)
+What are Categories? This is explored further in [Category](MD/C200-OBSERVATORY/cyberneering/Category.md)
 
 ### 1.2 - What are Hierarchies?
 
@@ -17,6 +17,6 @@ If Categories help establish fixed points in complex information space, why do w
 This is precisely the issue: There are an indefinite amount of arrangements for Categories[^1]
 
 ## 3.0 - Possible Conclusion 
-In essence, we do not "categorize" language... Hierarchies occupy the role of Inferrence, most likely due to [Prototype Theory](md/extern/prototype-theory.md)
+In essence, we do not "categorize" language... Hierarchies occupy the role of Inferrence, most likely due to [Prototype Theory](MD/world/prototype-theory.md)
 
 [^1]: Citation needed
