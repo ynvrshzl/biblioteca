@@ -9,7 +9,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx live-server --no-browser"
+    "sass@compile": "npx sass src/scss/_index.scss:style.min.css --style=compressed --quiet",
+    "sass@watch": "npx sass src/scss/_index.scss:style.min.css --style=compressed --watch --quiet",
+    "start": "npm run sass@watch & npx live-server --no-browser"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/ynvrshzl/biblioteca/issues"
   },
-  "homepage": "https://github.com/ynvrshzl/biblioteca#readme"
+  "homepage": "https://github.com/ynvrshzl/biblioteca#readme",
+  "dependencies": {
+    "sass": "^1.106.1"
+  }
 }

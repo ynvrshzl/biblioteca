@@ -1,11 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biblioteca</title>
+    <link rel="stylesheet" href="style.min.css">
+    <script type="module" src="./main.js"></script>
 </head>
+
 <body>
-    <h1>Biblioteca SPA</h1>
+    <main class="application web shell frame layout grid">
+        <!-- nav -->
+        <nav class="component size-[slim] flex horizontal">
+
+            <button type="button">M</button>
+            <span>&Sigma;</span>
+            <button type="button">M</button>
+        </nav>
+        <!-- header -->
+        <header class="component size-[slim] flex horizontal">
+            <span>Left</span>
+            <span>Title</span>
+            <span>Right</span>
+        </header>
+        <!-- ui:component -->
+        <aside class="collapsible panel collapsed" role="left">Left panel</aside>
+
+        <!-- article -->
+        <article class="web-component">
+            <!-- ui:component/breadcrumbs -->
+            <div class="breadcrumbs component size-[slim] flex row">path &RightAngleBracket; to &RightAngleBracket;
+                article</div>
+
+            <!-- ui:component/header -->
+            <header class="sub-ui-component-section flex column">
+                <h1 class="title">Article title</h1>
+
+                <!-- ui:component/label -->
+                <span class="label">Properties</span>
+                <!-- ui:component/properties-table -->
+                <div class="flex table column properties component">
+                    <div class="flex horizontal row property"><span class="property key">Key</span> <span
+                            class="property value">Value</span> </div>
+                    <div class="flex horizontal row property"><span class="property key">Key</span> <span
+                            class="property value">Value</span> </div>
+                    <div class="flex horizontal row property"><span class="property key">Key</span> <span
+                            class="property value">Value</span> </div>
+                </div>
+            </header>
+
+            <!-- main reading content -->
+            <section class="width-[readable]">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium eligendi mollitia adipisci? Numquam
+                quae repellendus, error quas nostrum soluta quasi tempora, laboriosam esse recusandae reprehenderit
+                aspernatur aut molestias id asperiores?
+            </section>
+
+            <!-- footer -->
+            <footer class="sub-ui-component-section">
+                Citations, References, Etc.
+            </footer>
+
+        </article>
+
+        <!-- ui:component right side-panel -->
+        <aside class="collapsible panel collapsed" role="right">Right panel</aside>
+
+        <!-- ui:component footer -->
+        <footer class="component size-[slim] flex horizontal">Footer</footer>
+    </main>
 </body>
+
 </html>
