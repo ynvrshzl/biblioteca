@@ -1,0 +1,27 @@
+{
+  "name": "biblioteca",
+  "version": "0.1.0",
+  "description": "Biblioteca wiki project",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server --no-browser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynvrshzl/biblioteca.git"
+  },
+  "keywords": [
+    "wiki"
+  ],
+  "author": "ynvrshzl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynvrshzl/biblioteca/issues"
+  },
+  "homepage": "https://github.com/ynvrshzl/biblioteca#readme"
+}
