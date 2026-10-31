@@ -1,0 +1,3 @@
+3: General-Problem-Solving requires invariants, specifically, that a problem is defined explicitly. Implicit, ambiguous, or undefined categorical features, charactersitcis, qualities or details of a dillemma only worsen the likelihood of solution. However, this is where we encounter the first issue: Classes of problems require Categorically-defined strategies. Therefore, a general methodology is begining to emerge: 
+
+- String-class problems

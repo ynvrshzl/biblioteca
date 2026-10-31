@@ -1,0 +1,1 @@
+I think the most fundamental reality is not what we cannot percieve (perceptual boundary) nor what we cannot know (epistemology), but the integration of the established Domains (Health, Physiology, Friendship, Family, Work, Service, Purpose, Reason, Meaning, Ability, ...)

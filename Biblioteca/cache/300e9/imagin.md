@@ -1,0 +1,3 @@
+Human imagination is incredibly powerful; but power without control is volatile. And control without ethics is tyranny. 
+
+To our estimation, most of the Human condition is completely unmapped and unrecorded. Those who have wandered deep beneath the Abyss, the Underworld, or the Labyrhynths of the Mind... may understand precisely this odd ephemeral quality to Phenomenology. Yet, we lose terribly when we cannot examine and record the fleeting, for at the gates of time is the clockwork which can preserve the minutaie.

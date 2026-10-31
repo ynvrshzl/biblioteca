@@ -1,0 +1,1 @@
+3, In archimedian plot memory, there is a common issue; inability to assign plots at memory consolidation. In this case, a strategy is devleoped; sampling.

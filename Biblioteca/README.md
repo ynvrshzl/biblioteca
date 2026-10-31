@@ -1,0 +1,1 @@
+This directory contains source wiki files for the "Biblioteca" project

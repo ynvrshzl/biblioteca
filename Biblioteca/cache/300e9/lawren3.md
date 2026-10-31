@@ -1,0 +1,1 @@
+"Excavate. Keep going. But with strategy. Seek a solution for a problem deeply enough, and it's pressure may collapse onto you, but wait patiently, and the solution is surely to exist."
