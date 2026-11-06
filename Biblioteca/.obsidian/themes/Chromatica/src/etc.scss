@@ -174,9 +174,9 @@ body:not(.is-mobile) {
 
 .app-container {
 	padding: var(--app-padding);
-	background-color: var(--color-accent-2);
 	background-color: var(--color-base-50);
 	background: black;
+	background-color: var(--color-accent-2);
 }
 
 body.theme-dark .tooltip {

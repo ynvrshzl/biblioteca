@@ -8,6 +8,7 @@
     "days": "multitext",
     "tested": "checkbox",
     "refresh": "checkbox",
-    "topics": "multitext"
+    "topics": "multitext",
+    "date": "datetime"
   }
 }

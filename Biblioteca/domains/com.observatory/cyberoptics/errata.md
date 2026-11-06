@@ -1,0 +1,1 @@
+Phenomenologically, these are the common models of Errata (Continuity-break) [Comb-plosions](domains/com.observatory/cyberoptics/problems/Comb-plosions.md)

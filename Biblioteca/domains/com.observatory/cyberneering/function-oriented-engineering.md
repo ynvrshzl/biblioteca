@@ -13,7 +13,7 @@ FXNG assumes "Justified Complexities" are the source root issue of [Systems Entr
 
 ## Power
 
-In [cyberneering](domains/com.observatory/cyberneering.md)... "FXNG" is a Foundational System's Architecture, Strategy and Methodology for approaching Complex Scaling Systems, precisely whom are sensitive to initial conditions[^3] ...it's foundational effects on the scaling of a System. 
+In [Cyberneering](domains/com.observatory/Cyberneering.md)... "FXNG" is a Foundational System's Architecture, Strategy and Methodology for approaching Complex Scaling Systems, precisely whom are sensitive to initial conditions[^3] ...it's foundational effects on the scaling of a System. 
 
 
 ## Context

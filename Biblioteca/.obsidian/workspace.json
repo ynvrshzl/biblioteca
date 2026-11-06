@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7527a905aa42aff1",
+        "id": "ca2d0dcb24f8659e",
         "type": "tabs",
         "children": [
           {
-            "id": "b210b3222a57da2d",
+            "id": "100bb8843f6e03fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "domains/com.observatory/cplex/introduction.md",
+                "file": "cache/200e9/word-cartography.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "introduction"
+              "title": "word-cartography"
             }
           },
           {
-            "id": "c68bf35912c8f176",
+            "id": "dc76e407bb196f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "domains/com.observatory/cyberneering/Principles.md",
+                "file": "cache/200e9/t-theory.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Principles"
+              "title": "t-theory"
             }
           }
         ],
@@ -50,10 +50,10 @@
       {
         "id": "81a0996587f301de",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 44.94818652849741,
         "children": [
           {
-            "id": "9081b0a40d1a8a56",
+            "id": "8f9c1c08017d0a8d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -67,7 +67,7 @@
       {
         "id": "4881ef1473a4b7ef",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 55.051813471502584,
         "children": [
           {
             "id": "76922385c60e75a2",
@@ -76,7 +76,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5062789916992
+    "width": 393.2106189727783
   },
   "right": {
     "id": "03b11133b1e9fe8e",
@@ -150,21 +150,21 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "domains/com.observatory/cyberneering/Principles.md",
+                "file": "cache/200e9/t-theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -173,7 +173,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.4343964973605487,
+                  "scale": 0.49949097404653797,
                   "close": true
                 }
               },
@@ -212,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "domains/com.observatory/cyberneering/Principles.md"
+                "file": "cache/200e9/t-theory.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -237,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,45 +250,46 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "76922385c60e75a2",
+  "active": "43f37046a1357d69",
   "lastOpenFiles": [
+    "t-theory/introduction.md",
+    "t-theory/central-thesis.md",
+    "t-theory",
+    "cache/200e9/word-cartography.md",
+    "cache/200e9",
+    "cache/200e9/Untitled 1.md",
     "domains/com.libra/principia-anthropos.md",
-    "domains/com.libra/and-justice-for-all.md",
-    "cache/300e9/A2026-B-10-16-E1758-B0.md",
-    "cache/300e9/A2026-B-10-17-E2202-B47.md",
-    "cache/300e9/A2026-B-10-18-E032-B35.md",
-    "cache/300e9/A2026-B-10-18-E1526-B21.md",
-    "cache/300e9/chronos.md",
-    "cache/300e9/cybeneer3.md",
-    "cache/300e9/cyberner4.md",
-    "cache/300e9/A2026-B-10-18-E1604-B42.md",
-    "cache/300e9/A2026-B-10-18-E1954-B53.md",
-    "cache/300e9/Untitled 2.md",
-    "cache/300e9/A2026-B-10-18-E2239-B14.md",
-    "cache/300e9/cyber9.md",
-    "cache/300e9/A2026-B-10-18-E2329-B11.md",
-    "cache/300e9/expect-equi-amnesia.md",
-    "cache/300e9/yvrsaspcets.md",
-    "cache/300e9/fundaetndal.md",
-    "cache/300e9/cybnerign0.md",
-    "cache/300e9/ynvrs3.md",
-    "cache/300e9/divinity.md",
-    "cache/300e9/suffer.md",
-    "cache/300e9/irtiability.md",
-    "cache/300e9/A2026-B-10-20-E1208-B37.md",
-    "cache/300e9/cybderner2.md",
-    "cache/300e9/A2026-B-10-20-E1531-B34.md",
-    "cache/300e9/b3",
-    "cache/300e9/c8",
-    "cache/300e9/8c",
-    "cache/300e9",
+    "cache/200e9/t-theory.md",
+    "cache/200e9/pliroforetics.md",
+    "domains/com.observatory/cyberoptics/poly-directionality.md",
+    "domains/com.observatory/cyberoptics/poly-directionality/description.md",
+    "domains/com.observatory/cyberoptics/poly-directionality/protector.md",
+    "domains/com.observatory/cyberoptics/poly-directionality/system-vs-author.md",
+    "domains/com.observatory/cyberoptics/poly-directionality/effects.md",
+    "domains/com.observatory/cyberoptics/poly-directionality",
+    "research/Information-management-technologies.md",
+    "cache/200e9/invriants-of-alpha-and-omega.md",
+    "cache/399c2/introduction to etheotics knowledge and theory.md",
+    "cache/399c2/A2026-B-11-05-E1814-B45.md",
+    "cache/399c2/the logic archetype.md",
+    "cache/399c2/abilitis.md",
+    "cache/399c2/A2026-B-11-04-E2027-B35.md",
+    "cache/399c2/baefca83.md",
+    "cache/399c2/intellectual-domains.md",
+    "cache/399c2/justified-theory.md",
+    "cache/399c2/A2026-B-11-05-E1214-B25.md",
+    "domains/com.observatory/physiobiota/classes of stress.md",
+    "domains/com.observatory/Cyberoptics.md",
+    "research",
+    "domains/com.youniverse/vyra-lifest-ry39.md",
+    "cache/399c2",
+    "domains/com.observatory/cyberoptics/problems",
+    "domains/com.world/cybernetics",
+    "m-theory",
+    "domains/com.observatory/word-cartography/rules",
+    "domains/com.observatory/word-cartography",
+    "Pasted image 20261103221401.png",
     "Pasted image 20261031121113.png",
-    "domains/com.observatory/cplex",
-    "domains/com.libra/principia-anthropos",
-    "domains/com.observatory/cyberneering/articles",
-    "domains/com.libra/rebellion",
-    "domains/com.youniverse/groups",
-    "MD/world/philosophies",
     "Pasted image 20261027155754.png",
     "Pasted image 20261027155124.png",
     "Pasted image 20261027154608.png"

@@ -8,7 +8,7 @@
 	<!--- 3 column typography --->
 	<div style='display: flex; flex-direction: row; gap: 10px; font-size: 0.8em; text-align: justify; font-family: serif;'>
 		<div style=''>
-			<h2>Quid est Homo?</h2>
+			<h2>What is the Human Being?</h2>
 			<b> What is a Human Being?</b>
 			<p>Some emotions and physiological states are so powerful, they really beget oneself to ponder "is it all really just chemicals?"</p>
 			<p>It's almost as if one is shifted into a completely different world, metaphysically-speaking... a different reality. However, Physiobiota and</p>

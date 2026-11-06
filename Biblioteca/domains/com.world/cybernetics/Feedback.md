@@ -1,0 +1,1 @@
+In [cybernetics](domains/com.world/cybernetics.md)  and [[Control Theory]] "Feedback" is

@@ -1,0 +1,1 @@
+Stepwise vs. Sloped Functions, Describe the level of distinct contrast, within a given context of a System

@@ -1,1 +1,3 @@
 The phrase "you can create your own reality" or "perception is reality" is not entirely fallible; this is one half of the basis of Physiobiota; the study of Human-active-internal-enviornments and the Phenomenology of Biology, Psychology and Neuroscience
+
+The other half, is understanding that if we are can influence our physical condition, then there must be something beyond the Physical which exists. This is not to imply a Metaphysical proposition, rather, undersatnding the power of Human will, at the unknown intersections of Neuroscience, Psychology and Physiology.

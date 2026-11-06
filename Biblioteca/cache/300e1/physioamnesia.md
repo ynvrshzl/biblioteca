@@ -1,0 +1,1 @@
+Why do we take for granted even the most foundational of our lessons? Why does one repeat the same mistakes, only to wonder why they are stuck? Is this a form of Amnesia? Physioamnesia?

@@ -1,7 +1,9 @@
 # Cyberneering: 4 Laws of Systems Ontology
+
 The 4 Divisions or Domains of Systems Ontology 
 In essence, this is a Cyberneering Theory of: Essence, Function, Form and Affect.
 
+## Law 1: A System does not contain it's effects
 Anatomical Neuroscience somewhat proves this Paradox in Cyberneering, perhaps, *the* fundamental paradox of all Systems: No system can reveal meaning, consequences or even it's own internal behaviors, merely as a consequence of observation. This implies knowledge and information itself is in some sense, "dead matter", until it is operationalized, distinguished and organized via value.
 
 A System emerges from Relata. Isolated parts, units or even wholes, do not revael Synergy nor Emergent behavior; which is dynamic, ever-changing, and consequentially, includes epistemic, unknown protocols.

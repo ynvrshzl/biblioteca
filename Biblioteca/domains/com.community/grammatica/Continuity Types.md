@@ -1,0 +1,1 @@
+In [grammatica](domains/com.community/grammatica.md) types of Continuity are in essence, Observations of different kinds of Human Cyberoptic processing witihin Systems and Complex Information. Within these Types, [Discrete Continuity](domains/com.community/grammatica/ctypes/Discrete%20Continuity.md) and [[String Continuity]]
