@@ -1,3 +1,5 @@
+"General-Problem-Solving" or (p-theory)
+
 Problem-solving Theory (p-theory): A comprehensive, fundamental study of Problem Solving and Real-world Applications
 
 

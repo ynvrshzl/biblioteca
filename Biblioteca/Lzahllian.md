@@ -1,0 +1,1 @@
+The "Lzahlian" method is captured and founded on [etheology](etheology.md)
