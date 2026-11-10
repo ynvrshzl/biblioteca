@@ -1,2 +1,0 @@
-From the Authoring perspective, Poly-directionality is a terrifying force which often paralyzes our abilities. While a System needs Polydirectionality in order for Higher-forms of power to emerge.[^1]
-[^1]: Citation & Further needed

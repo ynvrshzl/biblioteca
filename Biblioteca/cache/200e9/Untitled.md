@@ -1,3 +1,0 @@
-One of the strangest, unexamined parts of Human Nature...is that we have an unexplainable instinct for what we cannot comprehend; this is perhaps what Consciousness is... not awareness of what is, but awareness of our limitations (...?)
-
-Among these, the most freighteining instinct is the metaphysical; that something exists beyond the Mundane. Even perhaps, the Physical. However, this work strictly avoids the Metaphysical realm, as it is difficult to properly explore without Dogma.

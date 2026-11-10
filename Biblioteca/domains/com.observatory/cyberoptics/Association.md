@@ -1,1 +1,0 @@
-Associations are the tiniest fundamental building blocks of Communication in Cyberneering Systems.

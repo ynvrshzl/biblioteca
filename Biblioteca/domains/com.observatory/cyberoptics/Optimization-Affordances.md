@@ -1,1 +1,0 @@
-In [Cyberoptics](domains/com.observatory/Cyberoptics.md) "Optimization Affordances" exist at any given [Cyberoptic-Junction](domains/com.observatory/cyberoptics/Cyberoptic-Junction.md)

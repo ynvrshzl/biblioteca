@@ -1,1 +1,0 @@
-"Choose a stable foundation over cutting-edge efficiency."

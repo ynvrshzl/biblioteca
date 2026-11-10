@@ -1,1 +1,0 @@
-In [Cyberoptics](domains/com.observatory/Cyberoptics.md) a "Satisfactory Product" is... the point where [[domains]] 

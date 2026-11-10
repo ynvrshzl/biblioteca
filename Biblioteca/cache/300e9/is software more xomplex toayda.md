@@ -1,3 +1,0 @@
-Is the modern web making computer engineering more abstract
-
-let's compare what it was like to design complex computer software (on the level of blender, urneal-engine and proprietary systems.) As compared to the modern enviornments (Electron, Tauri, Web-development, Mobile-app-market, etc.) Perhaps this is the wrong comparison as it is categorically parallel; C++ and Qt are about as ergonomic as the last generation had managed for building software. What came of it? What realworld problems did the software libraries afford?

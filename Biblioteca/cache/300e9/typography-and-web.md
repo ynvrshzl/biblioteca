@@ -1,1 +1,0 @@
-HTML and modern web content is actually inspired and rooted in Typography of the 18th and 19th Centuries. Studying Typography and Newsletter Editorial content can help drastically change the medium of message... once we stop treating the page as a linear space, and as a canvas, it becomes something like a chalkboard.

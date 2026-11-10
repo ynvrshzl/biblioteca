@@ -1,3 +1,0 @@
-The classical important exercise and model in Cyberneering combines all Information Spaces and Domains: Episteme, Techne, Phronesis, Praxis, Sophia, Intellectual Phenomenological, Ethical, Structural, Functional, Form, 
-
-"How is a Computer built?" From transistor to music, what is the story of the inconceivable gaps between? How does a person decide what step is next, when a Computer does not yet exist? When no reference model exists? How does Math integrate with the Physical? How does Language integrate the unmanageable?

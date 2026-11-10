@@ -1,1 +1,0 @@
-"To remain calm, while under the pressures in this life... that is the way of the Zenin, The way of Zen."

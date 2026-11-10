@@ -1,1 +1,0 @@
-Continuity is essential. It's definition is: as long as one know what parts connect to where (role-inferrence), there may be no necessary limits to how far we can extend our capabilities.

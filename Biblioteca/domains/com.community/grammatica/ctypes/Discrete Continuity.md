@@ -1,1 +1,0 @@
-Discrete-Continuity measures precise Junctions, Decisions or Details with resolution.

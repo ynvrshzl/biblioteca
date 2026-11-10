@@ -1,1 +1,0 @@
-The antidote to Polydirectionality is Unidirectionality or; Single-channelled vision. This is precisely where Cyberoptics develops it's Central Thesis. 

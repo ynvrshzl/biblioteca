@@ -1,1 +1,0 @@
-The Scientist wants to understand everything; but you epistemically cannot! Two questions: why does the Scientist naturally seek understanding and analysis, and two, why is it unecessary to know deeply?

@@ -1,3 +1,0 @@
-The fundamental power of computational programming lagngauges is translation and transformation; a language is, in essence, a translation between meaning and information, from one state to another.
-
-For example, we can convert the color "black" to a number "0", and the color "white" to a number "1". This is the essence of translation. The process of tarnsofmration is the consumption of this as a programmable element

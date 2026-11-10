@@ -1,1 +1,0 @@
-The "Proxy" is an Exoskeletal Psyche used by the [[domains/com.youniverse/groups/traumanauts]]

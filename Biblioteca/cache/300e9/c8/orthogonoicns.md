@@ -1,1 +1,0 @@
-The correct way to do things \*feels p[hysiolgoically] different... as if pieces click together, withiout ever knowing quite why... threads form fabric without designing a masterwork... synesthetically, this is alike to sound harmony; which explains the logo of field; a harmonic image of resonance and parallel synchrony.
