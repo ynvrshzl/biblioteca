@@ -1,0 +1,27 @@
+How did Wikipedia develop it's massive infrastructure; at the most abstract level of knowledge and authoring? Apart from it's deeply complex systems (wiki-syntax, interfaces, tools, web-editor, versioning-system, etc.)... what is of primary interest is the structure of the knowledge itself... becuase Wikipedia essentially models the "network-web" architecture, common in deep-knowledge-bases... i.e., Luhmann's Zettelkasten, is most likely a predecessor to the Wiki system.
+
+However, the backend implementation of data articles, is hidden behind the interfaces of authoring and reading... the backend is somewhat arbitrary since it is programmed and controlled via data... the Human Author almost never interacts directly with the database; but an affordance of such. That is where the Interface connects the data and view...
+
+The primary questions for Wikipedia's "non-linear infrastructure system" include the following...
+
+- Back-end concerns: How are links fixed if broken? Who enforces stable schemas to avoid malfunction? etc. These are mostly system-biased, and not essentially informative of the underlying structures of knowledge... they are however, important for the problem of sustainability and scaling
+    
+
+- Non-standard: If the system is stored and edited via an "associative web" model... isn't this going to scale unecessary exponential complexity? Aren't Hierarchies inevitable? Infact, when browsing Wikipedia, much of it's content is organized into tree-like, branching, grouped, collapsed categories... which changes the essential question of the Research Programme from "What is the closest source representation of knowledge and information" to "What model is Humanely sustainable, whilst maintaining scaleability into manifold future forms of representation, as knowledge evolves across time?"
+    
+- Hierarchies as Distributions of Power: Given the structural quality of Hierachies as Systems of Distributions of Powers (Branching, Tree-like... appearing in highly complex information systems... from language (etymology, inferrence, etc.), numbers (base-10, exponents, fractions, etc.), etc.)
+    
+- Prototype Theory (Main emphasis): Aren't Hierarchies inevitable? In essence, if an article exhibits characteristsics of multiple categories, is this necessary from the reader's perspective? From the Authoring experience (and personal Phenomenology), it is complex enough to categorize one item of information; let alone multiple items, in multiple categories. The noise floor is far too entropic; this is why items must carry a weight towards a bias; a category heavier than it's nearby orthogonal associations.
+    
+- Source vs View vs Data: Largely a CS topic... but this is essentially the invariants of study. Source of information and of knowledge, can be roughly classified into two categories: Information by Phenomena (Information as experienced) and Information by Record (Information as Recorded Knowledge.) View, is essentially where most of the complexity emerges; there are nearly endless arrangements of representations and categorizations for information, and the same can be said data-wise. However, as with Combinatorics, only a very few select combinations are useful, stable and scaleable; and this is the primary target of research: how are these stable combinations engineered? The Processual Engineering, in essence, of knowledge architecture (though this is most definitely a massive topic, deserving it's own discussion.)
+    
+- The primary problem in Knowledge-distribution-work: In some sense, constructing knowledge architectures is the art of categorization; which is a problem studied in Library Science, Information Science, (Information Theory perhaps too?), Prototype Theory, Category Theory, and related fields. Categorization itself is a highly complex problem, and will most likley require further research in separate discussions
+    
+- Taxonomy and Adjacent categorization fields: Essentially Categorize using Hierarchies... and Associations are shared features or details, rather than structural. I think this is how we naturally think about organizing and categorizing the world... even if Neurons are organized in webs and networks... we can't understand a system at the 3-dimensional scale... when we organize things into groups however, we can almost "walk" through complex systems through powers of distribution
+    
+- Associative Networks: Engineered, or Emergent? In some sense, from personal work, associations occur by necessity not by design... primarily supported by the previous point; networks of information are by definition, closer to it's source representation, yet much more Entropic.
+    
+- How do Authors organize articles and topics entirely by hand, given the non-hierarchical structuring of content?
+    
+
+If anything, I have noticed this is the primary power of Wikipedia: Communication. Everywhere on the site, whether banners, outlines, headings, menus, versions, talk-pages, ... are systems of Communication... almost all parts of Wikipedia's interface affords feature-by-necessity: Whether communication of article versions, topics, citations, revisions, user discussions, authoring, qualifying, etc... all of these features are essentially balancing the fragile Human visual senses: Visibility vs. Discovery vs. Exclusion (Which are primary concepts in UI/UX I believe... or perhaps Gestalt Psychology/Semiotics territory...)

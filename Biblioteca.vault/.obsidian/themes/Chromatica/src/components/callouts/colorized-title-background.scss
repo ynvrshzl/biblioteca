@@ -1,0 +1,18 @@
+
+.callout:not(.is-collapsed) .callout-title
+{
+    background-color: rgba(var(--callout-color), 0.1);
+}
+.callout:not(.is-collapsed) .callout-title-inner
+{
+    
+}
+.callout:not(.is-collapsed):hover .callout-title
+{
+    background-color: rgba(var(--callout-color), 1);
+    color: white;
+}
+.callout:not(.is-collapsed):hover .callout-title-inner
+{
+    color: white;
+}

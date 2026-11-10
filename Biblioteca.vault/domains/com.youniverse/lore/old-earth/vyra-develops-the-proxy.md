@@ -1,0 +1,3 @@
+Dr. Lana Vydish Vyra, through her odd psychological condition, was the first Scientist to develop "Proxy" technology; providing two key elements in [The War against Humankind](domains/com.youniverse/lore/old-earth/the-war-against-humankind.md) the ability to completely map and examine the Human body as a Cybernetic-Interface, and the [[domains/com.youniverse/lore/old-earth/proxy-exoskeleton]], which provided a shell for the [[domains/com.youniverse/groups/traumanauts]] to conduct otherwise, fatal tests, required to understand the Human Condtiion before the end of time.
+
+The first Proxy was born in Vyra's imagination: "What if I could overcome all suffering and all pain? All unknowns? Without exhausting my limited Human anatomy?"

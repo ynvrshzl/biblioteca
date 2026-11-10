@@ -1,0 +1,2 @@
+2026-10-31T11:03 
+- Renamed "Principia Umana" to "Principia Anthropos"

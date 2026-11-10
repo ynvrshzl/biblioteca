@@ -1,0 +1,28 @@
+button[aria-label*="current view: reading" i] svg,
+button[aria-label*="current view: editing" i] svg {
+    display: none;
+}
+
+button[aria-label*="current view: reading" i],
+button[aria-label*="current view: editing" i] {
+    margin: 5px;
+    padding: 0;
+    // box-shadow: 0 5px 8px 15px inset black;
+    
+}
+
+button[aria-label*="current view: editing" i]::before {
+    content: "Read";
+    padding: 5px 10px;
+    color: var(--text-on-accent);
+    background-color: var(--color-base-30);
+    border-radius: 5px;
+}
+
+button[aria-label*="current view: reading" i]::before {
+    content: "Edit";
+    padding: 5px 10px;
+    color: var(--text-on-accent);
+    background-color: var(--color-accent);
+    border-radius: 5px;
+}

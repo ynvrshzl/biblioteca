@@ -1,0 +1,11 @@
+@keyframes outline-color-pulse {
+    10%, 80% { outline-color: transparent;}
+    90% { outline-color: rgba(var(--callout-color), 1);}
+}
+.callout:not(:hover):not(.is-collapsed)
+{
+    outline: 3px solid transparent;
+    outline-offset: 3px;
+    outline-color: transparent;
+    animation: outline-color-pulse 3s linear infinite alternate-reverse;
+}

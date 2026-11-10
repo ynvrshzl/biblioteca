@@ -1,0 +1,1 @@
+I realized that I don't necessarily write these stories; I am ndersatnding more of the characters and their stories. This can only be true if they exist outside of my own imagination.

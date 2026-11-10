@@ -1,0 +1,7 @@
+.callout:not(.is-collapsed):hover
+{
+    outline: 5px solid red;
+    outline-color: rgba(var(--callout-color), .15);
+    box-shadow: 0 0 0 3px rgba(var(--callout-color), .5);
+    outline-offset: 3px;
+}

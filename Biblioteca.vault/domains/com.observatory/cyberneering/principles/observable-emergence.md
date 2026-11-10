@@ -1,0 +1,1 @@
+A system will emerge behavior, synergy, and relata that are not directly observable at the Physical level of the system.

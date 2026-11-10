@@ -1,0 +1,3 @@
+The intellectual battles of Lawrence vs. "... (jacquees?)" is essentially Science vs. Theism.
+
+It needs emphasis on the tragic element of Atheism; what actually happpppens to people when they believe in a cold, lifeless, indifferent universe. It essentially obliterates the deepest part of Human imagination; the existence of Potentiality. Which in some fundamental sense, is more real than real; it is hyper-realism/meta-realism

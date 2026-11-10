@@ -1,0 +1,3 @@
+1,2,...
+
+1, Human Memory is not only associative, but it is also attribute/prototype based. I realized this while attempting to recall a deeply buried memory, with enough salience and significance, that it should have been easily recalled, by on what we understand in Neuroscience about the General architecture of Memory in Anatomical Neural structures. However, the memory itself only had a single, faint quality; visual sensory data. Fascinatingly, by working through it's associations, i.e., actively recalling the nearby clusters of related memory, one was able to recall the missing pieces of information, and re-construct the whole. This suggests two things; memory as associative attributes, memory reconstructive prototype

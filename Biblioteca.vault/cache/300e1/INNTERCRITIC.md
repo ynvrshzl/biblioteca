@@ -1,0 +1,1 @@
+In the Younierse, the Inner Critic is the Arbiter/Archon between the Self, the Persona, the Facade and the Social world. 

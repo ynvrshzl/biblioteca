@@ -1,0 +1,50 @@
+// sidebar tabs: show text instead of icons
+.workspace-split.mod-horizontal.mod-sidedock .workspace-tab-header.tappable svg {
+    // visibility: hidden;
+    display: none;
+    --icon-size: 0.9em;
+}
+
+.workspace-split.mod-horizontal.mod-sidedock .workspace-tab-header.tappable.is-active {
+    --icon-color-focused: var(--text-on-accent);
+    --icon-color: blue;
+}
+
+.workspace-tab-header-inner .workspace-tab-header-inner-icon {}
+
+.workspace-split.mod-horizontal.mod-sidedock .workspace-tab-header-inner {
+    justify-content: start;
+}
+.workspace-split.mod-horizontal.mod-sidedock .workspace-tab-header.tappable:hover
+{
+    border-bottom-color: var(--text-faint);
+}
+.workspace-split.mod-horizontal.mod-sidedock .workspace-tab-header.tappable 
+{
+    --background-modifier-hover: var(--tab-background-active);
+    min-width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-inline: 5px;
+    border-radius: 0;
+}
+
+.workspace-tab-header-tab-list,
+.workspace-tab-header-new-tab {
+    -webkit-app-region: no-drag;
+    // display: unset;
+    z-index: 1;
+    align-items: center;
+}
+
+.workspace-split.mod-horizontal.mod-sidedock .workspace-tab-header.tappable::after {
+    content: attr(aria-label);
+    display: inline-block;
+    left: 0;
+    top: 5px;
+    font-size: .75rem;
+    clip-path: none;
+    pointer-events: none;
+    text-align: center;
+}

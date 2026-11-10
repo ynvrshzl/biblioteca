@@ -1,0 +1,21 @@
+.callout .callout-title {
+	font-size: 0.8em;
+}
+
+.callout-title-inner {
+	vertical-align: middle;
+	align-self: center;
+}
+.callout-fold {
+	margin-left: auto;
+}
+.callout-title {
+	--cursor: pointer;
+}
+
+.callout-icon {
+	display: none;
+}
+.callout {
+	border-radius: 0;
+}
