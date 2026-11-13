@@ -5,4 +5,3 @@
  * author: hazl
  */
 import './index/e83cb15a8cfe3.js'
-import './index/prototype.js'

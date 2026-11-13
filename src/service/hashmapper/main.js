@@ -11,7 +11,7 @@ import { tree } from "../../tree.js";
  * todo: moving to external stage api
  * todo: how do we access the content here?
  */
-const stage = tree.stage.qsmatch('.content');
+const stage = tree.stage.content;
 
 
 /**
@@ -37,11 +37,13 @@ function main(e) {
     /**
      * querying database to find matching entry reference so we can work with it's data programmatically
      */
-    const m = database.find((i) => i.title === hash);
+    const match = database.find((i) => i.title === hash);
 
-    stage.replaceChildren()
-    stage.innerHTML = m.content
-    // stage.txovr(m.content)
+    /**
+     * todo: moving to article/stage map!
+     */
+    stage.empt()
+    stage.txovr(match.content)
 
 }
 

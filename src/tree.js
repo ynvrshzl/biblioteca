@@ -2,29 +2,29 @@
  * type: gui-tree
  * description: builds the refernces main tree for application user-interface layout
  */
-import { html } from "../lib/com.webtools3/main.js";
+import { Element } from "../lib/com.webtools3/main.js";
 
 export const tree = {
     /**
      * description: shell
      */
-    shell: new html('main').cssq('application web shell frame layout grid'),
+    shell: new Element('main').cssq('application web shell frame layout grid'),
     /**
      * description: 
      */
-    header: new html('section').cssq('component size-[slim] flex horizontal'),
+    header: new Element('header').cssq('component size-[slim] flex horizontal'),
     /**
      * description: 
      */
-    nav: new html('nav').cssq('component size-[slim] flex horizontal'),
+    nav: new Element('nav').cssq('component size-[slim] flex horizontal'),
     /**
      * description: Main viewport content reading area of application
      */
-    stage: new html('article').cssq('web-component viewport stage'),
+    stage: new Element('article').cssq('web-component viewport stage'),
     /** 
      * description: footer...
      */
-    footer: new html('footer').cssq('component size-[slim] flex horizontal'),
+    footer: new Element('footer').cssq('component size-[slim] flex horizontal'),
     /**
      * description: panels
      */
@@ -32,11 +32,11 @@ export const tree = {
         /**
          * description: panel
          */
-        left: new html('aside').cssq('panel').attr({ role: 'left' }),
+        left: new Element('aside').cssq('panel').attr({ role: 'left' }),
         /**
          * description: panel
          */
-        right: new html('aside').cssq('panel').attr({ role: 'right' }),
+        right: new Element('aside').cssq('panel collapsed').attr({ role: 'right' }),
     }
 }
 
