@@ -1,3 +1,5 @@
-$$\sum \rightarrow \infty$$
+$$\sum$$
 
-Context: "Bibliotheca" project source markdown repository files for the "Bibliotheca" project, authored by "Hazl, Lzah."
+"Bibliotheca" project, authored by "Hazl, Lzah."
+
+Read [Architecture](docs/architecture.md) to understand the Systems Overview.

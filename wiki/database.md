@@ -1,1 +1,0 @@
-Central database store for Articles. Parsed via NodeJS Backend.

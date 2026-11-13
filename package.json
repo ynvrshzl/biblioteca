@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "sass@compile": "npx sass src/scss/_index.scss:style.min.css --style=compressed --quiet",
     "sass@watch": "npx sass src/scss/_index.scss:style.min.css --style=compressed --watch --quiet",
-    "start": "npm run sass@watch & npx live-server --no-browser"
+    "start": "npm run sass@watch & npx live-server"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,1 @@
+An Authoring Editorial Language build entirely for web technologies.
