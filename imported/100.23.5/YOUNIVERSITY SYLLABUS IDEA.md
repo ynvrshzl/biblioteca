@@ -1,1 +1,0 @@
-Most of our work currently consists of Theoretical sketches and Editorial Formatted content... but what if we had an actual series of lessons... of courses completely for free, online? The Diploma would not be a gimmick; it would be the knowledge that stays with you, shapes who you are, influences your actions (hopefully, entirely for the best.)

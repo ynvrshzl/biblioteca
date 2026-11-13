@@ -1,1 +1,0 @@
-Structure is the Precursor to Tangibility. Tangibility is how we as Human Beings probe the world; and how we define what is "Real" and Reality.

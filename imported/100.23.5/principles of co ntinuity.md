@@ -1,1 +1,0 @@
-Continuity and Spoken voice, thinking out-loud... Abstract Processing

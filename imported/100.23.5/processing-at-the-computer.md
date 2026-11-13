@@ -1,1 +1,0 @@
-If one cannot (or lacks of) the ability to think, reflect and process infront of a computer or workstation, then writing is perhaps the only method we know of where we can both; think/process while occupying symbolic space

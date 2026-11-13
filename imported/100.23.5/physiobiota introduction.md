@@ -1,3 +1,0 @@
-PHYSIOBIOTA INTRODUCTION
-
-"We know far too little of man." -- Carl Jung

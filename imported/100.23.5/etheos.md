@@ -1,1 +1,0 @@
-A field studying etheos; summary; 'e'; what matters most in human life? how do we know what is most imprtant? beleif? metaphysical?

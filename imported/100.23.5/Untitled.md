@@ -1,1 +1,0 @@
-"The most powerful Statistic, is Paying Attention, but unlike Economics, Attention is finite, and like time; You don't pay to get it back, it is a one-way-transaction."

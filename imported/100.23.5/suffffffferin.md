@@ -1,3 +1,0 @@
-Perhaps this may not solve the problem of pain and suffering as ontological elements of reality and the Human experience... but it is an attitude with profound, unknown rippling consequences:
-
-"When we suffer it is not in vain. Old parts of us die, and we scream holding onto our known becuase the Chaos of the Unknown is far too heavy to bear, but it is precisely what stands between Suffering in vain, and Suffering becuase it is part of something Greater we do not yet understand."

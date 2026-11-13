@@ -1,1 +1,0 @@
-The fundamental neuro/bio operation in Cyberoptics is Change. Infact, it may be the fundamental Operation of Systems... of Life.
