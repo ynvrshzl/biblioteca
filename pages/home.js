@@ -3,19 +3,14 @@
  * description: Homepage 
  * version: 0.1.0
  */
-import { html } from "../../lib/com.webtools3/main.js";
-import { database } from "../../lib/com.editor/database.js";
-import { tree } from "../../src/tree.js";
+import { html } from "../lib/com.webtools3/main.js";
+import { database } from "../lib/com.editor/database.js";
+import { tree } from "../src/tree.js";
+
+/**
+ * description: accessing ui
+ */
 const sidebar = tree.panels.left;
-
-
-
-
-
-
-
-
-
 
 /**
  * devlog: testing database
