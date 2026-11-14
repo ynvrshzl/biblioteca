@@ -1,4 +1,4 @@
-### In simplest terms, Continuity Break may result fundamentally from an abstract problem of equillibrium between implicit vs explicit relata. The more implicit information (loose parts/fragments) that are not addressed explicitly and linked back to the local Telos, the less signal in path. Continuity Breaks. As with most Cyberoptic concepts, this exists in a Continuum, often only reliably measurable from internal, Conscious...
+(section moved)
 
 The story begins by laying out foundational generational procedural elements to Phenomenological Focus and Coherence.
 

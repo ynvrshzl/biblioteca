@@ -44,7 +44,10 @@ function main(e) {
      */
     stage.empt()
     stage.cch(match.content)
-
+    tree.stage.header.title.cch(match.title ?? "No title")
+    tree.header.title.label.cch(match.title ?? "No title")
+    tree.header.title.img.attr({src: match.image ?? "https://placehold.co/1x1/lightgray/lightgray"})
+    
 }
 
 init();

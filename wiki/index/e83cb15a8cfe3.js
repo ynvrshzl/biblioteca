@@ -1,7 +1,13 @@
-import { Page, Cell, Element, Image, Header, Hyperlink } from "../lib.js";
+import { Highlight } from "../../lib/com.webtools3/main.js";
+import { Page, Cell, Element, Image, Header, Hyperlink, Description } from "../lib.js";
 
 new Page()
     .title(`Neuroframes`)
+    .properties({
+        version: '0.1.0',
+        status: 'editing',
+        image: 'https://images.pexels.com/photos/17483868/pexels-photo-17483868.jpeg?w=900'
+    })
     .body(
         new Element('center').c('Concept of "Neuroframes"'),
         new Element('img').attr({ src: 'https://images.pexels.com/photos/17483868/pexels-photo-17483868.jpeg' }),
@@ -10,7 +16,9 @@ new Page()
     ).write();
 new Page()
     .properties({
-        categories: ['philosophy']
+        categories: ['philosophy'],
+        version: '0.1.0',
+        status: 'editing',
     })
     .title('X-Theory')
     .body(
@@ -44,12 +52,19 @@ new Page().properties({
 ).write()
 
 new Page().properties({
-    title: 'cyberneering'
+    title: 'cyberneering',
+    version: '0.1.0',
+    status: 'editing',
 }).body(
     new Cell(`Cyberneering is the study of `)
 ).write()
 
-new Page().title('CyberopticChannels')
+new Page()
+    .title('CyberopticChannels')
+    .properties({
+        version: '0.1.0',
+        status: 'editing',
+    })
     .body(
         new Cell('The reason this is fundamental, is becuase it is precisely what makes Cyberoptics a "Visual" field; we cannot often see deep into the structures of information, yet they have profound implications on the way we navigate complex Systems and Life.'),
         new Cell('The primary problem in ').inlink({ href: '#/cyberoptics', text: 'Cyberoptics' }).c(' is tracking Relational Changes at Junctions. This is most common when making Decisions'),
@@ -57,11 +72,14 @@ new Page().title('CyberopticChannels')
     )
     .write()
 
-new Page().title('Cyberoptic-bioautomata')
+new Page()
+    .title('Cyberoptic-bioautomata')
+    .properties({
+        version: '0.1.0',
+        status: 'editing',
+    })
     .body(
-        new Element('center').chain([
-            new Header(1).c('Cyberoptic Bioautomata')
-        ]),
+
         new Header(2).c('1.1 Introduction'),
         new Cell(`The Cyberoptic machine is a hypothetical/abstract model measuring and displaying key areas of Cyberoptics: Human Abstract Reasoning (Working Memory Capabilities, Coherence)`),
         new Cell(`It is a fundamental Object of modelling and representation for the field of `).inlink({ href: '#/cyberoptics', text: 'Cyberoptics.' }),
@@ -103,11 +121,62 @@ new Page().title('Cyberoptic-bioautomata')
     ).write()
 
 new Page()
-    .title('Continuity-mechanics-by-writers-block')
+    .title('continuity-mechanics')
+    .properties({
+        version: '0.1.0',
+        status: 'editing',
+    })
     .body(
         new Header(1).c('The Mechanics of Continuity'),
+        new Element(`p`).c(`As made observable by Writer's block.`),
+        new Element('hr'),
+        new Header(2).c('1.0: Understanding Continuity'),
+        new Cell(`To understand Continuity, let's examine a real-life Scenario of a Classical case in `).inlink({ href: '#/continuity-break', text: 'Continuity Break: ' }).c(`Writer's Block.`),
+        new Description(`Read more about Continuity Break `).insert(new Hyperlink({ href: '#/continuity-break', text: "Here." })),
+        new Element('hr'),
+        new Header(2).c('1.1: Examining Writer\'s block'),
+        new Cell().chain([
+            new Highlight(`Summary`),
+            new Element(`span`).c(`Continuity is blocked by Iota-or-Micro Scale Focus.`),
+        ]),
         new Cell(`As soon as the writer focuses on the individual words, rather than the Telos; Continuity collapses.  `),
         new Cell(`This implies specific mechanics about how we Human Beings process Complex Information and maintain internal Coherence and Continuity. Two ideas:`),
         new Cell(` 1. Focus depends on scale (Only focusing on one scale of the world at a time) `),
         new Cell(` 2. Continuity is a Cognitive process, much like a bike requires Gyrocnetric Equillibrum (Sufficient baseline velocity) in order to stay upright and balanced, and avoid collapsing. In Cyberoptic terms, this collapse would essentially be `).inlink({ href: '#/errata', text: 'Eratta.' })
     ).write();
+
+new Page()
+    .title('cursor-theory')
+    .properties({
+        version: '0.1.0',
+        status: 'editing',
+    })
+    .body(
+        new Header(2).c('1.0 - Introduction'),
+        new Element('p').c(`Cursor Theory is a branch of `).insert(new Hyperlink({ href: '#/cyberoptics', text: "Cyberoptics" })),
+        new Element('h2').c(`Changelog:`),
+        new Element('li').c(`Cursor theory is now a unified object in Cyberoptics, alongside the "axis"`)
+    ).write();
+
+
+new Page()
+    .properties({
+        title: 'continuity-break',
+        version: '0.1.0',
+        status: 'editing',
+    }).body(
+
+        new Header(2).c('1.0 - Introduction'),
+        new Cell(`Continuity Break is... similar to `).inlink({ href: '#/errata', text: 'Errata' }),
+        new Header(2).c('2.0 - Causes of Continuity Break'),
+        new Cell(`In simplest terms, Continuity Break may result fundamentally from an abstract problem of equillibrium between implicit vs explicit relata. The more implicit information (loose parts/fragments) that are not addressed explicitly and linked back to the local Telos, the less signal in path. Continuity Breaks. As with most Cyberoptic concepts, this exists in a Continuum, often only reliably measurable from internal, Conscious...`)
+    ).write()
+
+new Page()
+    .properties({
+        title: 'errata',
+        version: '0.1.0',
+        status: 'editing',
+    }).body(
+        new Cell('Errata is...')
+    ).write()
