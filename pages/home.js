@@ -15,7 +15,7 @@ const sidebar = tree.panels.left;
 /**
  * devlog: testing database
  */
-new Element('p').txedit(`Database has (${database.length}) objects`).attach(sidebar);
+new Element('p').c(`Database has (${database.length}) objects`).attach(sidebar);
 
 /**
  * looping through database
@@ -23,7 +23,7 @@ new Element('p').txedit(`Database has (${database.length}) objects`).attach(side
 database.forEach((x) => {
 
     new Element('div').chain([
-        new Element('a').attr({ href: '#/' + x.title }).txedit(x.title)
+        new Element('a').attr({ href: '#/' + x.title }).c(x.title)
     ]).attach(sidebar);
 
 });

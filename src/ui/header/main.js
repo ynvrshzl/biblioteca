@@ -9,6 +9,6 @@ import {tree} from "../../tree.js"
  */
 tree.header.chain([
     new Element('span').css_list('left'),
-    new Element('span').css_list('title').txedit('Title'),
+    new Element('span').css_list('title').c('Title'),
     new Element('span').css_list('right'),
 ])
