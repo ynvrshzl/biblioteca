@@ -100,5 +100,14 @@ new Page().title('Cyberoptic-bioautomata')
             new Element('p').c(`But what if this ability, in short-term excess, is Entropy?`),
             new Element('p').c(` What if this could be measured in some sense, using Phenomenological Strategies? Self-reported scales of Cognitive Depletion by Measured Information Mechanics (Density, Novelty, Speed, Hops)`),
         ]),
-
     ).write()
+
+new Page()
+    .title('Continuity-mechanics-by-writers-block')
+    .body(
+        new Header(1).c('The Mechanics of Continuity'),
+        new Cell(`As soon as the writer focuses on the individual words, rather than the Telos; Continuity collapses.  `),
+        new Cell(`This implies specific mechanics about how we Human Beings process Complex Information and maintain internal Coherence and Continuity. Two ideas:`),
+        new Cell(` 1. Focus depends on scale (Only focusing on one scale of the world at a time) `),
+        new Cell(` 2. Continuity is a Cognitive process, much like a bike requires Gyrocnetric Equillibrum (Sufficient baseline velocity) in order to stay upright and balanced, and avoid collapsing. In Cyberoptic terms, this collapse would essentially be `).inlink({ href: '#/errata', text: 'Eratta.' })
+    ).write();
