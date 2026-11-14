@@ -43,7 +43,7 @@ function main(e) {
      * todo: moving to article/stage map!
      */
     stage.empt()
-    stage.txovr(match.content)
+    stage.cch(match.content)
 
 }
 
