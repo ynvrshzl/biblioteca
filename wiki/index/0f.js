@@ -1,6 +1,34 @@
 import { Highlight } from "../../lib/com.webtools3/main.js";
 import { Page, Cell, Element, Image, Header, Hyperlink, Description } from "../lib.js";
 
+
+new Page()
+    .title('README.md')
+    .properties({
+        version: '0.1.0',
+    }).body(
+        new Header(1).c(`Welcome to this project.`),
+        new Cell(`Read about it's purpose `).inlink({ href: '#', text: 'here.' }),
+        new Cell(`Who is this for? It's objectives, purpose and history`),
+        new Cell(`This project's purpose, it's beginnig and it's history, all begin in a common point; Principia Etheos/Ethica. This is essentialy a body of work which...`),
+        new Cell(`The Knowledge base is Divded into Domains: Each exploring a different`),
+        // new Cell(`How to navigate and use it properly, ...`),
+    ).write();
+
+new Page()
+    .title('central-thesis')
+    .properties({
+        version: '0.1.0',
+        status: 'editing',
+
+    }).body(
+        new Header(2).c(`Communication as an Invariant of Systems.`),
+        new Cell(`The Central Thesis of our Work in Cyberneering`),
+        new Cell(`Ultimately the art of writing, thinking and structuring information; is the art of Communication, and Communication is the Backbone of Systems and Living things;`).chain([new Element('b').c(` Communication may even be the fundamental source of Order.`)]),
+        
+        new Cell(`This is somewhat supported by it's Antithesis: The opposite of Communication; Disarray, is almost Textbook-Entropy. And no System can Survive Un-managed Entropy... therefore, this is somewhat of an Axiom of `).inlink({ href: '#/cyberneering', text: 'Cyberneering.' }),
+    ).write();
+
 new Page()
     .title(`Neuroframes`)
     .properties({
@@ -14,6 +42,7 @@ new Page()
         new Cell(`These are both interpeted Scientifically in our Work, and Mythologically, in our Youniverse work.`),
         new Cell(`"Psyframes", "Neuroframes" or "Mindframes" are both: Systems of Value (Our sense of Tethering Belief, Faith, Axioms, Truth, Reality) and War machines using the Mind as various Arrangements of War; Training Camp, Arena, Tournaments and real Battlefields (Psychefields)`)
     ).write();
+
 new Page()
     .properties({
         categories: ['philosophy'],

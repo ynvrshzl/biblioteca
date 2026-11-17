@@ -1,0 +1,1 @@
+"If you know what's going to happen (effect), you just have to trace backwards to the cause." -- Max Caulfield, Life is Strange: Reunion

@@ -1,0 +1,1 @@
+One of the purposes of writing is to structure thought.

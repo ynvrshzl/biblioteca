@@ -1,0 +1,3 @@
+Continuity may be defined as Contextual Temporal Locality: Historical Position in Space and Time.
+
+Links affords Continuity, and often, the Metaphor "Jump back in," reveals precisely this Quality. Links are "jumping into" places, but they are essentially pointers to other points; not points themselves. Somewhat isomorphic to Synapses. The Link shares the metaphorical membrane of a Neuron and Synapse

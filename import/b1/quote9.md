@@ -1,0 +1,1 @@
+"You were designed and created as a Unique Being; it is okay if you do not fully understand yourself. The purpose of life may not be to understand everything, my love, but to understand the few things; the few that matters most."

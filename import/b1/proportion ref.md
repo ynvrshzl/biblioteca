@@ -1,0 +1,1 @@
+We do not know the size or scale of an object, information... unless it is proportional in reference to another object of reference. In this sense, Perception and Understanding may be Cybernetic; requiring feedback, comparison and reference.

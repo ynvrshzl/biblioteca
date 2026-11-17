@@ -30,6 +30,15 @@ function init() {
 function main(e) {
 
     /**
+     * feature: default page
+     * logic: if the window has no hash, load default
+     * 
+     */
+    if (window.location.hash == ""){
+        window.location.hash = '/README.md'
+    }
+    
+    /**
      * hash from window
      */
     const hash = window.location.hash.slice(2);

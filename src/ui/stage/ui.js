@@ -11,7 +11,7 @@ tree.stage.header
     = new Element('header').cssq('sub-ui-component-section flex column')
 
 tree.stage.header.title
-    = new Element('h2').cssq('title').c('Title')
+    = new Element('h1').cssq('title').c('Title')
 
 
     /**
@@ -20,7 +20,7 @@ tree.stage.header.title
      * id: #3fe83151
      */
 Object.assign(tree.stage.header, {
-    properties: new Element('section').cssq('properties table')
+    properties: new Element('section').cssq('properties table').c('Properties | Author | Version | etc.')
 })
 
 

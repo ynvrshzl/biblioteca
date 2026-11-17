@@ -14,8 +14,10 @@ body {
     width: 100%;
     // overflow: hidden;
     scroll-behavior: smooth;
+    background-color: rgb(51, 52, 53);
     background-color: color-mix(in srgb, black 35%, var(--color-accent),);
     background-color: rgb(17, 17, 17);
+    background: black;
     color: white;
 
 }
@@ -54,7 +56,7 @@ main.application.layout.shell {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1;
 }
 h1 {
@@ -137,7 +139,7 @@ main > .stage header {
     align-items: center;
     // margin-block: 100px;
     padding-block: 100px;
-    background: #0000000e;
+    // background: #0000000e;
     // border-bottom: 1px solid #0000000f;
     // font-weight: 800;
 }
@@ -158,7 +160,8 @@ main>.stage {
     width: 100%;
     border-radius: 15px;
     overflow: hidden;
-    color: rgb(86, 81, 81);
+    // color: rgb(86, 81, 81);
+    color: black;
     overflow-y: auto;
     background-color: #00000005;
     background-image: radial-gradient(circle, rgba(148, 163, 184, 0.2) 1px, transparent 1px);
@@ -171,7 +174,7 @@ main>article .width-\[readable\] {
     // filter: blur(.5px);
     font-family: "Mynerve";
     padding: 15px;
-    width: 50ch;
+    width: 40ch;
     margin: 0 auto;
     // overflow-y: auto;
     height: 100%;
