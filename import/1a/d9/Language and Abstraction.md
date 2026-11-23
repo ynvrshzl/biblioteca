@@ -1,0 +1,1 @@
+In the context of Chaos MGMT/Complexity MGMT, Language reveals a fascinating property of Abstraction: Not merely as a Structural Compression Strategy: But a necessity.

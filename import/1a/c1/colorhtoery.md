@@ -1,0 +1,3 @@
+Color theory: What are genuinely useful, important and verifiable (within reason) applications of Color theory in UI/UX, perhaps even sourcing from related fields such as Semiotics, Gestalt Psychology, etc?
+
+Color is an incredibly important layer of visual information. Infact, color itself is processed as layers (values), however, the actual color theory may become complex and subjective once we begin formulating defiitions such as: "Blue exhibits trust, Red exhibits danger or errors or attention, etc." This is somewhat both Objective ( and Subjective (Cultural Signifiers?)

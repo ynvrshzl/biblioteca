@@ -1,0 +1,5 @@
+For Human life, what we are concerned with in our Theoretical, Analytical capabilities, is the Application of Information, specifically, the Domain of Knowledge. When we translate knowledge into Other forms, such as Ability, then it fulfills the role of Information; to give form to. 
+
+Now, The Terminus arbiter of Information is Application or Use. This is, however, incomplete; for Ethical Application superscedes Truth, 
+
+In some sense, Ethics are more real than real: what is real is self-evident, but what is Ethical, is Governing the Actions outside of the self-evident; it is not self-evident that one should compose oneself in one form over another. Though a classical, but indefensible argument, often argues from a position of "My Soceity, my DNA, My History, My Family, My Ancestors, bestowed the origin of Ethics." This is classic Moral Relativism (though let's not argue in this rabbit hole.)

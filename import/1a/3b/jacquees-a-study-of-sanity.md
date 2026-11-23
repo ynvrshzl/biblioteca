@@ -1,0 +1,9 @@
+One of the darkest characters is also one of the most intelligent; Jacquees Saint Larauen. 
+
+His whole argument is basically Nihilistic Abrusdity: "The longer oned lives, the more insane they may become, realizing our lives are futile and evil sometimes prevails... is this a world devoid of meaning and design? The longer one lives, the deeper the wounds. There is no healing."
+
+He's somewhat of a gray character; occyping a strange borderlands between Optimistic Realism and Pessimistic Apathy... he knows life contains both brutal suffering and 
+
+He basically goes insane (like Nietzche but much worse) trying to understand the Human Condition and solve problems. He is actually a mirror of sorts of Lawrence; a Hand of Justice. So why does Jacquees go Insane while Lawrence does not? Their story follows that question to it's deepest roots... and from what we know in real life; Beliefs and Value Theory are one of the most important (Hierarchically perhaps... the most important) aspect of the Human condition. In summary: Jacquees goes insane becuase he believes the weight of the world rests on his shoulders, not God, while Lawrence pushes himself and outsources the Humanity problem to a Higher Intelligence... often he does not call "God" but "Lord." Jacquees is increasingly bitter as he is confused "Why am i trying to be good, and paying ten times for it?" While Lawrence's attitude is "None of us are good, we must work our path, dilligently, and properly. Suffering... part of it."
+
+So he's basically Mephistopholes (Mephisto) in Human Form; capturing the Phenomenology of Futility... the dstranges thing about his life, is that he never directly suffers.

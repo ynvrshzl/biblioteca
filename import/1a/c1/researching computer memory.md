@@ -1,0 +1,1 @@
+What are other alternative concepts for "files" in the Computer Stoarge Memory system? If we were to model a little micro-machine, after the Neuronal Architecture of Memory (Neurons, Psynapses, Relevance, Context, Salience, Strengths, etc.) Then it is clear that the Hierarchical structure of memory, is only a Skeletal representation

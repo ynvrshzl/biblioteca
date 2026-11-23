@@ -1,0 +1,46 @@
+
+// sweeping hover link effect #e23a8519f8de
+a::before {
+    content: "Open >";
+    text-align: end;
+    left: 0;
+    // font-size: .8em;
+    width: 0;
+    text-overflow: clip;
+    white-space: nowrap;
+    position: absolute;
+    transition: right .5s .3s ease, width .5s .3s ease, color .5s .3s ease;
+    // background: transparent;
+
+
+    backdrop-filter: blur(1px);
+    // padding: 1px 5px;
+    // background-color: var(--color-accent-translucent-15);
+    color: transparent;
+    visibility: hidden;
+    // border-radius: 5px;
+    transform: rotateZ(-1deg);
+    // outline: 1px solid #00000033;
+
+}
+a::before {
+        background-color: var(--color-accent);
+}
+
+a:hover::before {
+    color: var(--text-on-accent);
+    right: 110%;
+    visibility: visible;
+    width: 100%;
+}
+
+
+article img:nth-child(1n) {
+
+    transform: rotateZ(2deg);
+}
+
+article img:nth-child(2n) {
+
+    transform: rotateZ(-2deg);
+}

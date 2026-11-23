@@ -1,0 +1,1 @@
+ Fundamentally, our work is rooted in Theology and Theodicy; that there is more to us than we will ever be able to comprehend. And that is the fundamental Axiom. Most of the issues we have are caused by lack of (Ignorance, Malovolance) or full desire of compresion (Totalitarian bControl)

@@ -32,7 +32,7 @@ export const tree = {
         /**
          * description: panel
          */
-        left: new Element('aside').cssq('panel').attr({ role: 'left' }),
+        left: new Element('aside').cssq('panel collapsed').attr({ role: 'left' }),
         /**
          * description: panel
          */
@@ -45,8 +45,8 @@ export const tree = {
  */
 tree.shell.attach(document.body)
 tree.header.attach(tree.shell);
-tree.footer.attach(tree.shell);
 tree.shell.insert(tree.nav)
 tree.shell.insert(tree.stage)
 tree.shell.insert(tree.panels.left);
 tree.shell.insert(tree.panels.right);
+tree.footer.attach(tree.shell);

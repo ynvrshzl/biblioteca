@@ -1,0 +1,3 @@
+<center>You are in a room. In this room, there are 5 doors. You do not know what is behind any of those doors, and you may only choose one door. I walk into the third door. It leads me somewhere new. I remember the room I just walked out of, I am not in the second room, of the third door.</center>
+
+This is the problem we face, perhaps, the fundamental problem; we need to be evaluating direction, and potentiality, but with care.

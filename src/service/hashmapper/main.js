@@ -58,5 +58,4 @@ function main(e) {
     tree.header.title.img.attr({src: match.image ?? "https://placehold.co/1x1/lightgray/lightgray"})
     
 }
-
 init();
