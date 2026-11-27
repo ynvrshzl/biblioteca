@@ -1,0 +1,1 @@
+"We are responsible not for faults; but for our duty. Failure to attend to one's duty, begets grave consequences."

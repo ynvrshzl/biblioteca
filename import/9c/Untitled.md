@@ -1,0 +1,1 @@
+cyberoptic excavation (top-down) is supported by cyberoptic expansion + tethering, while cyberoptic axiomata (bottom-up) requires linear-space-traversal of non-linear space.

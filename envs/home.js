@@ -55,8 +55,7 @@ stage.chain([
                 /**
                  * label: Background image
                  */
-                new Image({ src: 'https://images.pexels.com/photos/5549190/pexels-photo-5549190.jpeg' }).css_list('background-hero-card'),
-                // new Image({ src: 'https://cdn.wallpapersafari.com/72/41/rbOxuc.jpg' }).css_list('background-hero-card'),
+                // new Image({ src: 'https://images.pexels.com/photos/5549190/pexels-photo-5549190.jpeg' }).css_list('background-hero-card'),
 
             ])
 

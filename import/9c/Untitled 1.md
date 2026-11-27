@@ -1,0 +1,1 @@
+memory maps, navigation, 'the path reveals itself forward when momentum is derived via stable Telos.'

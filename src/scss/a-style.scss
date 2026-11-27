@@ -1,7 +1,7 @@
 
 // sweeping hover link effect #e23a8519f8de
 a::before {
-    content: "Open >";
+    content: "Open -> ";
     text-align: end;
     left: 0;
     // font-size: .8em;
@@ -9,7 +9,7 @@ a::before {
     text-overflow: clip;
     white-space: nowrap;
     position: absolute;
-    transition: right .5s .3s ease, width .5s .3s ease, color .5s .3s ease;
+    transition: right .5s ease, width .5s ease, color .5s ease;
     // background: transparent;
 
 
@@ -18,8 +18,8 @@ a::before {
     // background-color: var(--color-accent-translucent-15);
     color: transparent;
     visibility: hidden;
-    // border-radius: 5px;
-    transform: rotateZ(-1deg);
+    border-radius: 15px;
+    // transform: rotateZ(-1deg);
     // outline: 1px solid #00000033;
 
 }
@@ -28,19 +28,19 @@ a::before {
 }
 
 a:hover::before {
-    color: var(--text-on-accent);
+    color: white;
     right: 110%;
     visibility: visible;
     width: 100%;
 }
 
 
-article img:nth-child(1n) {
+// article img:nth-child(1n) {
 
-    transform: rotateZ(2deg);
-}
+//     transform: rotateZ(2deg);
+// }
 
-article img:nth-child(2n) {
+// article img:nth-child(2n) {
 
-    transform: rotateZ(-2deg);
-}
+//     transform: rotateZ(-2deg);
+// }

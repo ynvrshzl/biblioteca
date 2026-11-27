@@ -11,11 +11,11 @@ tree.stage.header
     = new Element('header').cssq('sub-ui-component-section flex column')
 
 tree.stage.header.title
-    = new Element('h1').cssq('title').c('Title')
+    = new Element('h1').cssq('title')
 
-tree.stage.breadcrumbs = new Element('section').cssq("breadcrumbs component size-[slim] flex row").c('path/to/article')
+tree.stage.breadcrumbs = new Element('section').cssq("breadcrumbs component size-[slim] flex row").c('path > to > article')
 
-tree.stage.footer = new Element('footer').css_list(`sub-ui-component-section`).c(` Citations, References, Etc.`);
+tree.stage.footer = new Element('footer').css_list(`sub-ui-component-section`).c(`(C) Citations, References, Etc.`);
 
 
 /**
@@ -24,7 +24,9 @@ tree.stage.footer = new Element('footer').css_list(`sub-ui-component-section`).c
  * id: #3fe83151
  */
 Object.assign(tree.stage.header, {
-    properties: new Element('section').cssq('properties table').c('Properties | Author | Version | etc.')
+    properties: new Element('section').cssq('properties container table'),
+    thumbnail: new Element('img').css_list('thumbnail'),
+    background: new Element('img').css_list('background')
 })
 
 
@@ -35,7 +37,10 @@ tree.stage.chain([
     tree.stage.breadcrumbs,
     tree.stage.header.chain([
         tree.stage.header.title,
-        tree.stage.header.properties
+        tree.stage.header.properties,
+        tree.stage.header.thumbnail,
+        tree.stage.header.background,
+        
     ]),
     tree.stage.content,
     tree.stage.footer

@@ -32,7 +32,7 @@ export const tree = {
         /**
          * description: panel
          */
-        left: new Element('aside').cssq('panel collapsed').attr({ role: 'left' }),
+        left: new Element('aside').cssq('panel').attr({ role: 'left' }),
         /**
          * description: panel
          */

@@ -1,0 +1,1 @@
+"I have lived, for as long as I can remember... The most importang thing I want to leave behind in my life is this: <mark>If You do not give up, I promise you, you will find all of the answers you need in this Life.</mark> Perhaps they aren't what you wish to be... but that is not necessarily a loss; Nothing beats the Cosmic surprise."
